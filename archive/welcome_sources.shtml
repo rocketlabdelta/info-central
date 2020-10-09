@@ -1,0 +1,156 @@
+<HTML>
+<HEAD><TITLE>Sources</TITLE>
+<LINK REL=STYLESHEET TYPE="text/css" HREF="infocentral.css" TITLE="INFOcentral">
+</HEAD>
+<BODY TEXT="#000000" LINK="#000000" VLINK="#000000" ALINK="#FF0000" BGCOLOR="#FFFFFF">
+<A NAME="TOP">
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=5 WIDTH=100%>
+<TR VALIGN=TOP>
+<TD><IMG SRC=images/space.gif width=130 height=1 border=0></TD>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><CENTER><h3>Sources</h3></CENTER></TD>
+</TR>
+
+<!-- SERVICES MENU-->
+<TR VALIGN=TOP>
+<TD>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+<TR>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+&#160;<B>WELCOME</B></FONT></TD></TR>
+<TR>
+<TD VALIGN=TOP>
+&#160;<A HREF=welcome_categories.shtml><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Categories</B></FONT></A>
+<BR>&#160;<A HREF="welcome_anatomy.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Rocket Anatomy</B></FONT></A>
+<BR>&#160;<A HREF="welcome_terms.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Terms</B></FONT></A>
+<BR>&#160;<A HREF="welcome_motors.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Motors</B></FONT></A>
+<BR>&#160;<A HREF="welcome_starting.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Starting Out</B></FONT></A>
+<BR>&#160;<A HREF="welcome_design.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Rocket Design</B></FONT></A>
+<BR>&#160;<A HREF="welcome_laws.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Laws &amp; Regs.</B></FONT></A>
+<BR>&#160;<A HREF="welcome_clubs.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Clubs</B></FONT></A>
+<BR>&#160;<A HREF="welcome_sources.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Sources</B></FONT></A>
+<BR>&#160;<A HREF="welcome_safety.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Safety</B></FONT></A>
+<BR>&#160;<A HREF="welcome_links.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Links</B></FONT></A>
+<P>
+<B>&#160;ELSEWHERE</B><BR>
+&#160;<A HREF="http://www.flyrockets.com/" TARGET=_top><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>flyrockets.com</B></FONT></A>
+</TD>
+</TR>
+</TABLE>
+<P><BR>
+<CENTER>
+<TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 WIDTH=115>
+<TR>
+<TD><IMG SRC="images/search_site.gif" ALT="Search the site!" WIDTH="115" HEIGHT="50" VSPACE="0" HSPACE="0" BORDER="0"></TD>
+</TR>
+
+<TR>
+<TD><FORM METHOD = "post" ACTION = "Search/search_engine.cgi">
+<CENTER>
+<INPUT TYPE="text" NAME="keywords" SIZE=13 VALUE="Enter a word">
+</CENTER></TD>
+</TR>
+
+<TR>
+<TD><INPUT TYPE="image" SRC="images/find_it.gif" WIDTH="115" HEIGHT="28" VSPACE=2 ALT="Find It!" NAME="Find It!" VSPACE="0" HSPACE="0" BORDER=0></FORM></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+</TD>
+
+<TD VALIGN=TOP>
+
+
+<!--TEXT AREA-->
+<FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE="-1">
+
+<P>
+The best way to get started in rocketry is to buy an Estes or Quest kit at your
+local hobby shop or larger toy store.
+These rockets are complete, easy to build, and come with detailed instructions.
+Model rockets generally have a level of difficulty indicated which ranges from
+completely pre-built rockets (ready to fly) to "level 4" rockets which require
+cutting out pieces from raw materials and complex painting.
+Two great Estes kits to start with are the <I>Alpha III</I> which is very easy to build
+and the <I>Black Brant II</I> which is more fun for those with some model-building skill.
+Estes now has a <A HREF="http://www.estesrockets.com/" TARGET=_top>web site.</A>
+</P>
+
+<P>
+For mid-power rocketry, the largest company is
+<A HREF="http://www.aerotech-rocketry.com" TARGET=_top>AeroTech</A> and their
+<I>Initiator</I> and <I>Arreau</I> rockets make good introductory kits.
+The AeroTech kits come complete and with detailed building instructions.
+These are more work than model rockets, but don't require any very advanced
+skills.
+</P>
+
+<P>
+For high-power rocketry, the two largest companies are
+<A HREF="http://www.locprecision.com" TARGET=_top>Loc/Precision</A>
+and
+<A HREF="http://www.publicmissiles.com" TARGET=_top>Public Missiles, Ltd.</A>
+Anything in the Loc/Precision
+<A HREF="http://www.locprecision.com/novice_kit_series.htm" TARGET=_top>Novice Kit Series</A>
+makes a good starter mid-power kit with high-power construction techniques and
+the <I>Graduator</I> and <I>Forte</I> are popular high-power kits.
+The P.M.L. <I>Ariel</I> and <I>D-region Tomahawk</I> are also good starter kits,
+and for the more adventurous, the <I>Bull Puppy</I> makes a great-looking rocket.
+</P>
+
+<P>
+Kit manufacturers will list several recommend motors.  Take their recommendations
+seriously.  Too weak a motor will result in an unstable flight and too powerful
+a motor will destroy the rocket.
+See the <B>Rocket Design</B> section for background information.
+The ejection delay is also critical for a successful flight because too short or
+too long will case the rocket to open up while it is still travelling too fast
+and the two sections will come apart (a separation).
+</P>
+
+<P>
+Amateur rocketry is all about doing everything yourself, so no kits here.
+Some larger launches attract companies such as Thunderflame Associates which
+hold motor-making classes, but your best bet is to find other amateurs in
+your area and work with them.
+Scratch-building supplies can be purchased mail-orders from many vendors.
+<A HREF="http://www.giantleaprocketry.com" TARGET=_top>Giant Leap Rocketry</A>,
+<A HREF="http://www.missileworks.com" TARGET=_top>Missile Works</A> and
+<A HREF="http://www.magnumrockets.com/" TARGET=_top>Magnum Rocket Hobbies</A>
+are a few of the largest.
+</P>
+
+<P>
+This list is far from complete and we don't want to slight any of the companies not mentioned.
+The
+<A HREF="http://www.rocketryonline.com/Search/db_search.cgi?setup_file=URL&submit_search=yes&category=Vendor" TARGET=_top>Rocketry Online Vendors</A>
+section includes many other excellent companies making and selling kits, motors, parts and supplies.
+</P>
+
+<I>Submitted by John Coker</I>
+</TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD VALIGN=CENTER><A HREF="#TOP"><IMG SRC=images/backtotop.gif border=0></A></TD>
+<TD>
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<!--ADVERTISEMENT-->
+
+
+
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<CENTER>
+<FONT SIZE="-2" FACE="ARIAL"><B>Copyright &#169; 1996-2000, Rocketry Online, all rights reserved.<BR>
+</CENTER>
+</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>

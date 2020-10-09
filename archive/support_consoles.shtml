@@ -1,0 +1,181 @@
+<HTML>
+<HEAD><TITLE>Firing Consoles</TITLE>
+<LINK REL=STYLESHEET TYPE="text/css" HREF="file:///C:/Documents and Settings/Darrell Mobley/My Documents/My Web Sites/Info-Central/infocentral.css" TITLE="INFOcentral">
+</HEAD>
+<BODY TEXT="#000000" LINK=""#000000" VLINK="#000000" ALINK="#FF0000" BGCOLOR="#FFFFFF">
+<A NAME="TOP"></a>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=5 WIDTH=100%>
+<TR VALIGN=TOP>
+<TD><IMG SRC=images/space.gif width=130 height=1 border=0></TD>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><CENTER><h3>Firing Consoles</h3></CENTER></font></TD>
+</TR>
+
+<!-- SERVICES MENU-->
+<TR VALIGN=TOP>
+<TD>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+<TR>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+&#160;<B>GROUND SUPPORT</B></FONT></TD></TR>
+<TR>
+<TD VALIGN=TOP>
+&#160;<A HREF=support_launcher.shtml><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Launch Pads</B></FONT></A>
+<BR>&#160;<A HREF="support_consoles.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Firing Consoles</B></FONT></A>
+<BR>&#160;<A HREF="support_clipwhip.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Clip Whips</B></FONT></A>
+<BR>&#160;<A HREF="support_relaylauncher.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Build a Launcher</B></FONT></A>
+<BR>&#160;<A HREF="support_launchpad.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Build a Launch Pad</B></FONT></A>
+<BR>&#160;<A HREF="support_multilauncher.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Multi-Pad Launcher</B></FONT></A>
+<BR>&#160;<A HREF="support_igniters.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Solderless Igniters</B></FONT></A>
+<BR>&#160;<A HREF="support_copperheads.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Copperheads</B></FONT></A>
+<BR>&#160;<A HREF="support_clusterwires.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Cluster Wires</B></FONT></A>
+</TD>
+</TR>
+</TABLE>
+<P><BR>
+<CENTER>
+<TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 WIDTH=115>
+<TR>
+<TD><IMG SRC="images/search_site.gif" ALT="Search the site!" WIDTH="115" HEIGHT="50" VSPACE="0" HSPACE="0" BORDER="0"></TD>
+</TR>
+
+<TR>
+<TD><FORM METHOD = "post" ACTION = "Search/search_engine.cgi">
+<CENTER>
+<INPUT TYPE="text" NAME="keywords" SIZE=13 VALUE="Enter a word">
+</CENTER></TD>
+</TR>
+
+<TR>
+<TD><INPUT TYPE="image" SRC="images/find_it.gif" WIDTH="115" HEIGHT="28" VSPACE=2 ALT="Find It!" NAME="Find It!" VSPACE="0" HSPACE="0" BORDER=0></FORM></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+</TD>
+
+<TD VALIGN=TOP>
+
+
+<!--TEXT AREA-->
+<FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+<B>Introduction</B><BR>
+What do we need to reliably and safely fire our model rockets? Well, the minimalist approach is simple enough as presented by G. Harry Stine in the <I>Handbook of Model Rocketry</I> (<A HREF="support_consoles_hmrch6.shtml">excerped here</A>) and available through the basic <A HREF="support_consoles_estesebeam.shtml">Estes Electron Beam&reg;</A> launch controller. A small step up is a simple launch controller using an external 12v battery such as the 
+<A HREF="support_consoles_atinterlock.shtml">AeroTech Interlock™</A> launch controller.
+<P>
+
+Things which might be desired beyond this are:
+<UL>
+<LI>Higher power battery for quicker, more reliable ignition
+<LI>Removal of the continuity lamp to avoid firing exotic igniters
+<LI>Easier-to-manage connection between hand-held unit and actual controller
+<LI>Computer interface for launch controller
+</UL>
+<P>
+
+There is a nice home-brew launch controller system, designed by <A HREF="http://www.xmission.com/~mgm/rockets/launcher.html">Michael Moncur</A>. This seems very close to what is mentioned above.  He uses relays instead of a transistor circuit for the continuity check, but otherwise the systems are very similar. Another interesting one-piece system by
+<A HREF="http://www.gate.net/~rdbright/rm2k.htm">Robert Bright</A> supports three ignitors at once.
+<P>
+
+There are some commercial controllers listed below which already address some of these problems.
+<P>
+<A NAME="ideas"></a>
+<B>Ideas for a Better Launch Controller</B><BR>
+Below are ideas for solutions to the improvements suggested above. These are designed for minimal hardware ability.  Luckily there are many pre-made units for prototyping embedded systems which provide useful functionality.
+<P>
+
+<B>Higher Power Battery</B><BR>
+For the best results use a motorcycle battery. Lead-acid batteries can source a large amount of current, will launch many rockets on a single charge and can be recharged.  Sealed motorcycle batteries (unbiquitous in R/C airplane field boxes) are also relatively small and light. 
+<P>
+
+Apparently NiCd batteries are also good for this use since they will put a lot of current into a short.  A large NiCd pack might be the best answer. Motorcycle batteries have also been regularly used for starting R/C airplane motors and have never presented problems doing so.
+<P>
+
+Of course, if you have a source of A/C power, you could use a standard A/C brick to get a quick 12VDC (or 6, 9, 15, 18V) power source, however if you want to keep your setup totally portable, A/C power and car batteries aren't options. Lantern batteries apparently can't source the necessary current, have short lives at high current levels, and aren't rechargable.
+<P>
+
+<B>Removal of the Continuity Lamp</B><BR>
+This can be done using a simple transistor circuit so that the current leakage across the ignitor is minimal.
+Some ignitors (flashbulbs and electric matches) will fire at low current levels (< 60ma) so keeping continuity lamps/buzzers from passing significant current through the ignitor is essential.
+<P>
+
+<B>Easier-to-manage Connection</B><BR>
+The best connection would be wireless.  There have been arguments not to use wireless communications because stray noise or interference could trigger the launch.  Ideally, the units would use digital communication including matching serial numbers to avoid noise interference or launching someone else's rocket.  Unfortunately this eliminates standard R/C controllers (except maybe PCM) for an off-the-shelf solution.  Most surface R/C radios use AM (since they're generally over short distances), but Futaba makes a PCM car radio (the XXX) which would broadcast on the allowed surface frequencies.  There would still be no way to avoid the problem which R/Cers face when two people want to use the same channel.
+<P>
+
+Of course, the battery and controller base could stay near the rocket (presumably in a small field box) and only the handheld unit would need to have a long connection to the controller base. This means one could use a low-current signal to trigger a relay in the controller base allowing a more convenient physical connection.  Low current, low voltage (12V) signalling like used in telephone lines are perfect for this.  Telephone cords come in many flavors, coiled and with built-in retractors.  And, it's much easier to handle than lamp cord.
+<P>
+
+Also, since telephone cord comes in 1-, 2- or 3-pair conductors (and data cable in 4-pair) you could have additional communication channels.  The most interesting one is to drive a continuity indicator on the handset.  A handset could control up to 7 ignitors (without handset continuity indicators) with a 4-pair wire (using a common ground).  A trade-off between continuity indicators and number of ignitors could be made here.  For example, using 4-pair wire, one connection could control 3 ignitors, including continuity indicators.  Or 2-pair could control one ignitor and continuity indicator.
+<P>
+
+Note that using telephone wire and direct signalling such as described above requires no special tools or knowlege and should be 100% reliable. Noise won't affect the signal.  RF won't create a strong enough current to switch a relay. You can't launch someone elses rocket without the physical connection.
+<P>
+
+<B>Computer Interface</B><BR>
+Why would you want a computer interface?  Well, if you have to ask you probably don't. Suffice it to say that if you have more than one hobby, the temptation to combine them is great. 
+<P>
+
+Of course, there <I>are</I> real reasons to have computer control as an option:
+<UL>
+<LI>Synchronization of multiple rockets or multiple engine rockets
+<LI>Overall control of a launch site to prevent multiple simulataneous launches
+<LI>Synchronization of launches with external events
+<LI>Synchronization of on-board instruments with launching
+</UL>
+<P>
+
+There are several obvious approaches to computer integration:
+<UL>
+<LI>An external controller which communicates to the computer through an RS232 interface
+<LI>An custom internal (PC card) controller
+<LI>A digital I/O card with solid state relays
+</UL>
+(It is assumed that the PC can't source the current for launching, therefore it is only controlling relays for an external launch controller.)
+<P>
+
+<A NAME="commercial"></a>
+<B>Commercial Controllers</B><BR>
+The Estes <A HREF="support_consoles_estesebeam.shtml">Estes Electron Beam&reg;</A> launch controller is venerable (known to old-timers as the "Estes Solar"). Estes doesn't have a web site, but these can be found in any hobby shop or through <A HREF="http://www.hobbylinc.com/rockets/rocket1.htm">HobbyLinc</A> in their
+Estes section (starter kits).
+<P>
+
+The first step up seems to be the <A HREF="support_consoles_atinterlock.shtml">Aerotech Interlock™</A>
+launch controller. This unit connects to a motorcycle or car battery for power with large aligator clips
+and provides higher power than the penlight battery-type controllers.
+      <P> <A HREF="http://www.pratthobbies.com/">Pratt Hobbies</A> Offers a nice 
+        launch controller which looks like the best of the currently avaialable 
+        "box and wires" controllers. More information on the <A HREF="http://www.pratthobbies.com/lb.html">Launch 
+        Box</A> is on their site.
+      <P>
+<I>Submitted by John Coker</I>
+</font></TD>
+</TR>
+<TR VALIGN=TOP>
+<TD VALIGN=CENTER><A HREF="#TOP"><IMG SRC=images/backtotop.gif border=0></A></TD>
+<TD>
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<!--ADVERTISEMENT-->
+
+<CENTER>
+<A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ProjectTS"><IMG WIDTH=468 HEIGHT=60 VSPACE=3 BORDER=1 SRC="http://www.rocketryonline.com/cgi-bin/banners/getimage.cgi?AD=ProjectTS" ALT="Sixteen feet of endorphins!"></A>
+</CENTER>
+<CENTER>
+<FONT SIZE=1>Check out our advertiser: <A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ProjectTS">Sixteen feet of endorphins!</A></FONT>
+</CENTER>
+
+
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<CENTER>
+<FONT SIZE="-2" FACE="ARIAL"><B>Copyright &#169; 1996-2000, Rocketry Online, all rights reserved.<BR>
+</b></font></CENTER>
+</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>

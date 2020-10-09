@@ -1,0 +1,196 @@
+<HTML>
+<HEAD><TITLE>Tracking</TITLE>
+<LINK REL=STYLESHEET TYPE="text/css" HREF="file:///C:/Documents and Settings/Darrell Mobley/My Documents/My Web Sites/www.info-central2.org/infocentral.css" TITLE="INFOcentral">
+</HEAD>
+<BODY TEXT="#000000" LINK=""#000000" VLINK="#000000" ALINK="#FF0000" BGCOLOR="#FFFFFF">
+<A NAME="TOP">
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=5 WIDTH=100%>
+<TR VALIGN=TOP>
+<TD><IMG SRC=images/space.gif width=130 height=1 border=0></TD>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><CENTER><h3><B>Tracking</h3></CENTER></TD>
+</TR>
+
+<!-- SERVICES MENU-->
+<TR VALIGN=TOP>
+<TD>
+
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+<TR>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+&#160;<B>RECOVERY</B></FONT></TD></TR>
+<TR>
+<TD VALIGN=TOP>
+&#160;<A HREF=recovery_techniques.shtml><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Basic Techniques</B></FONT></A><BR>
+&#160;<A HREF=recovery_design.shtml><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Recovery Design</B></FONT></A><BR>
+&#160;<A HREF="recovery_2stage_design.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Two Stage Design</B></FONT></A><BR>
+&#160;<A HREF="recovery_harness.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Recovery Harness</B></FONT></A><BR>
+&#160;<A HREF="recovery_eject.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Ejection Systems</B></FONT></A><BR>
+&#160;<A HREF="recovery_canister.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Ejection Charges</B></FONT></A><BR>
+&#160;<A HREF="recovery_powder.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Black Powder Use</B></FONT></A><BR>
+&#160;<A HREF="recovery_ematches.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Electric Matches</B></FONT></A><BR>
+&#160;<A HREF="recovery_protector.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Chute Protection</B></FONT></A><BR>
+&#160;<A HREF="recovery_psize.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Main Chute Sizing</B></FONT></A><BR>
+&#160;<A HREF="recovery_drogue.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Drogue Sizing</B></FONT></A><BR>
+&#160;<A HREF="recovery_cordinfo.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>TN &amp; Cord Info.</B></FONT></A><BR>
+&#160;<A HREF="recovery_attachments.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Attachments</B></FONT></A><BR>
+&#160;<A HREF="recovery_deploybag.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Deployment Bags</B></FONT></A><BR>
+&#160;<A HREF="recovery_horizspin.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Backwards Sliding</B></FONT></A><BR>
+&#160;<A HREF="recovery_droptable.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Drop Table</B></FONT></A><BR>
+&#160;<A HREF="recovery_xformdescent.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>X-form Descent</B></FONT></A><BR>
+&#160;<A HREF="recovery_barotester.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Baro Tester</B></FONT></A><BR>
+&#160;<A HREF="recovery_calculators.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Calculators (IE)</B></FONT></A><BR>
+&#160;<A HREF="recovery_vbcalcs.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Calcs. (download)</B></FONT></A><BR>
+&#160;<A HREF="recovery_tracking.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Tracking</B></FONT></A><BR>
+&#160;<A HREF="recovery_dualdeploy.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Dual Deploy</B></FONT></A><BR>
+<P>
+<B>&#160;ELSEWHERE</B>
+<BR>&#160;<A HREF="http://members.aol.com/ricnakk/paracon.html" TARGET=_top><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Parachute Design</B></FONT></A>
+</TD>
+</TR>
+</TABLE>
+<P><BR>
+<CENTER>
+<TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 WIDTH=115>
+<TR>
+<TD><IMG SRC="images/search_site.gif" ALT="Search the site!" WIDTH="115" HEIGHT="50" VSPACE="0" HSPACE="0" BORDER="0"></TD>
+</TR>
+
+<TR>
+<TD><FORM METHOD = "post" ACTION = "Search/search_engine.cgi">
+<CENTER>
+<INPUT TYPE="text" NAME="keywords" SIZE=13 VALUE="Enter a word">
+</CENTER></TD>
+</TR>
+
+<TR>
+<TD><INPUT TYPE="image" SRC="images/find_it.gif" WIDTH="115" HEIGHT="28" VSPACE=2 ALT="Find It!" NAME="Find It!" VSPACE="0" HSPACE="0" BORDER=0></FORM></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+</TD>
+
+<TD VALIGN=TOP>
+
+<!--TEXT AREA-->
+<FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+<P>
+Ok, we had a good flight and your rocket is up there somewhere. Keeping
+it in sight is sometimes difficult, especially if it is high up and upper
+altitude wind conditions are unknown. And, landing sites often are
+obstructed with brush, crops and the terrain. So, how do you find it?
+
+<P><B>Visual Tracking</B>
+
+<P>
+Use a parachute color that will contrast with the sky and also ground
+features.  The most visible color I have seen was a "neon pink". It lit up
+in the sunlight like a bright chinese lantern and the color was quite
+visible against the blue sky. Other colors work to varying
+degrees. Usually, the brighter color, the better it will be seen. (as long
+as it has contrast against the sky)
+ 
+<P>
+Visual tracking can also be enhanced with a highly reflective ribbon of
+holographic mylar film if it is large enough. It is commonly available as
+wrapping tissue. In bright sunlight it sparkles much as a strobe light and
+may be visible at altitudes that render the parachute too small to be seen.
+
+<P>
+Use a big ribbon. As a minimum, I have found that a 2" x 12" ribbon worked
+well at 1600' altitudes, less than that and it wasn't visible enough. At
+higher altitudes more will be needed. The bigger the better.
+
+<P>
+Use care to ensure it does not foul the chute deployment.
+
+<P>
+Sheets of this material can also be used to make smaller chutes, perhaps up
+to at least 18" diameter.
+
+<P>
+Use a visible color to paint your rocket, and if polished it may reflect
+the sunlight in flashes as it is drifting down and swinging under the
+chute.
+
+<P>
+Strobe lights have also been used, usually mounted in the nose cone. The
+more powerful the better(this means a bigger charge capacitor)
+
+<P>
+A good pair of binoculars will help greatly. A pair with a narrow field of
+view will make it difficult finding the rocket, use a pair with an ample
+field of view.
+
+<P><B>Radio Tracking</B>
+
+<P>
+This is a very good method. There are commercially available units normally
+used for tracking falcons and other small wildlife that have been used
+successfully on rockets. They are quite durable and perform well. One well
+known brand is "Walston", it performs very well and is used by many in HPR.
+
+<P>
+Also, some rocketeers have used GMRS and other radio equipment though the
+strict legality of these for this purpose may be questionable at best.
+
+<P>
+The FCC may not be as aggressive as the BATFE, but why push the issue?
+There are radio bands that the FCC has approved for radio tracking.  The
+FCC website www.fcc.gov has all the info needed to determine proper usage
+of the radio bands.
+
+<P>
+A directional antenna will needed to "point" to your
+rocket. The range can be quite good even with a very low power transmitter.
+
+<P><B>Audio Tracking</B>
+
+<P>
+Using a small alarm module such as a "Sonalert"(tm) or similar device, you
+can track your rocket at the landing site by just listening for it once you
+get within hearing range. These are available with 110db or higher sound
+levels and usually use anywhere from 3 to 12 volts at low current levels
+appropriate to small batteries.
+
+<P>
+I've not tested, but believe would help, is a hearing enhancing
+device. I've seen one advertised on TV touting the benefits of hearing
+things you never heard before. Equipped with a directional microphone this
+could be effective in retrieving beeper equipped rockets that land in crop
+fields.
+
+<P>
+<BR CLEAR=ALL>
+<I>Submitted by Dan King</I>
+</TD>
+</TR>
+<TR VALIGN=TOP>
+<TD VALIGN=CENTER><A HREF="#TOP"><IMG SRC=images/backtotop.gif border=0></A></TD>
+<TD>
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<!--ADVERTISEMENT-->
+
+<CENTER>
+<A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ROL_Forums"><IMG WIDTH=468 HEIGHT=60 VSPACE=3 BORDER=1 SRC="http://www.rocketryonline.com/cgi-bin/banners/getimage.cgi?AD=ROL_Forums" ALT="Check out the rocketry talk!"></A>
+</CENTER>
+<CENTER>
+<FONT SIZE=1>Check out our advertiser: <A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ROL_Forums">Check out the rocketry talk!</A></FONT>
+</CENTER>
+
+
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<CENTER>
+<FONT SIZE="-2" FACE="ARIAL"><B>Copyright &#169; 1996-2000, Rocketry Online, all rights reserved.<BR>
+</CENTER>
+</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>

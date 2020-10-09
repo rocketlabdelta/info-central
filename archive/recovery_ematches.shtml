@@ -1,0 +1,343 @@
+<HTML>
+<HEAD><TITLE>Electric Matches</TITLE>
+<LINK REL=STYLESHEET TYPE="text/css" HREF="file:///C:/Documents and Settings/Darrell Mobley/My Documents/My Web Sites/www.info-central2.org/infocentral.css" TITLE="INFOcentral">
+</HEAD>
+<BODY TEXT="#000000" LINK=""#000000" VLINK="#000000" ALINK="#FF0000" BGCOLOR="#FFFFFF">
+<A NAME="TOP">
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=5 WIDTH=100%>
+<TR VALIGN=TOP>
+<TD><IMG SRC=images/space.gif width=130 height=1 border=0></TD>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><CENTER><h3><B>Electric Matches</h3></CENTER></TD>
+</TR>
+
+<!-- SERVICES MENU-->
+<TR VALIGN=TOP>
+<TD>
+
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+<TR>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+&#160;<B>RECOVERY</B></FONT></TD></TR>
+<TR>
+<TD VALIGN=TOP>
+&#160;<A HREF=recovery_techniques.shtml><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Basic Techniques</B></FONT></A><BR>
+&#160;<A HREF=recovery_design.shtml><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Recovery Design</B></FONT></A><BR>
+&#160;<A HREF="recovery_2stage_design.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Two Stage Design</B></FONT></A><BR>
+&#160;<A HREF="recovery_harness.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Recovery Harness</B></FONT></A><BR>
+&#160;<A HREF="recovery_eject.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Ejection Systems</B></FONT></A><BR>
+&#160;<A HREF="recovery_canister.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Ejection Charges</B></FONT></A><BR>
+&#160;<A HREF="recovery_powder.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Black Powder Use</B></FONT></A><BR>
+&#160;<A HREF="recovery_ematches.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Electric Matches</B></FONT></A><BR>
+&#160;<A HREF="recovery_protector.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Chute Protection</B></FONT></A><BR>
+&#160;<A HREF="recovery_psize.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Main Chute Sizing</B></FONT></A><BR>
+&#160;<A HREF="recovery_drogue.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Drogue Sizing</B></FONT></A><BR>
+&#160;<A HREF="recovery_cordinfo.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>TN &amp; Cord Info.</B></FONT></A><BR>
+&#160;<A HREF="recovery_attachments.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Attachments</B></FONT></A><BR>
+&#160;<A HREF="recovery_deploybag.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Deployment Bags</B></FONT></A><BR>
+&#160;<A HREF="recovery_horizspin.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Backwards Sliding</B></FONT></A><BR>
+&#160;<A HREF="recovery_droptable.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Drop Table</B></FONT></A><BR>
+&#160;<A HREF="recovery_xformdescent.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>X-form Descent</B></FONT></A><BR>
+&#160;<A HREF="recovery_barotester.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Baro Tester</B></FONT></A><BR>
+&#160;<A HREF="recovery_calculators.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Calculators (IE)</B></FONT></A><BR>
+&#160;<A HREF="recovery_vbcalcs.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Calcs. (download)</B></FONT></A><BR>
+&#160;<A HREF="recovery_tracking.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Tracking</B></FONT></A><BR>
+&#160;<A HREF="recovery_dualdeploy.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Dual Deploy</B></FONT></A><BR>
+<P>
+<B>&#160;ELSEWHERE</B>
+<BR>&#160;<A HREF="http://members.aol.com/ricnakk/paracon.html" TARGET=_top><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Parachute Design</B></FONT></A>
+</TD>
+</TR>
+</TABLE>
+<P><BR>
+<CENTER>
+<TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 WIDTH=115>
+<TR>
+<TD><IMG SRC="images/search_site.gif" ALT="Search the site!" WIDTH="115" HEIGHT="50" VSPACE="0" HSPACE="0" BORDER="0"></TD>
+</TR>
+
+<TR>
+<TD><FORM METHOD = "post" ACTION = "Search/search_engine.cgi">
+<CENTER>
+<INPUT TYPE="text" NAME="keywords" SIZE=13 VALUE="Enter a word">
+</CENTER></TD>
+</TR>
+
+<TR>
+<TD><INPUT TYPE="image" SRC="images/find_it.gif" WIDTH="115" HEIGHT="28" VSPACE=2 ALT="Find It!" NAME="Find It!" VSPACE="0" HSPACE="0" BORDER=0></FORM></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+</TD>
+
+<TD VALIGN=TOP>
+
+
+<!--TEXT AREA-->
+<FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+Rockets that use electronics, such as an altimeter or timer, to deploy
+the
+recovery system need igniters to ignite the black powder ejection
+charge.
+Desired characteristics of an ejection charge igniter are listed below.
+<P>
+<OL>
+	<LI>Require low current to fire so that it can be used with common
+		rocketry electronics. Most motor igniters require far more
+		current than rocketry electronics can deliver to an igniter.
+	<LI>A short burn with little flame - long enough to ignite the
+ejection charge
+		but not too long to ignite the recovery system or airframe.
+	<LI>Reliable
+</OL>
+
+<P>
+
+Most rocket motor igniters are high current igniters, and will not work
+with
+most rocketry electronics. Motor igniters are designed to produce a
+large fireball
+for a long period of time (1/2 - 1 second), which is not desireable
+inside a rocket's
+airframe.
+Igniters acceptable as ejection charge ignition are listed below.
+(Electrical igniters are also sometimes called electric matches.)
+
+<P>
+
+<UL>
+	<LI>Daveyfire SA2000 N28B
+	<LI>Daveyfire SA2000 N28BR
+	<LI>Oxral
+	<LI>Atlas
+	<LI>HiRMI
+</UL>
+
+<P>
+The list may not include all available low current igniters.
+Manufacturers come
+and go, and models change.
+<P>
+The list does not include photographic flashbulbs. The author does not
+believe
+that flashbulbs are acceptable as ejection charge igniters due to
+questions
+of reliability and accidental firing.
+
+<P>
+<FONT SIZE=+1><B>Daveyfire Inc.</B></FONT>
+<P>
+
+Daveyfire is a company that manufactures igniters for consumer products
+like 
+automobile airbags, the blasting industry and the military. They are
+also used
+by the fireworks display industry. The igniters are very reliable.
+(Note: Daveyfire
+is a specific company, not a generic term for "electronic matches" or
+ejection charge
+igniters. Some rocketry supply vendors incorrectly sell other brands of
+igniters 
+as "Daveyfires.")
+<P>
+Daveyfire products suitable for ejection charge igniters are models
+SA2000 N28B,
+SA2000 N28BR and SA2000 N28F. The N28B is most commonly used. The N28BR
+model
+is the same as the N28B except that it has 3 times the pyrogen. The
+N28F burns
+about 20 times longer than the N28B, but the burn time is still brief.
+Details are listed below.
+<P>
+
+<!-- Daveyfire Specs -->
+<center>
+<table border=1>
+<caption><B>Daveyfire Igniter Specification</B></caption>
+<tr>
+	<th>Model</TH>
+	<th>Bridgewire Resistance (Ohms)</th>
+	<th>Max No Fire Current (Amp)</th>
+	<th>Min All Fire Current (Amp)</th>
+	<th>Ave. Firing Time</th>
+	<th>Explosive Charge Per Head (grams)</th>
+	<th>Wire Color</th>
+</tr>
+
+<tr>
+	<td>SA 2000 N28B</td>
+	<td align=right>1.6 +- 0.3</td>
+	<td align=right>0.20</td>
+	<td align=right>0.37</td>
+	<td
+align=right>2&nbsp;ms&nbsp;at&nbsp;1&nbsp;Amp<BR>1&nbsp;ms&nbsp;at&nbsp;3&nbsp;Amp</td>
+	<td align=right>0.16</td>
+	<td align=center>white</td>
+</tr>
+
+<tr>
+	<td>SA 2000 N28BR</td>
+	<td align=right>1.6 +- 0.3</td>
+	<td align=right>0.20</td>
+	<td align=right>0.37</td>
+	<td
+align=right>2&nbsp;ms&nbsp;at&nbsp;1&nbsp;Amp<BR>1&nbsp;ms&nbsp;at&nbsp;3&nbsp;Amp</td>
+	<td align=right>0.48</td>
+	<td align=center>orange</td>
+</tr>
+
+<tr>
+	<td>SA 2000 N28F</td>
+	<td align=right>1.6 +- 0.3</td>
+	<td align=right>0.40</td>
+	<td align=right>1.00</td>
+	<td align=right>40&nbsp;ms&nbsp;at&nbsp;2&nbsp;Amp</td>
+	<td align=right>N/A</td>
+	<td align=center>black</td>
+</tr>
+</table>
+</center>
+
+
+<P>
+
+Some rocketry supply vendors sell Daveyfire igniters in small
+quantities. 
+They can also be purchased in bulk only (usually a minimum order of one
+box 
+of 100 igniters) from the company listed below.
+<P>
+Coonies Explosive, Inc.
+<BR>
+P.O. Box 2062
+<BR>
+Hobbs, NM 88241
+<BR>
+Voice: 505-393-0166
+<BR>
+Fax: 505-393-6060
+
+<P>
+
+<FONT SIZE=+1><B>Oxral</B></FONT>
+<P>
+Oxral igniters have worked well for ejection charge igniters. Some
+rocketry supply
+vendors sell them. They are also sold by 
+<a href="http://www.skylighter.com" target=_blank>Skylighter, Inc.</A>,
+a fireworks
+supply company.
+
+<P>
+<table border=1>
+<caption><B>Oxral Igniter Specification</B></caption>
+<tr>
+	<th>Bridgewire Resistance (Ohms)</th>
+	<th>Max No Fire Current (Amp)</th>
+	<th>Min All Fire Current (Amp)</TH>
+	<th>Ave. Firing Time</TH>
+	<th>Explosive Charge Per Head (grams)</TH>
+</tr>
+
+<tr>
+	<td align=right>2</td>
+	<td align=right>0.20</td>
+	<td align=right>0.50</td>
+	<td align=right>N/A</td>
+	<td align=right>N/A</td>
+</tr>
+
+</table>
+
+<P>
+
+
+<FONT SIZE=+1><B>Atlas</B></FONT>
+<P>
+Atlas igniters have been sold by 
+<a href="http://www.skylighter.com" target=_blank>Skylighter, Inc.</A>,
+a fireworks
+supply company. The author has no other information about them.
+
+<P>
+
+<P>
+
+<FONT SIZE=+1><B>HiRMI</B></FONT>
+<P>
+The HiRMI, Hi-Reliability Electric Match, igniter is sold by
+<a href=http://www.blacksky.com target=_blank>Blacksky</A>.
+
+<P>
+<table border=1>
+<caption><B>HiRMI Igniter Specification</B></caption>
+<tr>
+	<th>Bridgewire Resistance (Ohms)</th>
+	<th>Max No Fire Current (Amp)</th>
+	<th>Min All Fire Current (Amp)</TH>
+	<th>Ave. Firing Time</TH>
+	<th>Explosive Charge Per Head (grams)</TH>
+</tr>
+
+<tr>
+	<td align=right>2</td>
+	<td align=right>0.10</td>
+	<td align=right>0.40</td>
+	<td align=right>N/A</td>
+	<td align=right>N/A</td>
+</tr>
+
+</table>
+
+<P>
+
+<FONT SIZE=+1><B>Recommendations</B></FONT>
+<P>
+Safety is important. Massive rockets can inflict significant personal
+injury, including death, and create major property damage when the
+recovery system
+fails. One failure mode is a defective ejection charge igniter.
+Although the
+failure rate of commercially manufactured igniters used to ignite
+ejection
+charges is low, a redundant igniter can be a good idea. Rocketry
+altimeters and
+timers can fire two low current igniters per charge. The author
+believes that it is
+a better idea to spend an extra $2 to $3 on extra igniters than to
+watch a rocket
+nose into the ground, a car or person.
+
+<P>
+<I>Submitted by Dean A. Roth</I>
+</TD>
+</TR>
+<TR VALIGN=TOP>
+<TD VALIGN=CENTER><A HREF="#TOP"><IMG SRC=images/backtotop.gif border=0></A></TD>
+<TD>
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<!--ADVERTISEMENT-->
+
+<CENTER>
+<A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ROL_Forums"><IMG WIDTH=468 HEIGHT=60 VSPACE=3 BORDER=1 SRC="http://www.rocketryonline.com/cgi-bin/banners/getimage.cgi?AD=ROL_Forums" ALT="Check out the rocketry talk!"></A>
+</CENTER>
+<CENTER>
+<FONT SIZE=1>Check out our advertiser: <A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ROL_Forums">Check out the rocketry talk!</A></FONT>
+</CENTER>
+
+
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<CENTER>
+<FONT SIZE="-2" FACE="ARIAL"><B>Copyright &#169; 1996-2000, Rocketry Online, all rights reserved.<BR>
+</CENTER>
+</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>

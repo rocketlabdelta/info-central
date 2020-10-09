@@ -1,0 +1,97 @@
+<HTML>
+<HEAD><TITLE>Finishing</TITLE>
+<LINK REL=STYLESHEET TYPE="text/css" HREF="file:///C:/Documents and Settings/Darrell Mobley/My Documents/My Web Sites/Info-Central/infocentral.css" TITLE="INFOcentral">
+</HEAD>
+<BODY TEXT="#000000" LINK=""#000000" VLINK="#000000" ALINK="#FF0000" BGCOLOR="#FFFFFF">
+<A NAME="TOP">
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=5 WIDTH=100%>
+<TR VALIGN=TOP>
+<TD><IMG SRC=images/space.gif width=130 height=1 border=0></TD>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><CENTER><h3><B>Finishing</h3></CENTER></TD>
+</TR>
+
+<!-- SERVICES MENU-->
+<TR VALIGN=TOP>
+<TD>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+<TR>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+&#160;<B>FINISHING</B></FONT></TD></TR>
+<TR>
+<TD VALIGN=TOP>
+<BR>&#160;<A HREF="finishing_painting.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Paint Prep.</B></FONT></A>
+<BR>&#160;<A HREF="finishing_spraycan.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Spray Painting</B></FONT></A>
+<BR>&#160;<A HREF="finishing_applydecals.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Applying Decals</B></FONT></A>
+<BR>&#160;<A HREF="finishing_monokote.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Monokote</B></FONT></A>
+<BR>&#160;<A HREF="finishing_alpsdecals.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Making Decals</B></FONT></A>
+</TD>
+</TR>
+</TABLE>
+<P><BR>
+<CENTER>
+<TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 WIDTH=115>
+<TR>
+<TD><IMG SRC="images/search_site.gif" ALT="Search the site!" WIDTH="115" HEIGHT="50" VSPACE="0" HSPACE="0" BORDER="0"></TD>
+</TR>
+
+<TR>
+<TD><FORM METHOD = "post" ACTION = "Search/search_engine.cgi">
+<CENTER>
+<INPUT TYPE="text" NAME="keywords" SIZE=13 VALUE="Enter a word">
+</CENTER></TD>
+</TR>
+
+<TR>
+<TD><INPUT TYPE="image" SRC="images/find_it.gif" WIDTH="115" HEIGHT="28" VSPACE=2 ALT="Find It!" NAME="Find It!" VSPACE="0" HSPACE="0" BORDER=0></FORM></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+</TD>
+
+<TD VALIGN=TOP>
+
+
+<!--TEXT AREA-->
+<FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+Everyone has different desires for the finish of their rocket.
+Some are happy to stop when construction is finished and fly the rocket as is.
+Others want that perfect scale model paint job.
+
+<P>
+But most of us want the rocket to look good (at least until it flies the first
+time) and put some kind of finish on the rocket.
+Whether you quickly use a single color paint from a spray can or take pains to
+apply a complex finish, this section will give you pointers others have discovered
+to make it easier and come out looking better.
+</TD>
+</TR>
+<TR VALIGN=TOP>
+<TD VALIGN=CENTER><A HREF="#TOP"><IMG SRC=images/backtotop.gif border=0></A></TD>
+<TD>
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<!--ADVERTISEMENT-->
+
+<CENTER>
+<A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ROL_Books"><IMG WIDTH=468 HEIGHT=60 VSPACE=3 BORDER=1 SRC="http://www.rocketryonline.com/cgi-bin/banners/getimage.cgi?AD=ROL_Books" ALT="It's coming!"></A>
+</CENTER>
+<CENTER>
+<FONT SIZE=1>Check out our advertiser: <A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ROL_Books">Check out the books!</A></FONT>
+</CENTER>
+
+
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<CENTER>
+<FONT SIZE="-2" FACE="ARIAL"><B>Copyright &#169; 1996-2000, Rocketry Online, all rights reserved.<BR>
+</CENTER>
+</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>

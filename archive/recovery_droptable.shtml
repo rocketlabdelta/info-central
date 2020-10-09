@@ -1,0 +1,170 @@
+<HTML>
+<HEAD><TITLE>Drop Table</TITLE>
+<LINK REL=STYLESHEET TYPE="text/css" HREF="file:///C:/Documents and Settings/Darrell Mobley/My Documents/My Web Sites/www.info-central2.org/infocentral.css" TITLE="INFOcentral">
+</HEAD>
+<BODY TEXT="#000000" LINK=""#000000" VLINK="#000000" ALINK="#FF0000" BGCOLOR="#FFFFFF">
+<A NAME="TOP">
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=5 WIDTH=100%>
+<TR VALIGN=TOP>
+<TD><IMG SRC=images/space.gif width=130 height=1 border=0></TD>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><CENTER><h3><B>Drop Table</h3></CENTER></TD>
+</TR>
+
+<!-- SERVICES MENU-->
+<TR VALIGN=TOP>
+<TD>
+
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+<TR>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+&#160;<B>RECOVERY</B></FONT></TD></TR>
+<TR>
+<TD VALIGN=TOP>
+&#160;<A HREF=recovery_techniques.shtml><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Basic Techniques</B></FONT></A><BR>
+&#160;<A HREF=recovery_design.shtml><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Recovery Design</B></FONT></A><BR>
+&#160;<A HREF="recovery_2stage_design.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Two Stage Design</B></FONT></A><BR>
+&#160;<A HREF="recovery_harness.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Recovery Harness</B></FONT></A><BR>
+&#160;<A HREF="recovery_eject.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Ejection Systems</B></FONT></A><BR>
+&#160;<A HREF="recovery_canister.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Ejection Charges</B></FONT></A><BR>
+&#160;<A HREF="recovery_powder.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Black Powder Use</B></FONT></A><BR>
+&#160;<A HREF="recovery_ematches.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Electric Matches</B></FONT></A><BR>
+&#160;<A HREF="recovery_protector.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Chute Protection</B></FONT></A><BR>
+&#160;<A HREF="recovery_psize.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Main Chute Sizing</B></FONT></A><BR>
+&#160;<A HREF="recovery_drogue.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Drogue Sizing</B></FONT></A><BR>
+&#160;<A HREF="recovery_cordinfo.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>TN &amp; Cord Info.</B></FONT></A><BR>
+&#160;<A HREF="recovery_attachments.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Attachments</B></FONT></A><BR>
+&#160;<A HREF="recovery_deploybag.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Deployment Bags</B></FONT></A><BR>
+&#160;<A HREF="recovery_horizspin.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Backwards Sliding</B></FONT></A><BR>
+&#160;<A HREF="recovery_droptable.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Drop Table</B></FONT></A><BR>
+&#160;<A HREF="recovery_xformdescent.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>X-form Descent</B></FONT></A><BR>
+&#160;<A HREF="recovery_barotester.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Baro Tester</B></FONT></A><BR>
+&#160;<A HREF="recovery_calculators.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Calculators (IE)</B></FONT></A><BR>
+&#160;<A HREF="recovery_vbcalcs.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Calcs. (download)</B></FONT></A><BR>
+&#160;<A HREF="recovery_tracking.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Tracking</B></FONT></A><BR>
+&#160;<A HREF="recovery_dualdeploy.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Dual Deploy</B></FONT></A><BR>
+<P>
+<B>&#160;ELSEWHERE</B>
+<BR>&#160;<A HREF="http://members.aol.com/ricnakk/paracon.html" TARGET=_top><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Parachute Design</B></FONT></A>
+</TD>
+</TR>
+</TABLE>
+<P><BR>
+<CENTER>
+<TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 WIDTH=115>
+<TR>
+<TD><IMG SRC="images/search_site.gif" ALT="Search the site!" WIDTH="115" HEIGHT="50" VSPACE="0" HSPACE="0" BORDER="0"></TD>
+</TR>
+
+<TR>
+<TD><FORM METHOD = "post" ACTION = "Search/search_engine.cgi">
+<CENTER>
+<INPUT TYPE="text" NAME="keywords" SIZE=13 VALUE="Enter a word">
+</CENTER></TD>
+</TR>
+
+<TR>
+<TD><INPUT TYPE="image" SRC="images/find_it.gif" WIDTH="115" HEIGHT="28" VSPACE=2 ALT="Find It!" NAME="Find It!" VSPACE="0" HSPACE="0" BORDER=0></FORM></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+</TD>
+
+<TD VALIGN=TOP>
+
+
+<!--TEXT AREA-->
+<FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+<P>
+One black art that exists in rocketry is deciding on the
+proper descent rate for your rocket.&nbsp; There are plenty of ways to
+compute your rocket's descent rate if you know the rocket's weight and
+the parachute dimensions.&nbsp; The question then becomes, what is a good
+descent rate for my rocket?
+
+<P>
+The speed at which the rocket impacts the ground determines the forces
+that the rocket must endure to land without damage.&nbsp; I've assembled
+the following table to give rocketeers an easy way to imagine what forces
+will be at work.&nbsp; You could even use this table to test your rocket,
+to see if it would survive impacting the ground at 15 fps.
+
+<P>
+The first column has velocities, the second column has height.&nbsp;
+If a dense body is dropped from a height in column 2, then the body will
+be traveling at the velocity in column 1 when it hits the ground.
+
+<P>
+Example, you have a chute that will give your rocket a 16 fps descent
+rate under the chute.&nbsp; Look at column 1, find 16 fps in column 1.&nbsp;
+In column 2, you will see the height listed as 4'.&nbsp; Descending at
+16 fps is roughly the same as being dropped from 4' in the air.&nbsp; If
+you believe you could safely drop your rocket 4' without damage, then 16
+fps is fine.
+
+<P>
+Here's the table.
+<BR>
+<table BORDER COLS=2 WIDTH="25%" >
+<tr><td>Velocity</td><td>Distance</td></tr>
+<tr><td>5 fps</td><td>0'&nbsp; 5"</td></tr>
+<tr><td>6 fps</td><td>0'&nbsp; 7"</td></tr>
+<tr><td>7 fps</td><td>0'&nbsp; 9"</td></tr>
+<tr><td>8 fps</td><td>1'&nbsp; 0"</td></tr>
+<tr><td>9 fps</td><td>1'&nbsp; 3"</td></tr>
+<tr><td>10 fps</td><td>1'&nbsp; 7"</td></tr>
+<tr><td>11 fps</td><td>1' 11"</td></tr>
+<tr><td>12 fps</td><td>2'&nbsp; 3"</td></tr>
+<tr><td>13 fps</td><td>2'&nbsp; 8"</td></tr>
+<tr><td>14 fps</td><td>3'&nbsp; 1"</td></tr>
+<tr><td>15 fps</td><td>3'&nbsp; 6"</td></tr>
+<tr><td>16 fps</td><td>4'&nbsp; 0"</td></tr>
+<tr><td>17 fps</td><td>4'&nbsp; 6"</td></tr>
+<tr><td>18 fps</td><td>5'&nbsp; 1"</td></tr>
+<tr><td>19 fps</td><td>5'&nbsp; 8"</td></tr>
+<tr><td>20 fps</td><td>6'&nbsp; 3"</td></tr>
+<tr><td>21 fps</td><td>6' 11"</td></tr>
+<tr><td>22 fps</td><td>7'&nbsp; 7"</td></tr>
+<tr><td>23 fps</td><td>8'&nbsp; 3"</td></tr>
+<tr><td>24 fps</td><td>9'&nbsp; 0"</td></tr>
+<tr><td>25 fps</td><td>9'&nbsp; 9"</td></tr>
+<tr><td>26 fps</td><td>10'&nbsp; 7"</td></tr>
+<tr><td>27 fps</td><td>11'&nbsp; 5"</td></tr>
+<tr><td>28 fps</td><td>12'&nbsp; 3"</td></tr>
+<tr><td>29 fps</td><td>13'&nbsp; 2"</td></tr>
+<tr><td>30 fps</td><td>14'&nbsp; 1"</td></tr>
+</table>
+
+<P>
+<I>Submitted by David Urbanek</I>
+</TD>
+</TR>
+<TR VALIGN=TOP>
+<TD VALIGN=CENTER><A HREF="#TOP"><IMG SRC=images/backtotop.gif border=0></A></TD>
+<TD>
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<!--ADVERTISEMENT-->
+
+<CENTER>
+<A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ROL_Forums"><IMG WIDTH=468 HEIGHT=60 VSPACE=3 BORDER=1 SRC="http://www.rocketryonline.com/cgi-bin/banners/getimage.cgi?AD=ROL_Forums" ALT="Check out the rocketry talk!"></A>
+</CENTER>
+<CENTER>
+<FONT SIZE=1>Check out our advertiser: <A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ROL_Forums">Check out the rocketry talk!</A></FONT>
+</CENTER>
+
+
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<CENTER>
+<FONT SIZE="-2" FACE="ARIAL"><B>Copyright &#169; 1996-2000, Rocketry Online, all rights reserved.<BR>
+</CENTER>
+</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>

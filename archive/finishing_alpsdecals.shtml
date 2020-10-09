@@ -1,0 +1,268 @@
+<HTML>
+<HEAD><TITLE>Making Decals</TITLE>
+<LINK REL=STYLESHEET TYPE="text/css" HREF="file:///C:/Documents and Settings/Darrell Mobley/My Documents/My Web Sites/Info-Central/infocentral.css" TITLE="INFOcentral">
+</HEAD>
+<BODY TEXT="#000000" LINK=""#000000" VLINK="#000000" VLINK="#FF0000" BGCOLOR="#FFFFFF">
+<A NAME="TOP">
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=5 WIDTH=100%>
+<TR VALIGN=TOP>
+<TD><IMG SRC=images/space.gif width=130 height=1 border=0></TD>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><CENTER><h3>Making Decals</h3></CENTER></TD>
+</TR>
+
+<!-- SERVICES MENU-->
+<TR VALIGN=TOP>
+<TD>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+<TR>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+&#160;<B>FINISHING</B></FONT></TD></TR>
+<TR>
+<TD VALIGN=TOP>
+<BR>&#160;<A HREF="finishing_painting.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Paint Prep.</B></FONT></A>
+<BR>&#160;<A HREF="finishing_spraycan.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Spray Painting</B></FONT></A>
+<BR>&#160;<A HREF="finishing_applydecals.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Applying Decals</B></FONT></A>
+<BR>&#160;<A HREF="finishing_monokote.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Monokote</B></FONT></A>
+<BR>&#160;<A HREF="finishing_alpsdecals.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Making Decals</B></FONT></A>
+</TD>
+</TR>
+</TABLE>
+<P><BR>
+<CENTER>
+<TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 WIDTH=115>
+<TR>
+<TD><IMG SRC="images/search_site.gif" ALT="Search the site!" WIDTH="115" HEIGHT="50" VSPACE="0" HSPACE="0" BORDER="0"></TD>
+</TR>
+
+<TR>
+<TD><FORM METHOD = "post" ACTION = "Search/search_engine.cgi">
+<CENTER>
+<INPUT TYPE="text" NAME="keywords" SIZE=13 VALUE="Enter a word">
+</CENTER></TD>
+</TR>
+
+<TR>
+<TD><INPUT TYPE="image" SRC="images/find_it.gif" WIDTH="115" HEIGHT="28" VSPACE=2 ALT="Find It!" NAME="Find It!" VSPACE="0" HSPACE="0" BORDER=0></FORM></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+</TD>
+
+<TD VALIGN=TOP>
+
+
+<!--TEXT AREA-->
+<FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+<P>
+Many people know that you can print your own decals from your computer,
+but the Alps printer lets you print colored decals which can even be used
+on colored rockets!
+</P>
+
+<H2>The Printer</H2>
+
+<P>
+What you need:
+<UL>
+<LI>computer and drawing software (I use Adobe Illustrator 8.0)
+<LI>an <A HREF="http://www.alpsusa.com/printers/printers.html" TARGET=_blank>Alps micro-dry printer</A> such as the MD5000
+<LI>decal film (available from
+<A HREF="http://www.detailmaster.com" TARGET=_blank>Scale Sports</A>)
+<LI>decal set to "melt" the decal (available from hobby shops)
+</UL>
+
+<P>
+<IMG WIDTH=115 HEIGHT=107 SRC="images/alps_md1000.gif" ALIGN=right HSPACE=10>
+The Alps printers do something very unusual and very useful: they can print white!
+This is important because if your rocket has a colored background,
+decals which use color will have their colors altered by the rocket color.
+Of course, if you want white lettering or graphics on a colored rocket you also need
+to be able to print white.
+</P>
+
+<P>
+The Alps printers also work better for decals than laser printers or copiers.
+Laser printer (and copier) toner is too granular and will flake off the decal paper when
+the sheet is bent.  It also tends to run and smear when you try to cover it with a clear
+coat.  The Alps ink goes on with a smooth, slightly raised surface which looks much better
+on the decal film and stands up to Testors Top Coat.
+</P>
+
+<P>
+These printers are also very good for digital photographs,
+especially MD 5000 with the optional dye sublimation kit on the special paper.
+The Alps MD 1000 also gives great results for rocket decals.
+</P>
+
+<P>
+The Alps printers use cartridges like the old typewriter ribbon cartrigdes.
+When you buy your printer, you will get a set of cartridges.  Be sure to buy
+a white cartridge at the same time.
+They also have some other special cartridges which print metalic colors.
+The MD5000 holds up to seven cartridges so you can put white in place of one of
+the two black cartridges.
+</P>
+
+
+<H2>The Technique</H2>
+
+<P>
+There are two tricks you will use to make a colored graphic with a white background:
+"spot colors" and the "overlay option."
+The Alps printer software allows you to print using only a single one of the special
+color cartridges such as white or the metallics.
+This is called a "spot color" and
+the artwork you print will use only that color.
+Typically your artwork will be all black, but will come out the special color because of
+the spot color option.
+The overlay option allows you to print multiple times to the same page.
+The page is not ejected from the printer so the different printings are aligned properly.
+The sequence of steps is described below.
+</P>
+
+<IMG WIDTH=225 HEIGHT=360 SRC="images/alps_decalfglayer.gif" ALIGN=right HSPACE=10>
+<P>
+First off, draw your logo in your favorite drawing program.
+Normal text is quite easy.  If you have a bitmap, you can import it, but the quality
+will not be as good unless the bitmap is very high-resolution.
+Once you have your graphic done to your satisfaction, group it and save your file.
+</P>
+
+<P>
+I use layers to keep the white background separate from the images.
+If your drawing program doesn't support layers, you can use separate files.
+Make a new layer below the current one and name it "background".
+Name the current layer something appropriate (such as "logo").
+</P>
+
+<P>
+Select the logo layer and copy your grouped graphic.
+Select the background layer and paste the graphic.
+Align the two graphics so they exactly overlap by dragging the copy on the
+background layer.  Once they overlap exactly, hide the logo layer.
+<BR CLEAR=all>
+</P>
+
+<IMG WIDTH=225 HEIGHT=360 SRC="images/alps_decalbglayer.gif" ALIGN=right HSPACE=10>
+<P>
+Now we need to make the background into a solid black mask.  Select the entire
+graphic element and give it a black fill.
+Change the color of all text to black.
+You should end up with a solid black shape with the same outline as your logo.
+(If you like, you can delete any graphics totally inside the outline.)
+</P>
+
+<P>
+Once you have your background image properly blacked out,
+hide and show the layers alternately
+and make sure the images still overlap properly.
+We're going to print in two passes, using only one of each of the two layers at
+a time.  The white layer will be printed first and provide the background for
+the colored layer.
+</P>
+
+<P>
+The way drawing programs (and printers) work is that white areas are not printed
+since it is assumed that the page is white.
+If you draw a white square on the page and give it no border (or a white border)
+and print it, no pixels will be drawn.  This is also true of the Alps, but we
+work around this problem by using the spot color feature.
+</P>
+
+<P>
+Hide the logo layer and show the background layer.
+What you see it what will be printed in white on the first pass.
+Print, bringing up the printer properties as you do.
+(On Windows, select File|Print then click the Properties button.)
+Select "Single Spot Color" as the Color Format and a dialog box
+will pop up and you can select "white".
+Make sure the Overlay box is checked.
+If you're not sure, see the
+<A HREF="images/alps_properties.gif">screen shot</A> from my machine.
+</P>
+
+<P>
+Now go ahead and print.
+You may have problems with the decal film feeding into the printer.
+I always have to help mine a bit.  If you don't succeed the first time,
+hit the "ready/insert" button on the printer and you'll get another chance.
+</P>
+
+<P>
+Once the layer is finished, the page will remain in the printer and you
+can go on to print the next layer.
+Hide the background layer and show the logo layer.
+Again when you print, bring up the properties dialog.
+This time, select "Standard Color" as the Color Format.
+Your colored logo will be printed on top of the white background.
+</P>
+
+<P>
+To put the final coating on the decal and seal it, it is a good idea to print
+a final finish layer.
+If you print without the Overlay option, the finish will be put on automatically.
+But if you print with overlays (as we did above), you will need to do it manually.
+Show the background layer (which covers the entire printed area) and print again,
+this time selecting "Finish" as the Color Format and uncheck Overlay.
+Since Overlay is not selected, the decal will be ejected from the printer afterwards.
+</P>
+
+<IMG WIDTH=232 HEIGHT=300 SRC="images/alps_arless1bay.jpg" ALIGN=right HSPACE=10>
+<P>
+These decals apply just like other water transfer decals.
+I recommend using decal set, which is a water-like solution which melts the
+decal after it's been applied.  This will help feather the edges of the decal
+and really make it stick to the surface.
+</P>
+
+<P>
+Once the decal has thoroughly dried, you should protect it with a clear coat.
+I've had good luck with Testors Top Coat.
+<I>Warning: Krylon Krystal Klear will attack the decals.</I>
+It's a good idea to apply one of your mistake decals to a scrap body tube and
+try out your clear coat just to make sure it is compatible.
+</P>
+
+<P>
+Note that the white and light colored areas in the rocket body tube on the
+right show up in their correct colors, even though the decal is applied to a
+dark green rocket.
+You now have a way to make any logo you need for your rocket!
+(No, I will not make decals for you, but there are several people who will.)
+</P>
+
+<P>
+<I>Submitted by John Coker</I>
+</FONT>
+</TD>
+</TR>
+<TR VALIGN=TOP>
+<TD VALIGN=CENTER><A HREF="#TOP"><IMG SRC=images/backtotop.gif border=0></A></TD>
+<TD>
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<!--ADVERTISEMENT-->
+
+<CENTER>
+<A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ROL_Books"><IMG WIDTH=468 HEIGHT=60 VSPACE=3 BORDER=1 SRC="http://www.rocketryonline.com/cgi-bin/banners/getimage.cgi?AD=ROL_Books" ALT="It's coming!"></A>
+</CENTER>
+<CENTER>
+<FONT SIZE=1>Check out our advertiser: <A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ROL_Books">Check out the books!</A></FONT>
+</CENTER>
+
+
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<CENTER>
+<FONT SIZE="-2" FACE="ARIAL"><B>Copyright &#169; 1996-2000, Rocketry Online, all rights reserved.<BR>
+</CENTER>
+</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>

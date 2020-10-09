@@ -1,0 +1,202 @@
+<HTML>
+<HEAD><TITLE>Magazines</TITLE>
+<LINK REL=STYLESHEET TYPE="text/css" HREF="file:///C:/Documents and Settings/Darrell Mobley/My Documents/My Web Sites/Info-Central/infocentral.css" TITLE="INFOcentral">
+</HEAD>
+<BODY TEXT="#000000" LINK="#000000" VLINK="#000000" ALINK="#FF0000" BGCOLOR="#FFFFFF">
+<A NAME="TOP">
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=5 WIDTH=100%>
+<TR VALIGN=TOP>
+<TD><IMG SRC=images/space.gif width=130 height=1 border=0></TD>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><CENTER><h3>Magazines</h3></CENTER></TD>
+</TR>
+
+<!-- SERVICES MENU-->
+<TR VALIGN=TOP>
+<TD>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+<TR>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+&#160;<B>REGULATION</B></FONT></TD></TR>
+<TR>
+<TD VALIGN=TOP>
+&#160;<A HREF="regulation_environment.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Getting Legal</B></FONT></A><BR>
+&#160;<A HREF="regulation_clouds.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Flying in Clouds</B></FONT></A><BR>
+&#160;<A HREF="regulation_magazines.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Magazines</B></FONT></A><BR>
+&#160;<A HREF="regulation_us.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>United States</B></FONT></A><BR>
+&#160;<A HREF="regulation_mn.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>US: Minnesota</B></FONT></A><BR>
+&#160;<A HREF="regulation_firemarshal.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>US Fire Marshal</B></FONT></A><BR>
+&#160;<A HREF="aussie_caara.pdf"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Australia CASA</B></FONT></A><BR>
+&#160;<A HREF="regulation_waivertable.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Waiver Table</B></FONT></A>
+</TD>
+</TR>
+</TABLE>
+<P><BR>
+<CENTER>
+<TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 WIDTH=115>
+<TR>
+<TD><IMG SRC="images/search_site.gif" ALT="Search the site!" WIDTH="115" HEIGHT="50" VSPACE="0" HSPACE="0" BORDER="0"></TD>
+</TR>
+
+<TR>
+<TD><FORM METHOD = "post" ACTION = "Search/search_engine.cgi">
+<CENTER>
+<INPUT TYPE="text" NAME="keywords" SIZE=13 VALUE="Enter a word">
+</CENTER></TD>
+</TR>
+
+<TR>
+<TD><INPUT TYPE="image" SRC="images/find_it.gif" WIDTH="115" HEIGHT="28" VSPACE=2 ALT="Find It!" NAME="Find It!" VSPACE="0" HSPACE="0" BORDER=0></FORM></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+</TD>
+
+<TD VALIGN=TOP>
+<!--TEXT AREA-->
+<FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+<P>
+This is an extract from the
+<A HREF="http://www.atf.treas.gov" TARGET=_blank>ATF web site</A>
+on requirements for "type 4" magazines.
+Type 4 indoor magazines are commonly used by rocketeers for storing high-power motors.
+</P>
+
+<P>
+<B>Sec. 55.210  Construction of type 4 magazines.</B>
+
+<P>
+A type 4 magazine is a building, igloo or "Army-type structure",
+tunnel, dugout, box, trailer, or a semitrailer or other mobile magazine.
+
+<P>
+(a) Outdoor magazines--
+
+<BLOCKQUOTE>
+(1) General. Outdoor magazines are to be
+fire-resistant, weather-resistant, and theft-resistant. The ground
+around outdoor magazines must slope away for drainage or other adequate
+drainage be provided. When unattended, vehicular magazines must have
+wheels removed or otherwise be effectively immobilized by kingpin
+locking devices or other methods approved by the Director.
+</BLOCKQUOTE>
+
+<BLOCKQUOTE>
+(2) Construction. Outdoor magazines are to be constructed of
+masonry, metal-covered wood, fabricated metal, or a combination of these
+materials. Foundations are to be constructed of brick, concrete, cement
+block, stone, or metal or wood posts. If piers or posts are used, in
+lieu of a continuous foundation, the space under the building is to be
+enclosed with fire-resistant material. The walls and floors are to be
+constructed of, or covered with, a nonsparking material or lattice work.
+The doors must be metal or solid wood covered with metal.
+</BLOCKQUOTE>
+
+<BLOCKQUOTE>
+(3) Hinges and hasps. Hinges and hasps are to be attached to doors
+by welding, riveting, or bolting (nuts on inside of door). Hinges and
+hasps must be installed so that they cannot be removed when the doors
+are closed and locked.
+</BLOCKQUOTE>
+
+<BLOCKQUOTE>
+(4) Locks. Each door is to be equipped with (i) two mortise locks;
+<BR>(ii) two padlocks fastened in separate hasps and staples;
+<BR>(iii) a combination of a mortise lock and a padlock;
+<BR>(iv) a mortise lock that requires two keys to open; or
+<BR>(v) a three-point lock.
+<BR>Padlocks must have
+at least five tumblers and case-hardened shackle of at least 3/8 inch
+diameter. Padlocks must be protected with[[Page 752]]
+not less than 1/4 inch steel hoods constructed so as to prevent sawing
+or lever action on the locks, hasps, and staples. These requirements do
+not apply to magazine doors that are adequately secured on the inside by
+means of a bolt, lock, or bar that cannot be actuated from the outside.
+</BLOCKQUOTE>
+
+<P>
+(b) Indoor magazine--
+
+<BLOCKQUOTE>
+(1) General. Indoor magazines are to be fire-
+resistant and theft-resistant. They need not be weather-resistant if the
+buildings in which they are stored provide protection from the weather.
+No indoor magazine is to be located in a residence or dwelling. The
+indoor storage of low explosives must not exceed a quantity of 50
+pounds. More than one indoor magazine may be located in the same
+building if the total quantity of explosive materials stored does not
+exceed 50 pounds. Detonators that will not mass detonate must be stored
+in a separate magazine and the total number of electric detonators must
+not exceed 5,000.
+</BLOCKQUOTE>
+
+<BLOCKQUOTE>
+(2) Construction. Indoor magazines are to be constructed of masonry,
+metal-covered wood, fabricated metal, or a combination of these
+materials. The walls and floors are to be constructed of, or covered
+with, a nonsparking material. The doors must be metal or solid wood
+covered with metal.
+</BLOCKQUOTE>
+
+<BLOCKQUOTE>
+(3) Hinges and hasps. Hinges and hasps are to be attached to doors
+by welding, riveting, or bolting (nuts on inside of door). Hinges and
+hasps must be installed so that they cannot be removed when the doors
+are closed and locked.
+</BLOCKQUOTE>
+
+<BLOCKQUOTE>
+(4) Locks. Each door is to be equipped with (i) two mortise locks;
+<BR>(ii) two padlocks fastened in separate hasps and staples;
+<BR>(iii) a
+combination of a mortise lock and padlock;
+<BR>(iv) a mortise lock that
+requires two keys to open; or
+<BR>(v) a three-point lock.
+<BR>Padlocks must have at least five tumblers and a case-hardened
+shackle of at least 3/8 inch diameter.
+Padlocks must be protected with not less than 1/4 inch
+steel hoods constructed so as to prevent sawing or lever action on the
+locks, hasps, and staples. Indoor magazines located in secure rooms that
+are locked as provided in this subparagraph may have each door locked
+with one steel padlock (which need not be protected by a steel hood)
+having at least five tumblers and a case-hardened shackle of at least
+3/8 inch diameter, if the door hinges and lock hasp are securely
+fastened to the magazine. These requirements do not apply to magazine
+doors that are adequately secured on the inside by means of a bolt,
+lock, or bar that cannot be actuated from the outside.
+</BLOCKQUOTE>
+
+<P>
+<I>Submitted by Jim Jannuzzo</I>
+</TD>
+</TR>
+<TR VALIGN=TOP>
+<TD VALIGN=CENTER><A HREF="#TOP"><IMG SRC=images/backtotop.gif border=0></A></TD>
+<TD>
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<!--ADVERTISEMENT-->
+
+<CENTER>
+<A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ROL_Chat"><IMG WIDTH=468 HEIGHT=60 VSPACE=3 BORDER=1 SRC="http://www.rocketryonline.com/cgi-bin/banners/getimage.cgi?AD=ROL_Chat" ALT="Check out the rocketry chat!"></A>
+</CENTER>
+<CENTER>
+<FONT SIZE=1>Check out our advertiser: <A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ROL_Chat">Check out the rocketry chat!</A></FONT>
+</CENTER>
+
+
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<CENTER>
+<FONT SIZE="-2" FACE="ARIAL"><B>Copyright &#169; 1996-2000, Rocketry Online, all rights reserved.<BR>
+</CENTER>
+</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>

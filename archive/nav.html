@@ -1,0 +1,147 @@
+<HTML>
+<HEAD>
+<TITLE>nav</TITLE>
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- Hide javascript
+
+function preload() { 
+        this.length = preload.arguments.length;
+        for (var i = 0; i < this.length; i++) {
+                this[i+1] = new Image();
+                this[i+1].src = preload.arguments[i];
+        }
+}
+
+if (document.images) {
+        var stuff = new preload(
+        "images/ro_logo2.gif",
+        "images/space.gif",
+        "images/welcome_on.gif",
+        "images/design_on.gif",
+        "images/recovery_on.gif",
+        "images/electronics_on.gif",
+        "images/construction_on.gif",
+        "images/finishing_on.gif",
+        "images/propulsion_on.gif",
+        "images/support_on.gif",
+        "images/regulation_on.gif",
+        "images/research_on.gif",
+        "images/resources_on.gif")
+}
+
+function select(i) {
+        if (document.images) {
+                var src = document.images[i].src;
+                var off = src.lastIndexOf("off");
+                if (off != -1) {
+                        document.images[i].src = src.substring(0,off) + "on.gif";
+                }
+        }
+}
+
+function deselect(i) {
+        if (document.images) {
+                var src = document.images[i].src;
+                var on = src.lastIndexOf("on");
+                if (on != -1) {
+                        document.images[i].src = src.substring(0,on) + "off.gif";
+                }
+        }
+}
+
+// Stop hiding javascript -->
+
+</SCRIPT>
+
+</HEAD>
+<BODY TEXT="#000000" LINK=""#000000" VLINK="#000000" ALINK="#FF0000" BGCOLOR="#FFFFFF" BACKGROUND=images/nav_back.gif>
+
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
+<TR>
+<TD><IMG SRC="images/space.gif" WIDTH=5 HEIGHT=1></TD>
+<TD><IMG SRC="images/space.gif" WIDTH=1 HEIGHT=4><BR>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=450>
+<TR>
+     	<TD WIDTH=150><FONT SIZE=1>
+	<A HREF="welcome.shtml" TARGET=main 
+	onMouseover="select(2); window.status='Introduction to the rocketry hobby'; return true"
+	onMouseout="deselect(2); window.status=''; return true">
+	<IMG SRC="images/welcome_off.gif" BORDER="0" NAME="noswap" WIDTH=122 HEIGHT=13 VSPACE=0 HSPACE=0></A>
+	</TD>
+	<TD WIDTH=150><FONT SIZE=1>
+	<A HREF="propulsion.shtml" TARGET=main 
+	onMouseover="select(3); window.status='Motors and ignition systems'; return true" 
+	onMouseout="deselect(3); window.status=''; return true">
+	<IMG SRC="images/propulsion_off.gif" BORDER="0" NAME="noswap" WIDTH=122 HEIGHT=13 VSPACE=0 HSPACE=0></A>
+	</TD>
+	<TD WIDTH=150><FONT SIZE=1>
+	<A HREF="regulation.shtml" TARGET=main 
+	onMouseover="select(4); window.status='Regulation of rocketry and motors'; return true" 
+	onMouseout="deselect(4); window.status=''; return true">
+	<IMG SRC="images/regulation_off.gif" BORDER="0" NAME="noswap" WIDTH=122 HEIGHT=13 VSPACE=0 HSPACE=0></A>
+	</TD>
+</TR>
+<TR>
+     	<TD WIDTH=150><FONT SIZE=1>
+	<A HREF="design.shtml" TARGET=main 
+	onMouseover="select(5); window.status='Rocketry design characteristics'; return true"
+	onMouseout="deselect(5); window.status=''; return true">
+	<IMG SRC="images/design_off.gif" BORDER="0" NAME="noswap" WIDTH=122 HEIGHT=13 VSPACE=0 HSPACE=0></A>
+	</TD>
+	<TD WIDTH=150><FONT SIZE=1>
+	<A HREF="recovery.shtml" TARGET=main 
+	onMouseover="select(6); window.status='Recovery systems design'; return true" 
+	onMouseout="deselect(6); window.status=''; return true">
+	<IMG SRC="images/recovery_off.gif" BORDER="0" NAME="noswap" WIDTH=122 HEIGHT=13 VSPACE=0 HSPACE=0></A>
+	</TD>
+	<TD WIDTH=150><FONT SIZE=1>
+	<A HREF="research.shtml" TARGET=main 
+	onMouseover="select(7); window.status='Motor research (amateur rocketry)'; return true" 
+	onMouseout="deselect(7); window.status=''; return true">
+	<IMG SRC="images/research_off.gif" BORDER="0" NAME="noswap" WIDTH=122 HEIGHT=13 VSPACE=0 HSPACE=0></A>
+	</TD>
+</TR>
+<TR>
+	<TD WIDTH=150><FONT SIZE=1>
+	<A HREF="construction.shtml" TARGET=main 
+	onMouseover="select(8); window.status='Rocket construction techniques'; return true" 
+	onMouseout="deselect(8); window.status=''; return true">
+	<IMG SRC="images/construction_off.gif" BORDER="0" NAME="noswap" WIDTH=122 HEIGHT=13 VSPACE=0 HSPACE=0></A>
+	</TD>
+	<TD WIDTH=150><FONT SIZE=1>
+	<A HREF="electronics.shtml" TARGET=main 
+	onMouseover="select(9); window.status='Electronics and payloads'; return true" 
+	onMouseout="deselect(9); window.status=''; return true">
+	<IMG SRC="images/electronics_off.gif" BORDER="0" NAME="noswap" WIDTH=122 HEIGHT=13 VSPACE=0 HSPACE=0></A>
+	</TD>
+	<TD WIDTH=150><FONT SIZE=1>
+	<A HREF="resources.shtml" TARGET=main 
+	onMouseover="select(10); window.status='Rocket Resources'; return true" 
+	onMouseout="deselect(10); window.status=''; return true">
+	<IMG SRC="images/resources_off.gif" BORDER="0" NAME="noswap" WIDTH=122 HEIGHT=13 VSPACE=0 HSPACE=0></A>
+	</TD>
+</TR>
+<TR>
+	<TD WIDTH=150><FONT SIZE=1>
+	<A HREF="finishing.shtml" TARGET=main 
+	onMouseover="select(11); window.status='Final finshing techniques'; return true" 
+	onMouseout="deselect(11); window.status=''; return true">
+	<IMG SRC="images/finishing_off.gif" BORDER="0" NAME="noswap" WIDTH=122 HEIGHT=13 VSPACE=0 HSPACE=0></A>
+	</TD>
+	<TD WIDTH=150><FONT SIZE=1>
+	<A HREF="support.shtml" TARGET=main 
+	onMouseover="select(12); window.status='Ground support and launchers'; return true" 
+	onMouseout="deselect(12); window.status=''; return true">
+	<IMG SRC="images/support_off.gif" BORDER="0" NAME="noswap" WIDTH=122 HEIGHT=13 VSPACE=0 HSPACE=0></A>
+	</TD>
+	<TD WIDTH=150><IMG SRC="images/space.gif" WIDTH=122 HEIGHT=13></TD>
+</TR>
+</TABLE>
+</TD>
+<TD><A HREF="infocentral.shtml" TARGET=_top><IMG SRC=images/info_central.gif WIDTH=210 HEIGHT=32 ALIGN=RIGHT VSPACE=7 HSPACE=4 BORDER=0></A></TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>

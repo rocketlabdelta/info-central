@@ -1,0 +1,521 @@
+<HTML>
+<HEAD><TITLE>Motor Grid</TITLE>
+<LINK REL=STYLESHEET TYPE="text/css" HREF="file:///C:/Documents and Settings/Darrell Mobley/My Documents/My Web Sites/Info-Central/infocentral.css" TITLE="INFOcentral">
+</HEAD>
+<BODY TEXT="#000000" LINK=""#000000" VLINK="#000000" VLINK="#FF0000" BGCOLOR="#FFFFFF">
+<A NAME="TOP">
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=5 WIDTH=100%>
+<TR VALIGN=TOP>
+<TD><IMG SRC=images/space.gif width=130 height=1 border=0></TD>
+<TD><FONT FACE="Helvetica, Ariel, MS Sans Serif, Sans Serif"><CENTER><h3><B>Motor Grid</h3></CENTER></TD>
+</TR>
+
+<!-- SERVICES MENU-->
+<TR VALIGN=TOP>
+<TD>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+<TR>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+&#160;<B>PROPULSION</B></FONT></TD></TR>
+<TR>
+<TD VALIGN=TOP>
+&#160;<A HREF=propulsion_propellants.shtml><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Propellants</B></FONT></A>
+<BR>&#160;<A HREF="propulsion_su.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Single Use Motors</B></FONT></A>
+<BR>&#160;<A HREF="propulsion_rms.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Reloadable Motors</B></FONT></A>
+<BR>&#160;<A HREF="propulsion_hybrid.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Hybrid Motors</B></FONT></A>
+<BR>&#160;<A HREF="propulsion_hybrid_retrofit.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Hybrid Retrofitting</B></FONT></A>
+<BR>&#160;<A HREF="propulsion_igniters.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Comm. Igniters</B></FONT></A>
+<BR>&#160;<A HREF="propulsion_igniters_big.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Large Igniters</B></FONT></A>
+<BR>&#160;<A HREF="propulsion_selection.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Motor Selection</B></FONT></A>
+<BR>&#160;<A HREF="propulsion_rms_cleanup.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Cleaning Reloads</B></FONT></A>
+<BR>&#160;<A HREF="propulsion_staging.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Comp. Staging</B></FONT></A>
+<BR>&#160;<A HREF="propulsion_clustering.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Comp. Clustering</B></FONT></A>
+<BR>&#160;<A HREF="propulsion_atdelays.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>AeroTech Delays</B></FONT></A>
+<BR>&#160;<A HREF="propulsion_atnozzles.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>AeroTech Nozzles</B></FONT></A>
+<BR>&#160;<A HREF="propulsion_atmedusa.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>AT Medusa Kn</B></FONT></A>
+<BR>&#160;<A HREF="propulsion_thrustcurve.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Motor Grid</B></FONT></A>
+<BR>&#160;<A HREF="propulsion_motortotal.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Cluster Totals</B></FONT></A>
+<P>&#160;<B>ELSEWHERE</B>
+<BR>&#160;<A HREF="http://www.cartman.clara.net/TechSeries/hybrid_safety.pdf" TARGET=_top><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Hybrid Safety</B></FONT></A>
+<BR>&#160;<A HREF="http://www.cartman.clara.net/TechSeries/nitrous_oxide.pdf" TARGET=_top><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Physics of N<sub>2</sub>O</B></FONT></A>
+</TD>
+</TR>
+</TABLE>
+<P><BR>
+<CENTER>
+<TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 WIDTH=115>
+<TR>
+<TD><IMG SRC="images/search_site.gif" ALT="Search the site!" WIDTH="115" HEIGHT="50" VSPACE="0" HSPACE="0" BORDER="0"></TD>
+</TR>
+
+<TR>
+<TD><FORM METHOD = "post" ACTION = "Search/search_engine.cgi">
+<CENTER>
+<INPUT TYPE="text" NAME="keywords" SIZE=13 VALUE="Enter a word">
+</CENTER></TD>
+</TR>
+
+<TR>
+<TD><INPUT TYPE="image" SRC="images/find_it.gif" WIDTH="115" HEIGHT="28" VSPACE=2 ALT="Find It!" NAME="Find It!" VSPACE="0" HSPACE="0" BORDER=0></FORM></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+</TD>
+
+<TD VALIGN=TOP>
+
+
+<!--TEXT AREA-->
+<FONT FACE="Helvetica, Ariel, MS Sans Serif, Sans Serif" SIZE=-1>
+
+<P>
+This handy table allows you to locate motor information by impulse class, diameter or both.
+The row and column headers match all motors of that impulse class or diameter and the
+numbers in the cells indicate how many motors match.  Click on any link to be taken to
+<A HREF="http://www.thrustcurve.org" TARGET=_blank>ThrustCurve.org</A> for the in-depth motor data.
+</P>
+
+<TABLE BORDER=1 BGCOLOR=#ffffff CELLSPACING=0><FONT FACE="Arial" COLOR=#000000>
+<CAPTION><B>ThrustCurve.org Motor Data Table</B></CAPTION>
+<THEAD>
+<TR>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TH>
+<TH COLSPAN=2  BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><CENTER>Maximum Thrust</CENTER></FONT></TH>
+<TH COLSPAN=18 BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><CENTER>Motor Diameter (in millimeters)</CENTER></FONT></TH>
+</TR>
+
+<TR>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000>Class</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000>Pounds</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000>Newtons</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=%28all%29&diameter=10&organization=%28all%29&sort=class">10</A></FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=%28all%29&diameter=13&organization=%28all%29&sort=class">13</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=%28all%29&diameter=18&organization=%28all%29&sort=class">18</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=%28all%29&diameter=21&organization=%28all%29&sort=class">21</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=%28all%29&diameter=24&organization=%28all%29&sort=class">24</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=%28all%29&diameter=26&organization=%28all%29&sort=class">25</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=%28all%29&diameter=27&organization=%28all%29&sort=class">27</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=%28all%29&diameter=29&organization=%28all%29&sort=class">29</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=%28all%29&diameter=32&organization=%28all%29&sort=class">32</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=%28all%29&diameter=38&organization=%28all%29&sort=class">38</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=%28all%29&diameter=54&organization=%28all%29&sort=class">54</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=%28all%29&diameter=75&organization=%28all%29&sort=class">75</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=%28all%29&diameter=76&organization=%28all%29&sort=class">76</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=%28all%29&diameter=81&organization=%28all%29&sort=class">81</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=%28all%29&diameter=98&organization=%28all%29&sort=class">98</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=%28all%29&diameter=111&organization=%28all%29&sort=class">111</FONT></TH>
+</TR>
+</THEAD>
+
+<TBODY>
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=1%2F4A">1/4A</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>0.14</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>0.625</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=1%2F4A&diameter=10&organization=%28all%29&sort=class">1</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=1%2F4A&diameter=13&organization=%28all%29&sort=class">2</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=1%2F2A">1/2A</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>0.28</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>1.25</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=1%2F2A&diameter=10&organization=%28all%29&sort=class">1</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=1%2F2A&diameter=13&organization=%28all%29&sort=class">1</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=1%2F2A&diameter=18&organization=%28all%29&sort=class">2</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=A">A</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>0.56</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>2.50</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=A&diameter=10&organization=%28all%29&sort=class">1</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=A&diameter=13&organization=%28all%29&sort=class">3</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=A&diameter=18&organization=%28all%29&sort=class">6</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=B">B</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>1.12</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>5.00</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=B&diameter=10&organization=%28all%29&sort=class">1</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=B&diameter=13&organization=%28all%29&sort=class">1</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=B&diameter=18&organization=%28all%29&sort=class">11</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=C">C</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>2.25</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>10.00</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>1</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=C&diameter=18&organization=%28all%29&sort=class">11</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=D">D</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>4.49</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>20.00</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=D&diameter=18&organization=%28all%29&sort=class">4</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=D&diameter=21&organization=%28all%29&sort=class">2</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=D&diameter=24&organization=%28all%29&sort=class">6</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=E">E</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>8.99</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>40.00</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=E&diameter=18&organization=%28all%29&sort=class">3</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=E&diameter=21&organization=%28all%29&sort=class">1</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=E&diameter=24&organization=%28all%29&sort=class">10</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=E&diameter=27&organization=%28all%29&sort=class">1</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=E&diameter=29&organization=%28all%29&sort=class">2</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=F">F</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>17.98</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>80.00</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=F&diameter=24&organization=%28all%29&sort=class">7</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=F&diameter=27&organization=%28all%29&sort=class">3</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=F&diameter=29&organization=%28all%29&sort=class">13</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=F&diameter=32&organization=%28all%29&sort=class">2</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=G">G</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>35.96</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>160.00</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=G&diameter=24&organization=%28all%29&sort=class">3</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=G&diameter=29&organization=%28all%29&sort=class">12</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=G&diameter=32&organization=%28all%29&sort=class">1</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=H">H</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>71.91</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>320.00</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=H&diameter=25&organization=%28all%29&sort=class">3</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=H&diameter=29&organization=%28all%29&sort=class">13</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=H&diameter=38&organization=%28all%29&sort=class">7</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=I">I</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>143.82</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>640.00</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=I&diameter=29&organization=%28all%29&sort=class">4</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=I&diameter=38&organization=%28all%29&sort=class">20</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=I&diameter=54&organization=%28all%29&sort=class">4</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=J">J</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>287.64</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>1,280.00</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=J&diameter=38&organization=%28all%29&sort=class">6</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=J&diameter=54&organization=%28all%29&sort=class">18</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=J&diameter=75&organization=%28all%29&sort=class">1</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=J&diameter=81&organization=%28all%29&sort=class">1</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=K">K</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>575.28</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>2,560.00</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=K&diameter=54&organization=%28all%29&sort=class">9</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=K&diameter=75&organization=%28all%29&sort=class">3</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=K&diameter=81&organization=%28all%29&sort=class">1</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=K&diameter=98&organization=%28all%29&sort=class">1</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=L">L</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>1,150.56</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>5,120.00</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=L&diameter=54&organization=%28all%29&sort=class">3</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=L&diameter=75&organization=%28all%29&sort=class">2</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=L&diameter=76&organization=%28all%29&sort=class">3</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=L&diameter=98&organization=%28all%29&sort=class">1</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=L&diameter=111&organization=%28all%29&sort=class">4</A></FONT></TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=M">M</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>2,301.12</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>10,240.00</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=M&diameter=75&organization=%28all%29&sort=class">1</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=M&diameter=76&organization=%28all%29&sort=class">3</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=M&diameter=98&organization=%28all%29&sort=class">2</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=N">N</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>4,602.25</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>20,480.00</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?manufacturer=%28all%29&class=N&diameter=98&organization=%28all%29&sort=class">1</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#c0c0c0 ><FONT SIZE=2 FACE="Arial" COLOR=#000000><A HREF="http://www.thrustcurve.org/cgi-bin/search.pl?sort=impulse&designation=O">O</A></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>9,204.49</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000>40,960.00</FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+<TD BORDERCOLOR=#c0c0c0  ALIGN=RIGHT><FONT SIZE=2 FACE="Arial" COLOR=#000000><BR></FONT></TD>
+</TR>
+</TBODY>
+<TFOOT></TFOOT>
+</TABLE>
+
+<P>
+<I>Submitted by: David Harbaugh</I>
+</TD>
+</TR>
+<TR VALIGN=TOP>
+<TD VALIGN=CENTER><A HREF="#TOP"><IMG SRC=images/backtotop.gif border=0></A></TD>
+<TD>
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<!--ADVERTISEMENT-->
+
+<CENTER>
+<A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ROL_Classifieds"><IMG WIDTH=468 HEIGHT=60 VSPACE=3 BORDER=1 SRC="http://www.rocketryonline.com/cgi-bin/banners/getimage.cgi?AD=ROL_Classifieds" ALT="Check out the rocketry ads!"></A>
+</CENTER>
+<CENTER>
+<FONT SIZE=1>Check out our advertiser: <A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ROL_Classifieds">Check out the rocketry ads!</A></FONT>
+</CENTER>
+
+
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<CENTER>
+<FONT SIZE="-2" FACE="ARIAL"><B>Copyright &#169; 1996-2000, Rocketry Online, all rights reserved.<BR>
+</CENTER>
+</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>

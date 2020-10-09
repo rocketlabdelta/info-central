@@ -1,0 +1,181 @@
+<HTML>
+<HEAD><TITLE>Coning</TITLE>
+<LINK REL=STYLESHEET TYPE="text/css" HREF="file:///C:/Documents and Settings/Darrell Mobley/My Documents/My Web Sites/Info-Central/infocentral.css" TITLE="INFOcentral">
+</HEAD>
+<BODY TEXT="#000000" LINK="#000000" VLINK="#000000" ALINK="#FF0000" BGCOLOR="#FFFFFF">
+<A NAME="TOP">
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=5 WIDTH=100%>
+<TR VALIGN=TOP>
+<TD><IMG SRC=images/space.gif width=130 height=1 border=0></TD>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><CENTER><h3>Coning in Flight</h3></CENTER></TD>
+</TR>
+
+<!-- SERVICES MENU-->
+<TR VALIGN=TOP>
+<TD>
+
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+<TR>
+<TD><FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+&#160;<B>DESIGN</B></FONT></TD></TR>
+<TR>
+<TD VALIGN=TOP>
+&#160;<A HREF="design_cg-cp.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>CG/CP Relation</B></FONT></A>
+</TD>
+</TR>
+<TR>
+<TD VALIGN=TOP>
+&#160;<A HREF="design_cluster.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Clustering Motors</B></FONT></A>
+</TD>
+</TR>
+<TR>
+<TD VALIGN=TOP>
+&#160;<A HREF="design_nosecones.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Nose Cones</B></FONT></A>
+</TD>
+</TR>
+<TR>
+<TD VALIGN=TOP>
+&#160;<A HREF="design_rulesofthumb.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Rules of Thumb</B></FONT></A>
+</TD>
+</TR>
+<TR>
+<TD VALIGN=TOP>
+&#160;<A HREF="design_finflutter.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Fin Flutter</B></FONT></A>
+</TD>
+</TR>
+<TR>
+<TD VALIGN=TOP>
+&#160;<A HREF="design_convert.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Conversions</B></FONT></A>
+</TD>
+</TR>
+<TR>
+<TD VALIGN=TOP>
+&#160;<A HREF="design_transcalc.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Transitions</B></FONT></A>
+</TD>
+</TR>
+<TR>
+<TD VALIGN=TOP>
+&#160;<A HREF="design_coning.shtml"><FONT SIZE=-1 FACE="Arial, Helvetica, MS Sans Serif, Sans Serif"><B>Coning</B></FONT></A>
+</TD>
+</TR>
+</TABLE>
+<P><BR>
+<CENTER>
+<TABLE CELLSPACING=0 CELLPADDING=0 BORDER=0 WIDTH=115>
+<TR>
+<TD><IMG SRC="images/search_site.gif" ALT="Search the site!" WIDTH="115" HEIGHT="50" VSPACE="0" HSPACE="0" BORDER="0"></TD>
+</TR>
+
+<TR>
+<TD><FORM METHOD = "post" ACTION = "Search/search_engine.cgi">
+<CENTER>
+<INPUT TYPE="text" NAME="keywords" SIZE=13 VALUE="Enter a word">
+</CENTER></TD>
+</TR>
+
+<TR>
+<TD><INPUT TYPE="image" SRC="images/find_it.gif" WIDTH="115" HEIGHT="28" VSPACE=2 ALT="Find It!" NAME="Find It!" VSPACE="0" HSPACE="0" BORDER=0></FORM></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+
+</TD>
+
+<TD VALIGN=TOP>
+
+
+<!--TEXT AREA-->
+<FONT FACE="Arial, Helvetica, MS Sans Serif, Sans Serif" SIZE=-1>
+[Editor: "coning" refers to the condition where a rocket
+rolls around in a cone shape during its flight.
+This is a more complex behavior than simple instability as covered in the CP/CG relationship.]
+<P>
+"The easy answer is just to quote a term at you: "pitch-roll coupling".
+<P>
+The more technical answer (in layman's terms) goes like this:
+<P>
+Have you ever done the gyroscopic motion experiment where you hold a 
+spinning bicycle wheel by handles on the axle, and then tilt it to one 
+side?  It reacts by tilting 90 degrees to both the direction you 
+tilted it and to the axle.
+<P>
+Think of your long, over stable rocket as a gyroscope initially 
+rotating around two axes: around its "roll axis" (the vertical 
+centerline of the
+Rocket) due to fin misalignments and asymmetrical airfoils, etc., and 
+around its "pitch axis" (horizontally into the wind around the CG due 
+to weather cocking).
+<P>
+Due to the way gyroscopic forces work, the pitching moment combines 
+with the roll to result in a torque at 90 degrees to either (around the "yaw"
+axis, at right angles to the other two axes).  Since the rocket is 
+still rolling, the yawing moment causes a similar torque around the 
+pitch axis again, this time at right angles to the pitch and roll 
+axes, in the opposite direction from the initial weather cocking tilt.  
+Of course, now the yawing moment combines with the roll to cause a 
+torque around the pitch axis....
+<P>
+The end result is that the rocket starts swinging its tail and nose 
+around in circles, describing a moving cone, with its apex at the 
+rocket's CG.  This coning movement naturally reinforces the roll, 
+leading to the problem continuing as the rocket ascends.
+<P>
+What can be done about it?
+<P>
+Well, first off, make sure your fins are nice and vertical.  If you 
+sand airfoils, make sure they are symmetrical.  You don't want the 
+rocket to roll much, if at all.  The less it rolls, the lower the 
+magnitude of any gyroscopic torques.
+<P>
+Secondly, try to reduce the "moment of inertia" of your rocket.  Your 
+fins are trying to keep the rocket straight.  They apply a limited 
+torque due to their force being applied out at the end of a lever arm 
+with the fulcrum at the CG.  Now, if your rocket has most of its mass 
+near the CG, it will have a lower moment of inertia, and snap back 
+into line quicker than a rocket with most of its mass out near the 
+nose and tail.  The CG might be in the same place, but imagine 
+spinning a three foot dowel with a 1 lb lump of clay at the center, or 
+a 3 ft dowel with 8 ounces of clay at each end to see the difference.
+<P>
+Third, keep the rocket stable, but not overly so.  Remember: the 
+rocket rotates (including coning) around its CG.  The farther forward 
+of the rocket's center that the CG is, the bigger the circle the tail 
+end will describe in the sky when (not if) it cones.
+<P>
+Making over stable rockets by adding lots of nose weight exacerbates 
+the coning problem two ways: it increases the moment of inertia, which 
+means you get bigger pitching moments before the fins can counteract 
+them, and also means that the gyroscopic effects are larger.  You also 
+move the CG forward, so the magnitude of any coning is much worse.
+<P>
+<I>Submitted by Rick Dickinson</i>
+</TD>
+</TR>
+<TR VALIGN=TOP>
+<TD VALIGN=CENTER><A HREF="#TOP"><IMG SRC=images/backtotop.gif border=0></A></TD>
+<TD>
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<!--ADVERTISEMENT-->
+
+<CENTER>
+<A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ROL_Chat"><IMG WIDTH=468 HEIGHT=60 VSPACE=3 BORDER=1 SRC="http://www.rocketryonline.com/cgi-bin/banners/getimage.cgi?AD=ROL_Chat" ALT="Check out the rocketry chat!"></A>
+</CENTER>
+<CENTER>
+<FONT SIZE=1>Check out our advertiser: <A HREF="http://www.rocketryonline.com/cgi-bin/banners/redirect.cgi?AD=ROL_Chat">Check out the rocketry chat!</A></FONT>
+</CENTER>
+
+
+<HR NOSHADE SIZE=1 WIDTH=95%>
+
+<CENTER>
+<FONT SIZE="-2" FACE="ARIAL"><B>Copyright &#169; 1996-2000, Rocketry Online, all rights reserved.<BR>
+</CENTER>
+</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>
