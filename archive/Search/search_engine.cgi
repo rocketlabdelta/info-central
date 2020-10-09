@@ -24,7 +24,7 @@
 </TR>
 <TR>
 <TD VALIGN=TOP ALIGN=RIGHT>
-&#160;<A HREF="../help.shtml#SEARCH"><IMG SRC="../images/help.gif" WIDTH="75" HEIGHT="30" BORDER="0" ALT="Help on INFOcentral"></A>
+&#160;<A HREF="../help.html#SEARCH"><IMG SRC="../images/help.gif" WIDTH="75" HEIGHT="30" BORDER="0" ALT="Help on INFOcentral"></A>
 </TD>
 </TR>
 </TABLE>
