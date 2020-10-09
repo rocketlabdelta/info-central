@@ -1,11 +1,26 @@
 GEM
+  remote: https://rubygems.org/
   specs:
+    crass (1.0.6)
+    mini_portile2 (2.4.0)
+    nokogiri (1.10.10)
+      mini_portile2 (~> 2.4.0)
+    nokogumbo (2.0.2)
+      nokogiri (~> 1.8, >= 1.8.4)
+    reverse_markdown (2.0.0)
+      nokogiri
+    sanitize (5.2.1)
+      crass (~> 1.0.2)
+      nokogiri (>= 1.8.0)
+      nokogumbo (~> 2.0)
     wayback_machine_downloader (2.2.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  reverse_markdown
+  sanitize
   wayback_machine_downloader
 
 BUNDLED WITH
