@@ -59,7 +59,7 @@ def strip_tags(html)
       'a' => ['href', 'title'],
       'img' => ['src']
     },
-    elements: ['a', 'img']
+    elements: ['a', 'img', 'ul', 'ol', 'li', 'h1', 'h2', 'h3', 'h4']
   )
 end
 
