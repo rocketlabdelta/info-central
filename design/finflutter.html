@@ -60,8 +60,8 @@ Fin Flutter
 
 
 
-  
- 
+
+
 
 
 <img src="images/search_site.gif">
@@ -88,7 +88,7 @@ Fin Flutter
 
 
 
- 
+
 Fin flutter is the phenomenon of a fin oscillating while in flight. In mild
 cases you can hear the telltale buzz or hum of the fins after the rocket is
 launched. In more severe cases the fins will oscillate to the point that
@@ -107,10 +107,10 @@ amateur community to start in an attempt to understand the flutter we
 experience. Obviously it will need to be verified for the materials,
 designs, and velocities that we use today.
 
-  
+
 <img src="images/finflutter_types.gif">
 
-  
+
 There are at least three different types of flutter that have been
 examined by NACA (the precursor to NASA) rocket and missile designers: fin
 (wing) bending-torsion flutter, stall flutter, and pitch-bending
@@ -130,7 +130,7 @@ occurs when two natural modes of fin oscillation interact through mutual
 resonance- fin bending and fin panel torsion or twisting. Figure 1 shows
 examples of the three types of fin flutter.
 
-  
+
 All mechanical structures have what is called a natural frequency of
 oscillation. The natural frequency of oscillation is distinct from
 vibration modes and most structures will never oscillate or even vibrate at
@@ -162,7 +162,7 @@ of the velocity. If the rocket is accelerating during the onset of flutter
 then with that much energy going into the fin the oscillations will
 increase dramatically until the fin (possibly) fails.
 
-  
+
 Bending-torsion flutter would be modeled by a physicist as a resonant
 coupled harmonic oscillator with two degrees of freedom. A well known
 example of this type of oscillator is the Wilberforce pendulum pictured
@@ -171,7 +171,7 @@ oscillators with two degrees of freedom can, under the right conditions,
 exhibit chaotic motion. Maybe that explains some of those weird flutters
 you've experienced!
 
-  
+
 
 
 <img src="images/finflutter_instrument.jpg">
@@ -180,7 +180,7 @@ you've experienced!
 
 
 
-  
+
 To solve the flutter equations analytically is possible but it is
 pretty difficult. Today aerodynamicists probably use computational fluid
 dynamics or finite element analysis software to analyze these sorts of
@@ -195,34 +195,34 @@ of over 100 different characterized missile configurations and found a
 remarkable degree of correlation. Martin graphed the product of three
 factors: a factor he called X (defined below), the taper ratio l, and the
 ratio of atmospheric pressure to standard atmospheric pressure p/p0.
- 
+
 <img src="images/finflutter_eqn1.gif">
 
-  
-Where 
+
+Where
  A is the aspect ratio
  t is the fin thickness
  c is the fin root chord
 
-  
+
 Let's call Martin's three factor product the flutter index:
- 
+
 <img src="images/finflutter_eqn2.gif">
 
-  
-Where 
+
+Where
  l is the taper ratio (ratio of tip chord to root chord)
  p is the air pressure
  p0 is the air pressure at sea level
 
-  
+
 The flutter index is a relative index of flutter susceptibility for a given
 fin material which should be checked against a data set of fin designs
 (including fin geometry and material) and known flutter behavior. Martin
 did just that with his 100 data points and the plot is shown below in
 Figure 3.
 
-  
+
 What does all of this mean? Well the first thing to notice is that
 flutter susceptibility is linear with the flutter index and the smaller the
 flutter index the better, so if the FI doubles you are twice as well
@@ -243,18 +243,18 @@ since the pressure ratio goes from 1.00 at sea level to 0.37 at 25,000 feet
 ASL (don't forget to factor in launch elevation). Since the pressure ratio
 goes down it does tend to help things out.
 
-  
+
 Summary of Relative Effects on the Flutter Index
- 
+
 
 &nbsp;lpAt/c
-&nbsp;Relative Effect&nbsp;&nbsp;0.5&nbsp;&nbsp;1&nbsp;&nbsp;1.04&nbsp;&nbsp;1/x3&nbsp; 
+&nbsp;Relative Effect&nbsp;&nbsp;0.5&nbsp;&nbsp;1&nbsp;&nbsp;1.04&nbsp;&nbsp;1/x3&nbsp;
 
 
-  
+
 <img src="images/finflutter_bendchart.gif">
 
-  
+
 Figure 3 plots the flutter index against the other important factor that we
 need to consider, which is shear modulus. Shear modulus is a measure of the
 fin materials ability to resist bending and twisting, in other words it is
@@ -279,22 +279,22 @@ right), or change your design to lower the flutter index (effectively
 moving the horizontal line you drew down). Of course you should also factor
 in some kind of safety margin.
 
-  
+
 One other formula that we can use is the formula for flutter
 velocity. It is not clear to me exactly what the flutter velocity actually
 is (onset of flutter, a figure of merit like the flutter index, or hard
 flutter) but the safe thing to assume is that if your rocket is near the
 flutter velocity you are in trouble. In any case the flutter velocity is
 
-  
+
 <img src="images/finflutter_eqn3.gif">
 
-  
-Where 
- Va is the speed of sound 
+
+Where
+ Va is the speed of sound
  GE is the shear modulus
 
-  
+
 I have made up an
 <a href="finflutter.xls">Excel spreadsheet</a>
 that captures these equations and
@@ -313,7 +313,7 @@ as his titanium. On the other hand, the FI numbers say that our fins
 probably have a lower thickness ratio than in the good old days, which may
 not be a good thing.
 
-  
+
 Where do we go from here? All of the material presented here doesn't mean
 much if it can't be confirmed under actual amateur rocketry flying
 conditions. Maybe we don't experience bending-torsion flutter after
@@ -325,36 +325,36 @@ access?). Until then, use the flutter spreadsheet when designing your next
 scratch built and report your experience on ROL. I'd appreciate your
 feedback as well (<a href="mailto:duncan@transim.com">duncan@transim.com</a>).
 
-  
+
 <a href="finflutter.xls"><img src="images/excel.gif"> Fin flutter estimator (Excel spreadsheet)</a>.
 
 
-  
+
 References
 
-  
+
 1. Theodorsen, Theodore Garrick, I E,
 Mechanism of Flutter, A Theoretical and Experimental Investigation of the Flutter Problem,
 NACA Report 685, 1940, pp. 46.
 
-  
+
 2. Dennis J. Martin,
 Summary of Flutter Experiences as a Guide to the Preliminary Design of Lifting Surfaces on Missiles,
 NACA TN 4197, Feb 1958, pp. 24, supersedes NACA RM L51J30.
 
-  
+
 3. Theodorsen, Theodore,
 General Theory of Aerodynamic Instability and the Mechanism of Flutter,
 NACA Report 496, 1935, pp. 23.
 
-  
+
 Submitted by Duncan McDonald
- 
+
 
 
 <a href="#TOP"><img src="images/backtotop.gif"></a>
 
- 
+
 
 
 
@@ -365,10 +365,10 @@ Check out our advertiser: <a href="http://www.rocketryonline.com/cgi-bin/banners
 
 
 
- 
 
 
-Copyright © 1996-2000, Rocketry Online, all rights reserved. 
+
+Copyright © 1996-2000, Rocketry Online, all rights reserved.
 
 
 
