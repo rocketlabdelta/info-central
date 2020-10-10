@@ -84,8 +84,18 @@ def strip_leading_lines(file, category)
   `#{cmd}`
 end
 
-def strip_trailing_white_space(file)
-  cmd = "sed --in-place 's/[[:space:]]\+$//' #{file}"
+def strip_leading_lines(file, category)
+  return unless category
+  cmd = "sed -i '1,#{LEADING_LINES[category]}d' #{file}"
+  logger.debug(cmd)
+  `#{cmd}`
+end
+
+def strip_trailing_lines(file)
+  length = `wc -l #{file} | cut -d ' ' -f 1`.strip.to_i
+  logger.debug("Number of lines in file: #{length}")
+  return unless length - 27 > 0
+  cmd = "sed -i '#{length - 27},#{length + 1}d' #{file}"
   logger.debug(cmd)
   `#{cmd}`
 end
@@ -98,9 +108,9 @@ files.each do |input_file|
   logger.debug("Writing sanitized HTML to: #{output_file}")
   File.write(output_file, sanitized_html)
 
-  logger.debug("Stripping leading lines")
+  logger.debug('Stripping leading lines')
   strip_leading_lines(output_file, category(input_file))
 
-  logger.debug("Stripping trailing white space")
-  strip_trailing_white_space(output_file)
+  logger.debug('Stripping trailing lines')
+  strip_trailing_lines(output_file)
 end
