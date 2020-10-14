@@ -13,9 +13,15 @@ First, make sure you have everything you need before you start:
 
 Getting the stuff all in one spot at one time can save a lot of repainting grief which is what this is all about. When the finish doesn’t go on properly it either looks like heck or needs to be redone which is a major pain.
 
-Particle Masks ![](/images/painting_dustmask.jpg) Need we say more? If you are concerned, use a respirator in lieu of a mask
+## Particle Masks
 
-Sandpaper ![](/images/painting_sandpaper.jpg)
+![](/images/painting_dustmask.jpg)
+
+Need we say more? If you are concerned, use a respirator in lieu of a mask
+
+## Sandpaper
+
+![](/images/painting_sandpaper.jpg)
 
 Sandpaper is fairly inexpensive if used economically. Tearing off a chunk of sandpaper as necessary does not always work and is wasteful. Here’s how you do it: Using a fresh sheet of paper, fold in half lengthwise and crease well. Cut along this crease using a metal straightedge, knife or scissors. You now have a sheet of paper that is 4 1/4” x 11”. Fold in half so the long ends meet, crease, open, fold the two long ends towards the middle so they meet and fold closed. You now have a sanding paper “book” with 4 sides of sanding grit. Open and fold the leaves of the book as the sandpaper is used. One sheet makes two books of four leaves each. Neat.
 
@@ -27,7 +33,9 @@ Sanding sponges are very cool as well, These come in a variety of grits from coa
 
 As sandpaper is used the grit breaks down and becomes worthless. The grit, when seen under a microscope, has sharp edges which do all the sanding work. As the paper wears, these edges or facets becomes rounded and stop cutting. Effectively, the sandpaper becomes ball-bearing paper and it glides over the surface without doing its job. Change sandpaper often, it’s cheap.
 
-Filling materials ![](/images/painting_woodfiller.gif)
+## Filling materials
+
+![](/images/painting_woodfiller.gif)
 
 The best material that I have found is Elmer’s Finishing Wood Filler (or FwF) which comes in light and dark varieties. Either color works fine but at can consistency is rather heavy. Scoop some out and add a bit of water, stir and whip like crazy until the consistency is like creamy cake frosting. Buy a can of frosting at the supermarket to see what I’m talking about. This material then spreads like butter (or frosting for that matter) over cardboard, fiberglass, plywood, paper, almost any surface. It sticks incredibly well and sands like a dream. It can be applied with a brush, a spatula, fingers, almost anythi ng. If it starts to harden up to soon and look clumpy mist it lightly with water and smooth. FwF fills spirals in a heartbeat. Available at hardware stores everywhere.
 
@@ -37,7 +45,9 @@ Some people also like Squadron Putty and Auto Body Lacquer (or spot) Putty. Thes
 
 For epoxy or polyester filling materials, see the other Info Central sites regarding epoxy and laminating. The polyester stuff is often called “Bondo”, the epoxy fillers are admixtures which are stirred into the epoxy at mixing. These admixtures are most often fumed silica or cab-o-sil, microballoons, talc, wood flour, and milled or chopped fiberglass.
 
-Cleaning Materials ![](/images/painting_windex.gif)
+## Cleaning Materials
+
+![](/images/painting_windex.gif)
 
 A supply of acetone, denatured alcohol, and mineral spirits along with a bottle of windex is very important. Quarts are the best sizes to purchase.
 
@@ -49,7 +59,9 @@ A duster brush is also handy as is a vacuum cleaner, especially when it comes ti
 
 Acetone is good in that it evaporates quickly and thins a variety of materials. Denatured alcohol is a good solvent for epoxies and generally is fairly mild on paint finishes. Mineral spirits thin only oil base paints and primers. Windex is handy in that it is water base, dries fairly quickly, removes grease, and won’t harm most paint finishes.
 
-Masking Materials ![](/images/painting_aluminum.gif)
+## Masking Materials
+
+![](/images/painting_aluminum.gif)
 
 You need a supply of different masking materials; paper, tape, polyethelene shopping bags, aluminum foil.
 
@@ -61,7 +73,7 @@ Masking tape is fine for larger masking efforts but be careful in that it can li
 
 You may also find a white “Safe Release” material but the adhesives in the product don’t stick well at all. The paper, polyethelene, and aluminum foil is for masking large surfaces. Aluminum foil is a very effective maskant as it conforms to the shape just by crumpling.
 
-Jigging and Fixturing materials
+## Jigging and Fixturing materials
 
 Always have someplace to set the nosecone after it’s been painted. Ask any rocketeer how many nosecones they have dropped after painting and your answer will be a shake of the head and a short laugh.
 
@@ -71,7 +83,7 @@ Body tubes and fin cans need a similar fixture and drying jig. Typically the pai
 
 Painting parts prior to assembly is often done as well, a piece of corrugated cardboard with nails poked through allow a part to rest while drying. Suspending parts from coathangers also works well for painting and drying.
 
-A Place to Paint
+## A Place to Paint
 
 This can be anything but is often the most difficult part of the process. Some people hang out their windows, some use a refrigerator carton, some build a spray booth, some just go outside and have at it. Regardless, the area must be ventilated, relatively free from dust, and have little or no air movement. The coat closet would work but would lack ventilation, the bathroom with a fan would work but yikes, what a price to pay. A small spray booth or box with a fan blowing into the booth often is the best solution. You can simply use a large garbage can, spraying along the part so that the overspray goes down into the can.
 
@@ -83,7 +95,7 @@ If the weather is cool, you may find that you need to bring the part in to warm 
 
 Repeat this process for priming and painting.
 
-A Place to Dry Out
+## A Place to Dry Out
 
 This is most often a small room Using a little heater, warm the room up until it’s almost unbearable, then it’s just right for drying. Use jigs and fixtures to hold the part after finishing painting, and set the parts up and allow them to dry. Once the room is hot enough, a couple of hours of the heater running, the place will stay warm most of the night. Primers generally take 30 minutes or so to dry enough for sanding and finish coats are ready to be unmasked the next day.
 
