@@ -6,301 +6,45 @@ The electronics Tektronix manufactures and sells are required to pass several El
 
 Sylvania AG-1 flash bulbs were used throughout the testing, bulbs salvaged from flashcubes and flash bars may produce different results.
 
-1000-4-3 RF Immunity Test Data
-
-5 Volts/Meter Field Strength
-
-&nbsp;
-
-80 MHz
-
-143 MHz
-
-148 MHz
-
-900 MHz
-
-998 MHz
-
-Adept Alt2S 50K
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Adept Alt2S 50K
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Adept PST-951
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Black Sky Research AltAcc
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Transolve P2
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-2 m wire dipole
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-3 m wire dipole
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-10 Volts/Meter Field Strength
-
-&nbsp;
-
-80 MHz
-
-143 MHz
-
-148 MHz
-
-900 MHz
-
-998 MHz
-
-Adept Alt2S 50K
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Adept Alt2S 50K
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Adept PST-951
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Black Sky Research AltAcc
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Transolve P2
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-2 m wire dipole
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-3 m wire dipole
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-&nbsp;
-
-80 MHz
-
-143 MHz
-
-148 MHz
-
-900 MHz
-
-998 MHz
-
-Adept Alt2S 50K
-
-Passed
-
-Passed
-
-Failed
-
-Passed
-
-Passed
-
-Adept Alt2S 50K
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Adept PST-951
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Black Sky Research AltAcc
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Transolve P2
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-2 m wire dipole
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-3 m wire dipole
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Passed
-
-Results:
+## 1000-4-3 RF Immunity Test Data
+
+### 5 Volts/Meter Field Strength
+
+| Altimeter                    | 80 MHz | 143 MHz | 148 MHz | 900 MHz | 998 MHz |
+|------------------------------|--------|---------|---------|---------|---------|
+| Adept Alt2S 50K              | Passed | Passed  | Passed  | Passed  | Passed  |
+| Adept Alt2S 50K              | Passed | Passed  | Passed  | Passed  | Passed  |
+| Adept PST-951                | Passed | Passed  | Passed  | Passed  | Passed  |
+| Black Sky Research AltAcc    | Passed | Passed  | Passed  | Passed  | Passed  |
+| Transolve P2                 | Passed | Passed  | Passed  | Passed  | Passed  |
+| 2 m wire dipole              | Passed | Passed  | Passed  | Passed  | Passed  |
+| 3 m wire dipole              | Passed | Passed  | Passed  | Passed  | Passed  |
+
+### 10 Volts/Meter Field Strength
+
+| Altimeter                    | 80 MHz | 143 MHz | 148 MHz | 900 MHz | 998 MHz |
+|------------------------------|--------|---------|---------|---------|---------|
+| Adept Alt2S 50K              | Passed | Passed  | Passed  | Passed  | Passed  |
+| Adept Alt2S 50K              | Passed | Passed  | Passed  | Passed  | Passed  |
+| Adept PST-951                | Passed | Passed  | Passed  | Passed  | Passed  |
+| Black Sky Research AltAcc    | Passed | Passed  | Passed  | Passed  | Passed  |
+| Transolve P2                 | Passed | Passed  | Passed  | Passed  | Passed  |
+| 2 m wire dipole              | Passed | Passed  | Passed  | Passed  | Passed  |
+| 3 m wire dipole              | Passed | Passed  | Passed  | Passed  | Passed  |
+
+### 20 Volts/Meter Field Strength
+
+| Altimiter                    | 80 MHz | 143 MHz | 148 MHz | 900 MHz | 998 MHz |
+|------------------------------|--------|---------|---------|---------|---------|
+| Adept Alt2S 50K              | Passed | Passed  | Failed  | Passed  | Passed  |
+| Adept Alt2S 50K              | Passed | Passed  | Passed  | Passed  | Passed  |
+| Adept PST-951                | Passed | Passed  | Passed  | Passed  | Passed  |
+| Black Sky Research AltAcc    | Passed | Passed  | Passed  | Passed  | Passed  |
+| Transolve P2                 | Passed | Passed  | Passed  | Passed  | Passed  |
+| 2 m wire dipole              | Passed | Passed  | Passed  | Passed  | Passed  |
+| 3 m wire dipole              | Passed | Passed  | Passed  | Passed  | Passed  |
+
+## Results
 
 The collected data suggests that the HPR electronics were relatively immune to RF fields examined by the IEC 1000-4-3 testing. The only altimeter firing occurred during the testing of an Adept ALT2S 50K when a switching transient during the 20 v/m testing triggered the altimeter and produced a 601 ft. altitude reading. Attempts to reproduce this result were unsuccessful even when the field strength was increased to 50 v/m.
 
