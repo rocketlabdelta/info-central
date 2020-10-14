@@ -38,5 +38,5 @@ Clustering Composites: &nbsp;Unlike staging, clustering is almost as easy to do 
 
 See the article on building Clip Whips for igniting your clusters in the [GROUND SUPPORT](index_support.html) area.
 
-Submitted by: Peter W. Clay (peterlynnc@aol.com)
+Submitted by: [Peter W. Clay](mailto:peterlynnc@aol.com)
 
