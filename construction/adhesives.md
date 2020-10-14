@@ -1,4 +1,4 @@
-Cyanoacrylates
+## Cyanoacrylates
 
 Various cyanoacrylate glues by Bob Smith Industries ![](/images/construction_adhesive1.jpg)
 
@@ -28,9 +28,11 @@ Un-Cure debonder will soften cured CA. If parts are bonded incorrectly or your f
 
 Due to the freshness of Bob Smith CA’s, their shelf life is guaranteed for 24 months.
 
-Text from the Bob Smith Adhesives website.
+_Text from the Bob Smith Adhesives website._
 
-Epoxies For stronger bonding, epoxy is the preferred adhesive. High-power rockets should be built entirely with epoxy and even large model rockets should use epoxy for high-stress joints such as the fin-to-body and motor mount joints.
+## Epoxies
+
+For stronger bonding, epoxy is the preferred adhesive. High-power rockets should be built entirely with epoxy and even large model rockets should use epoxy for high-stress joints such as the fin-to-body and motor mount joints.
 
 There are many makers of epoxy. Hardware stores and hobby shops sell epoxy in small tubes or bottles which mix together in a 1:1 ratio (one part resin to one part hardener.) This epoxy is usually about right for bonding, but too thick for fiberglassing. The maker will probably have a thinner “finish” epoxy which can be used for filling wood and fiberglassing. Hobby shop epoxy is rated by its “handling time,” the amount of time you have before the epoxy starts to set up. The full cure time is generally 8-10 times this long. If you are using 5-minute epoxy, you have five minutes or less to get your fin aligned, but can go on to the next fin in 10-15 minutes, with full cure in 45 minutes. An epoxy with a longer handling time tends to soak into porous surfaces more and thus is stronger. Most people use the 5- and 30-minute types for rocketry work.
 

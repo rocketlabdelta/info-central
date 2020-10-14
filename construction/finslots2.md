@@ -16,7 +16,8 @@ This is the setup for cutting. I have a couple of 2 x 4’s clamped to the left 
 
 To finish the job, a sharp x-acto blade can be used to finish the ends. As you can see below, both the inside and the outside of the finished slot are flawless.
 
-![](/images/finslots2_inside.jpg) ![](/images/finslots2_outside.jpg)
+![](/images/finslots2_inside.jpg)
+![](/images/finslots2_outside.jpg)
 
 Submitted by: Chip Jenkins
 

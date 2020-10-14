@@ -10,15 +10,11 @@ First in this project I ripped on the tablesaw two pieces of Foamular that measu
 
 CAUTION: The Foamular is solvent sensitive and will melt and give off toxic fumes if solvent glues, adhesives, epoxies, and fillers are used! Use only solvent free glues, epoxies, and fillers on this foam. Test small pieces first to see how the foam reacts before trying any other adhesives or fillers on larger areas.
 
-&nbsp;
-
 ![](/images/foamturning_coreparts.jpg)
 
 MOTOR /RECOVERY SECTIONS
 
 Next I decided to make the motor mount and recovery sections before carving so I could take advantage of the flat surfaces left on the core. Before cutting any sections make alignment reference marks across each section to be cut. I cut two 8” sections off of the rear end of the rocket with the tablesaw marking each section to its mate. The rear 8” section became the motor mount section; the forward 8” section became the recovery/ parachute section. I next drilled out the two 8” sections to fit a BT-60 body tube using a 1 5/8” hole saw. This hole was very snug so I sanded the inside to fit using a 1/2” dowel and 150-grit sandpaper. Next I cut two 12”sections of BT-60 to be glued into the two drilled sections. Cover one end of each of the 12” BT-60 tube with masking tape and push it through pre-glued hole (DAP adhesive), past the tape and set aside to dry. After the glue has dried cut the BT-60 off flush with the foam. Glue the forward recovery section back onto the upper core. Next lightly tack glue the recovery and motor mount sections together for the carving process. These sections will be separated after the carving and sanding process is complete.
-
-&nbsp;
 
 ![](/images/foamturning_mmtrecovery.jpg)
 
@@ -28,11 +24,7 @@ Next we need some homemade lathe brackets and a front and rear spindle mounts to
 
 ![](/images/foamturning_lathemounts.jpg)
 
-&nbsp;
-
 ![](/images/foamturning_spindlemounts.jpg)
-
-&nbsp;
 
 ![](/images/foamturning_drill.jpg)
 
@@ -41,8 +33,6 @@ TURNING THE CORE
 The best speed to turn the foam core for carving is between 150-350 RPM. Turning any faster and the core will begin to wobble out of round and eventually break off. It is best to first round the core completely for balance with a wood rasp. No pressure with the wood rasp is needed, just a gentle touch as the foam carves quickly. For deeper cuts the foam can be rough cut to shape with a hobby backsaw and then shaped more with the wood rasp.
 
 ![](/images/foamturning_rasp1.jpg)
-
-&nbsp;
 
 ![](/images/foamturning_rasp2.jpg)
 
@@ -58,8 +48,6 @@ EJECTION BAFFLE AND SHOCK CORD MOUNTS
 
 I decided to go with an ejection baffle system with an eyebolt shock cord mount because of the size to this rocket. This section is about 6” long and will also be used for the coupler tube, ejection baffle, and shock cord mount on the motor section. Using the Bt-60 coupler tube I tape dammed one end and centered the eye bolt in it. I next poured epoxy into the coupler tube at least 1/4” thick to cover the eyebolt nut. When the epoxy is dry drill several 1/4” holes for the ejection charge to provide separation.
 
-&nbsp;
-
 ![](/images/foamturning_baffle.jpg)
 
 A second eye bolt attachment will be needed for the recovery section. This section was made from a 1” piece of coupler tube and tape dammed with the eyescrew hole to the INSIDE of the coupler tube. Pour epoxy in the same way as above being sure to surround the nut with epoxy and let dry. I next tied a 3/8” braided elastic shock cord to this eyebolt and glued it in the forward end of the recovery section using a long couple tube to push it into the pre-glued section.
@@ -67,8 +55,6 @@ A second eye bolt attachment will be needed for the recovery section. This secti
 FIN ATTACHMENT AND MOTOR MOUNT
 
 I decided to go with a 24mm motor mount tube which I had on hand and custom made my own centering rings from 1/4” balsa plywood. I next used a hobby backsaw to notch out fin slots in the foam down to the BT-60 tube and glued them in with foamboard adhesive.
-
-&nbsp;
 
 ![](/images/foamturning_fins.jpg)
 

@@ -10,7 +10,10 @@ The bottom and top are 1/4” Luan, cut 1” wider than the airframe and simply 
 
 Initially, your airframe will be a tight fit - this is good. Center the jig against your fence and install a stop block on the outfeed end. Line up your mark for the 1st slot and away you go. The fit loosens a little as the slots are cut.&nbsp; I used a 1/4” 2 flute carbide straight bit which gave good results, but an upcut spiral bit would probably work cleaner. If you don’t want the slot to go all the way to the end of the tube, drill a pilot hole and start there.
 
-[![](/images/slotcutter1sml.jpg)](/images/slotcutter1.jpg)[![](/images/slotcutter2sml.jpg)](/images/slotcutter2.jpg)
+![](/images/slotcutter1sml.jpg)
+![](/images/slotcutter1.jpg)
+![](/images/slotcutter2sml.jpg)
+![](/images/slotcutter2.jpg)
 
 Submitted by: Jerry OSullivan
 
