@@ -35,5 +35,6 @@ Every activity has its own jargon and rocketry is no exception. Here are some te
 - streamer A recovery system for the smallest of model rockets. Streamers are flat plastic, paper or cloth bands which are attached to the rocket and flap as the rocket comes down, slowing the descent.
 - thrust is a measure of instantaneous force (in Newtons or pound of force). The "average thrust" of a motor is the average amount it pushes on the rocket during it's entire burn phase. Note that the motor generally produces different amounts of thrust as it burns and a graph of this is called a "thrust curve."
 
-There are many other terms in use, more than we could possibly cover here, but understanding these basic will allow you to participate in rocketry conversations. See the Glossary in the[RESOURCES](index_resources.html) area for many more.
+There are many other terms in use, more than we could possibly cover here, but understanding these basic will allow you to participate in rocketry conversations. See the Glossary in the [RESOURCES](index_resources.html) area for many more.
 
+Submitted by: John Coker

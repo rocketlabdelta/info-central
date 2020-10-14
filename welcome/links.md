@@ -8,4 +8,6 @@ These pages are just a quick introduction to the hobby. There is an immense amou
 - The[Canadian Association of Rocketry](http://www.promotek.com/car/index.htm)is the Canadian national hobby organization.
 - [Model Rocketry - From the Ground Up](http://www.dimensional.com/~pmgray)is a site devoted to beginner information. This is a great site for more a in-depth introduction to model rocketry.
 - [Space Team Online](http://quest.arc.nasa.gov/space/teachers/rockets/index.html)is a nice site on rocketry for educators, including many low-cost projects for the classroom.
-- See the Rocketry Online special report on
+- See the Rocketry Online special report on [Getting Legal](http://www.rocketryonline.com/special_report.html) for more detailed information on regulation at the U.S. national level.
+
+Submitted by: John Coker

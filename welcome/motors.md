@@ -15,3 +15,4 @@ Hybrid motors attempt to blend the best of solid and liquid fuel rockets. The ox
 
 In hobby rocketry, motors are given a letter designation which specifies the total impulse (overall productive energy) of the motor with a range. Each letter indicates a doubling of the energy in the prior range so a “B” motor is twice as powerful as an “A” and a “C” is four times as powerful as an “A” (and twice as powerful as a “B”). That said, not every “C” motor has the same total impulse. Any motor whose total impulse is greater than 5 Newton-seconds (Ns) and less than or equal to 10Ns is a C motor, even though a 5.01Ns motor is only half as powerful as a 10Ns motor. By the way, commercial motors are made up to “O” size (the limit of high-power rocketry) and a full O is 40,960Ns, equivalent to 2,048 “mighty D” motors.
 
+Submitted by: John Coker

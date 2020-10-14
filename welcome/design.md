@@ -22,3 +22,4 @@ Now you know the C.G. and C.P. of your rocket, you can determine whether it will
 
 Materials and building techniques are also an important consideration. Model rocket materials (paper tubes, plastic or balsa fins and glue) are not appropriate for more powerful rockets. By the same token, high-power materials are not appropriate for model rockets because they weigh too much for model rocket engines to lift. Steel is not used for airframes or fins because it’s too heavy for its strength. Large high-power and amateur rockets generally use composite materials like fiberglass.
 
+Submitted by: John Coker

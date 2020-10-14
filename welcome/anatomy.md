@@ -4,3 +4,4 @@ The picture below is from the Handbook of Model Rocketry by G. Harry Stine, whic
 
 One interesting thing is that as large and as complex as rockets get, they’re still just variations on this basic design. There are fundamental physical principles which restrict what a stable and efficient rocket will be like.
 
+Submitted by: John Coker

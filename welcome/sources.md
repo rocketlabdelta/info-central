@@ -8,5 +8,6 @@ Kit manufacturers will list several recommend motors. Take their recommendations
 
 Amateur rocketry is all about doing everything yourself, so no kits here. Some larger launches attract companies such as Thunderflame Associates which hold motor-making classes, but your best bet is to find other amateurs in your area and work with them. Scratch-building supplies can be purchased mail-orders from many vendors.[Giant Leap Rocketry](http://www.giantleaprocketry.com),[Missile Works](http://www.missileworks.com) and[Magnum Rocket Hobbies](http://www.magnumrockets.com/)are a few of the largest.
 
-This list is far from complete and we don’t want to slight any of the companies not mentioned. The
+This list is far from complete and we don’t want to slight any of the companies not mentioned. The [Rocketry Online Vendors](http://www.rocketryonline.com/Search/db_search.cgi?setup_file=URL&submit_search=yes&category=Vendor) section includes many other excellent companies making and selling kits, motors, parts and supplies.
 
+Submitted by: John Coker

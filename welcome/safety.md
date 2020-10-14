@@ -4,5 +4,6 @@ Now that I’ve scared you, what are the things to be careful of? If you build a
 
 Materials and building techniques are also important. Model rocket materials (paper tubes, plastic or balsa fins and glue) are not appropriate for more powerful rockets. By the same token, high-power materials are not appropriate for model rockets because they weigh too much for model rocket engines to lift. Steel is not used for airframes or fins because it’s too heavy for its strength. Large high-power and amateur rockets generally use composite materials like fiberglass. Despite what you saw in October Sky, steel is not a good material for building your rockets because a steel rocket tube falling from the sky makes a very dangerous projectile. Anyone hit by it will most likely be killed.
 
-Please, please, please: carefully read the safety codes published by the National Association of Rocketry: the[Model Rocket Safety Code](http://www.nar.org/NARmrsc.html)
+Please, please, please: carefully read the safety codes published by the National Association of Rocketry: the [Model Rocket Safety Code](http://www.nar.org/NARmrsc.html)
 
+Submitted by: John Coker

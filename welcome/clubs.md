@@ -6,3 +6,4 @@ Another good reason to attend club launches is that the club provides the launch
 
 Probably the best reason to join a club is the chance to learn from more experienced rocketeers. The Internet is great for gathering information, but nothing beats seeing other’s rockets and showing them yours for gaining knowledge.
 
+Submitted by: John Coker

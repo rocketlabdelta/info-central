@@ -16,3 +16,4 @@ Note that most of these rules only come into play with larger rockets and more p
 
 Related to these laws are the certifications maintained by the U.S. national hobby organizations. Both N.A.R. and Tripoli administer tests and track certifications for high-power rocketry at various levels (N.A.R. has two levels and Tripoli has three). These certifications have no legal force, but are a convenient and common way to control access to pre-manufactured motors. At N.A.R. and Tripoli sanctioned club launches, flyers must have the requisite certification level to fly high-power motors. Level 1 certification allows flying H and I motors; level 2 allows flying J, K and L motors, and level 3 (Tripoli only) allows flying M, N and O motors.
 
+Submitted by: John Coker

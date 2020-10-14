@@ -7,3 +7,4 @@ The term “non-professional rocketry” is so broad that it is typically broken
 
 “Hobby rocketry” is also used to describe model, mid-power and high-power rocketry.
 
+Submitted by: John Coker
