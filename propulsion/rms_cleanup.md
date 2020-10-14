@@ -1,6 +1,7 @@
 Ammonium perchlorate composite propellant produces undesireable subtances during combustion, such as hydrochloric acid (HCl). Motors need to be cleaned after use to remove acids and other “crud” because a dirty case and closures can contribute to motor failure during flight. For example, grime on a case can prevent the o-rings from containing the hot gases and flame, and cause early ejection when motor ejection is used to deploy the parachute.
 
-Motors can be cleaned and reused in the field. A suggested list of supplies for cleaning motors at home and in the field is provided below. ![](/images/propulsion_cleaning1.jpg)
+Motors can be cleaned and reused in the field. A suggested list of supplies for cleaning motors at home and in the field is provided below.
+![](/images/propulsion_cleaning1.jpg)
 
 - Trash bag
 - Towels

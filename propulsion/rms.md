@@ -1,6 +1,7 @@
-Typical reloadable motor showing components ![](/images/aerotech.jpg)
-
 A reloadable motor is a motor designed to be used multiple time by inserting new propellant and replacing other expendable components. A reloadable motor usually consists of an aluminum tube (a special aluminum alloy) and closures to hold the nozzle on one end and to seal the other end. Some manufacturers have the closures screw into the motor case. Others use other techniques to secure the closures, like a snap ring.
+
+Typical reloadable motor showing components
+![](/images/aerotech.jpg)
 
 Pictured is a Dr. Rocket/Aerotech reloadable motor. On the left is the aft closure, which closes the rear of the motor and holds in the nozzle, the motor case and on the right the forward (top) closure. (Dr. Rocket is a licensed manufacturer of Aerotech’s motor technology.)
 
@@ -10,23 +11,31 @@ Motor cases are available in different diameters and lengths to allow for propel
 
 A propellant reload kit contains one or more propellant grains, and other components that are replaced each time the motor is used. Most motors use one or more silicone O-rings that must be replaced each time the motor is used. Some manufacturers use a plastic nozzle that must be replaced for each motor use. Others use a graphite nozzle that is usually good for about 20 flights before replacement is needed.
 
-AeroTech RMS Reload Kit ![](/images/atreload.jpg)
 
-AeroTech/Dr. Rocket This is an AeroTech reloadable motor reload kit, which can be used with either an AeroTech RMS or Dr. Rocket reloadable motor.
+## AeroTech/Dr. Rocket
+![](/images/atreload.jpg)
+AeroTech RMS Reload Kit
+
+This is an AeroTech reloadable motor reload kit, which can be used with either an AeroTech RMS or Dr. Rocket reloadable motor.
 
 This particular kit, an H-123, contains two individual propellant grains, a cardboard motor case liner, rubber O-rings, a single-use plastic nozzle, a delay grain and components, and assorted seals.
 
 The propellant grains are inserted into the liner, and the liner is then inserted into the motor case.
 
-APS reloadable motor showing components ![](/images/aps1.jpg)
 
-Advanced Propulsion Systems Shown here is an Advanced Propulsion Systems (APS) reloadable motor. The motor consists of a case, forward closure, aft closure (next to the nozzle) and graphite nozzle. The nozzle can be used for about 20 flights before replacement.
+## Advanced Propulsion Systems
+![](/images/aps1.jpg)
+APS reloadable motor showing components
 
-APS reloadable motor reload kit ![](/images/aps2.jpg)
+Shown here is an Advanced Propulsion Systems (APS) reloadable motor. The motor consists of a case, forward closure, aft closure (next to the nozzle) and graphite nozzle. The nozzle can be used for about 20 flights before replacement.
+
+![](/images/aps2.jpg)
+APS reloadable motor reload kit
 
 An APS reloadable motor reload kit is shown here. It contains an O-ring, three propellant grains, a delay grain, and a cardboard liner. The propellant grains are inserted into the liner. The delay grain is ignited when the motor ignites and burns slowly. When it burns through, the motor ejection charge, if used, is ignited. When the recovery system is deployed through motor ejection, black powder is installed in the forward closure’s “ejection well”. The delay grain goes inside the forward closure.
 
-APS motor forward closure ![](/images/closure1.jpg)
+![](/images/closure1.jpg)
+APS motor forward closure
 
 This is the forward (top) closure, showing the ejection charge well.
 
@@ -34,7 +43,8 @@ Black powder is placed into the well, and cover with some masking tape to hold i
 
 When an electronic mechanism, such as altimeter, is used to activate the ejection charge, a plugged forward closure may be used if offered by the motor manufacturer. A plugged closure is like the pictured one but the top is solid, having no ejection well or hole.
 
-APS delay installed ![](/images/closure2.jpg)
+![](/images/closure2.jpg)
+APS delay installed
 
 This picture shows an APS forward closure with the delay grain inserted into its chamber.
 

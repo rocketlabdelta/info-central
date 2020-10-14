@@ -1,6 +1,6 @@
 Staging composite propellant motors is more complex than staging black powder motors. Composite motors are more difficult to ignite, and do not reach operating pressure immediately. Several factors must be considered.
 
-Timing Sustainer Ignition
+## Timing Sustainer Ignition
 
 Examine the thrust curve of the booster’s motor and run flight simulations through a computer program to determine the best time to ignite the sustainer’s motor. The best time depends in part upon your motor choices. Different motors have different thrust curves. Some produce significant thrust until burnout. Some have a rapid decrease in thrust after ignition and may not produce a significant amount of thrust during the final part of the burn.
 
@@ -14,7 +14,7 @@ If the booster and sustainer are separated before the sustainer reaches operatin
 
 If the booster and sustainer are to be separated prior to ignition of the sustainer’s motor (the sustainer will coast for a short time), then separation can by placing a small black powder charge in the coupler, and wiring it’s igniter in parallel with the sustainer’s igniter.
 
-Sustainer Ignition
+## Sustainer Ignition
 
 Electronics, like a timer that detects launch, usually through a G-switch, or an accelerometer, are often used to initiate ignition of a sustainer’s motor, along with a low current igniter. Most low current igniters will not ignite a composite propellant motor alone. A low current igniter like a Daveyfire N28F can form the basis for a multiple stage igniter.
 
@@ -28,7 +28,7 @@ A motor with a large diameter core may need a multiple stage igniter. This type 
 
 For smaller core motors place some AeroTech Blue Thunder shaving (thin, small pieces of the propellant) ahead of and around the electrical igniter. Small pieces of propellant ignite faster than large pieces. A paper (or masking tape) “cup” can be placed on the electrical igniter below the pyrogen to keep the shavings from falling out of the motor. The cup must be paper so that it will disintegrate upon motor ignition and not block the path to the nozzle. (A blocked nozzle can cause a motor to overpressurize and burst.) The igniter may need to be assembled into the motor as the motor is assembled.
 
-Keeping the Igniter Where it Belongs
+## Keeping the Igniter Where it Belongs
 
 The sustainer’s igniter must be retained in the motor and at the top of the motor until it fires. This can be a problem for large motors and large igniters. The G forces during boost may cause the igniter to fall out of the motor, or to collapse to the bottom of the motor. Both situations can result in failed ignition or a failed flight if the motor is ignited at the bottom.
 
