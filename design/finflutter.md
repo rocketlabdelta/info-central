@@ -38,7 +38,7 @@ One other formula that we can use is the formula for flutter velocity. It is not
 
 ![](/images/finflutter_eqn3.gif)
 
-Where Va is the speed of sound GE is the shear modulus
+Where V<sub>a</sub> is the speed of sound G<sub>E</sub> is the shear modulus
 
 I have made up an[Excel spreadsheet](finflutter.xls)that captures these equations and calculates both the flutter velocity and the flutter index. The air pressure is assumed to be sea level so that p/p0 is equal to one. I included a variety of fin styles and materials. It is interesting to note that the flutter indexes that I calculated range from about 1x106 to 16.5x106, which is in the upper 25% of all of the FI’s that Martin examined. Similarly the shear moduli range from 4x106 to 10x106 (disregarding balsa and plywood where I don’t trust the numbers), which is in the upper 20% of all the materials that Martin plotted. For the materials the interpretation is simple: we have very stiff materials available to us today, perhaps stiffer than 1958. 6061-T6 aluminum has the same rating as Martin’s steel does for instance. S-glass is almost as stiff as his titanium. On the other hand, the FI numbers say that our fins probably have a lower thickness ratio than in the good old days, which may not be a good thing.
 
@@ -48,15 +48,9 @@ Where do we go from here? All of the material presented here doesn’t mean much
 
 References
 
-1. 
+1. Theodorsen, Theodore Garrick, I E, Mechanism of Flutter, A Theoretical and Experimental Investigation of the Flutter Problem, NACA Report 685, 1940, pp. 46.
+2. Dennis J. Martin, Summary of Flutter Experiences as a Guide to the Preliminary Design of Lifting Surfaces on Missiles, NACA TN 4197, Feb 1958, pp. 24, supersedes NACA RM L51J30.
+3. Theodorsen, Theodore, General Theory of Aerodynamic Instability and the Mechanism of Flutter, NACA Report 496, 1935, pp. 23.
 
-Theodorsen, Theodore Garrick, I E, Mechanism of Flutter, A Theoretical and Experimental Investigation of the Flutter Problem, NACA Report 685, 1940, pp. 46.
-
-2. 
-
-Dennis J. Martin, Summary of Flutter Experiences as a Guide to the Preliminary Design of Lifting Surfaces on Missiles, NACA TN 4197, Feb 1958, pp. 24, supersedes NACA RM L51J30.
-
-3. 
-
-Theodorsen, Theodore, General Theory of Aerodynamic Instability and the Mechanism of Flutter, NACA Report 496, 1935, pp. 23.
+Submitted by: Duncan McDonald
 
