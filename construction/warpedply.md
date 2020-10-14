@@ -27,5 +27,5 @@ Here’s the procedure:
 
 I use this technique on all of my scratch built projects, and it works well. I have even put fiberglass cloth between the two pieces to stiffen/strengthen the assembly. I don’t know if it really did any good, as I have not empirically tested it, but it appears to have worked.
 
-Submitted by Jon H. Ruehle
+Submitted by: Jon H. Ruehle
 

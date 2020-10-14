@@ -87,5 +87,5 @@ A Place to Dry Out
 
 This is most often a small room Using a little heater, warm the room up until it’s almost unbearable, then it’s just right for drying. Use jigs and fixtures to hold the part after finishing painting, and set the parts up and allow them to dry. Once the room is hot enough, a couple of hours of the heater running, the place will stay warm most of the night. Primers generally take 30 minutes or so to dry enough for sanding and finish coats are ready to be unmasked the next day.
 
-Submitted by Bob Fortune
+Submitted by: Bob Fortune
 

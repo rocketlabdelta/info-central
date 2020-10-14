@@ -1198,5 +1198,5 @@ Yaw - A back-and-forth motion of the nose of a rocket in flight, on the axis det
 ### Z
 Zipper/Zippering - A condition in which a slot is cut in an airframe by a shock cord. This condition is caused by early or late recovery system deployment, in which the recovery system deploys while the airframe is moving at a high rate of speed.
 
-Submitted by Joel Simon
+Submitted by: Joel Simon
 

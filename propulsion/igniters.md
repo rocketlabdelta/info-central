@@ -62,11 +62,11 @@ Copperhead igniters are sold by Aerotech, and provided with Aerotech motors. The
 
 Note: Additional commercial igniters exist, but have not been used by the author and therefore no data is included at this time.
 
-Submitted by Dean Roth
+Submitted by: Dean Roth
 
 Typical tackle box for storing igniters ![](/images/propulsion_igniter_box.jpg)
 
 Handy Igniter Storage Tip A handy way to store your ignitors and plugs is to use a little tackle box, sold at fishing supply stores - such as Bass Pro Shops. The Plano 3510, or similar, is perfect to keep those ignitor parts on hand and dry. Plano is a huge supplier of fishing tackle boxes and makes a great number of styles available, from full-blown tackle boxes to individual storage trays. A variety of storage configurations and sizes are available and are perfect for rocketry.
 
-Submitted by Doyle Tatum
+Submitted by: Doyle Tatum
 

@@ -38,5 +38,5 @@ The spreadsheet will also show you a picture of the nose cone profile. The X-axi
 
 [Click here for nosecones.xls.](nosecones.xls)
 
-Submitted by Kemal Payza
+Submitted by: Kemal Payza
 

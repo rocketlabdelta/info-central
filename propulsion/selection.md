@@ -35,5 +35,5 @@ Both motors have an average thrust of about 180 Newstons (40.4 pounds). Assume w
 
 A flight simulation program should be used to determine the maximum altitude. The program should also recommend a delay time if motor ejection is used to deploy the parachute.
 
-Submitted by Dean Roth
+Submitted by: Dean Roth
 

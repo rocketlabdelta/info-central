@@ -35,5 +35,5 @@ Here is how to outlined your presentation.
 
 I hope this helps. Remember to look and act responsible. This probably isn’t the time to wear your cut-off T-shirt and your flip-flops.
 
-Submitted by Tom Savoie
+Submitted by: Tom Savoie
 

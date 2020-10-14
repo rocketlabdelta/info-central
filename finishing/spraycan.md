@@ -93,5 +93,5 @@ Sprayed paint too far from surface
 
 Always maintain a wet edge when spraying. Spray away from the wet edge into the unpainted area. Sand with fine sandpaper and recoat with a heavier application at the recommended spray distance.
 
-Submitted by Bob Fortune
+Submitted by: Bob Fortune
 

@@ -295,5 +295,5 @@ PHOTO – MULTPAD SCHEMATIC
     fill the void between single pad controllers and the equipment which is used for large
     numbers of pads. &nbsp; Criticism and suggestions for improving the design are welcome.
 
-Submitted by [Charles Barnett](mailto:cbarnett@texnet.net)
+Submitted by: [Charles Barnett](mailto:cbarnett@texnet.net)
 

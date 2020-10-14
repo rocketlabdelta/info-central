@@ -122,5 +122,5 @@ Some will say that plastic films are only OK on small to mid powered rockets. He
 
 13’ 4” Pathfinder on an Aerotech J350. All Monokote but the nose cone!
 
-Submitted by Joe Grubb
+Submitted by: Joe Grubb
 

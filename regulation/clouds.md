@@ -20,5 +20,5 @@ To interpret the codes see:
 
 [http://www.nws.noaa.gov/om/asosbook.htm](http://www.nws.noaa.gov/om/asosbook.htm)
 
-Submitted by Dean Roth
+Submitted by: Dean Roth
 

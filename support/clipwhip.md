@@ -16,5 +16,5 @@ Split each end of each lead about 2” at each end, and strip about 1/2” of in
 
 On the pad, hook a pair of micro-clips to each ignitor. &nbsp;(If there are more leads than ignitors, such as if you are firing a two-engine cluster with a three-lead clip whip, just make sure the extra set does not short out.) &nbsp;Hook your regular launch system clips to the free twisted, soldered ends. &nbsp;Countdown and launch!
 
-Submitted by Peter W. Clay (peterlynnc@aol.com)
+Submitted by: Peter W. Clay (peterlynnc@aol.com)
 

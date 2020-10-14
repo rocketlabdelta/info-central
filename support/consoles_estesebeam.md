@@ -20,4 +20,4 @@ Penrose, CO 81240
 
 Or you can send them email at [76300.1121@compuserve.com](mailto:76300.1121@compuserve.com).
 
-Submitted by John Coker
+Submitted by: John Coker

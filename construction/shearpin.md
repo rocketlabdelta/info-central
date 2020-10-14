@@ -38,5 +38,5 @@ Strips of thin brass 1/4” wide are sold at most hobby stores and some hardware
 
 Brass plates have been successfully adhered to plastic nose cones by scraping the nose cone where the plate is to be fastened to give epoxy something to grip. An epoxy paste like Epoxo88 has worked well.
 
-Submitted by Dean A. Roth
+Submitted by: Dean A. Roth
 

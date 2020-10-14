@@ -30,5 +30,5 @@ The tube slides onto the top of the hybrid motor. ![](/images/propulsion_hybrid5
 
 The hole should not be in line with any fins or the launch lugs (nothing which would cause turbulence forward of the hole). If you drill this hole in-line with the vent hole, you can line the bay vent hole with the hybrid motor vent nozzle before inserting into the motor mount tube from the rear.
 
-Submitted by John Coker
+Submitted by: John Coker
 

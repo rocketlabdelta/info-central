@@ -20,5 +20,5 @@ And this is not necessarily all. You could deploy a lighter than air balloon tha
 
 Which one is best? It all depends on the rocket and what you’re trying to do with it. For anything over a few ounces, though, parachute recovery is pretty much the baseline. They are the most efficient for their weight and bulk.
 
-Submitted by Dave Urbanek
+Submitted by: Dave Urbanek
 

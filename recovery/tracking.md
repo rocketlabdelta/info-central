@@ -34,5 +34,5 @@ Using a small alarm module such as a “Sonalert”(tm) or similar device, you c
 
 I’ve not tested, but believe would help, is a hearing enhancing device. I’ve seen one advertised on TV touting the benefits of hearing things you never heard before. Equipped with a directional microphone this could be effective in retrieving beeper equipped rockets that land in crop fields.
 
-Submitted by Dan King
+Submitted by: Dan King
 

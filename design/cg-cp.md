@@ -16,5 +16,5 @@ Up to two body diameters is usually even better, but dont go much over two diame
 
 If you dont have the biggest motor you intend to fly on hand, or if you havent reached a certification level where you can buy one, check out the weight of the propellant you intend to use and the reload casing from the manufacturer. Many times that information is available on the manufacturers web site. Simulate the weight of the casing and propellant in the motor mount tube. Use one or more rolls of coins, a baggie with dirt in it, whatever you can come up with that’s similar to the weight of the motor and casing.
 
-Submitted by Andrew Waddell
+Submitted by: Andrew Waddell
 

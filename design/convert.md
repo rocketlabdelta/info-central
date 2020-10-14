@@ -148,5 +148,5 @@ Ounces/Cubic Foot
 
 Grams/Cubic Centimeter
 
-Submitted by Duncan Mcdonald
+Submitted by: Duncan Mcdonald
 

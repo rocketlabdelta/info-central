@@ -6,5 +6,5 @@ To address this issue, we designed a low resistance, high current ignition syste
 
 Using the cluster ignition system is quite easy. Attach the battery leads to a well charged battery and the from the solenoid leads to the ignitors. Then attach the leads from the launch control system to the terminals of the solenoid, the #10 stud is one terminal and the metal frame of the solenoid is the other. Polarity between the launch system and the solenoid is not an issue here as long as the battery attached to the solenoid is not connected to any other launch gear. Continuity testing at the launch controller is not an issue, as the actuation current for the solenoid is about 2 amps.
 
-Submitted by John Lyngdal
+Submitted by: John Lyngdal
 

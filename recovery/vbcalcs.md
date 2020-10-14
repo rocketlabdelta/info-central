@@ -14,5 +14,5 @@ URL: www.gbg.bonet.se/GME/INDEX/Sidor/Program.zip, size: 650Kb.
 
 [![](/images/vbcalcs_windows.gif)](http://www.gbg.bonet.se/GME/Sidor/Tools.html)
 
-Submitted by Michael Eriksson
+Submitted by: Michael Eriksson
 

@@ -19,5 +19,5 @@ AEROTECH INTERLOCK CONTROLLER
 
 AeroTech has a [web site](http://aerotech-rocketry.com). You can find out more about this[controller](http://aerotech-rocketry.com/products/kits/Interlock.html)there as well.
 
-Submitted by John Coker
+Submitted by: John Coker
 

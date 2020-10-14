@@ -82,5 +82,5 @@ ROCKET NAMED: “IT”
 
 I have decided to name this rocket the “IT”. The finished is 47 inches long and 3 3/4 inches in diameter at IT’S widest point. The IT has been swing tested and nose weight has been added to make it flight stable. An test flight was attempted, however while I was hooking up the wire leads a at a local park I was told by the park caretaker that rockets were not allowed in Mason County Parks so I had to leave.
 
-Submitted by James Pierson
+Submitted by: James Pierson
 

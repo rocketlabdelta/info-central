@@ -240,5 +240,5 @@ Have Fun and Clear Skies.
 
 If you choose to undertake this or some part of this project, you do so at your own risk. I will not be liable for any accident or injury as a result of persons building this project. This project was designed and developed by James Carter 2002. Feel free to distribute it, however please keep the document in tact as the re-posting or taking graphics from this project is expressly prohibited by international copyright (c) laws.
 
-Submitted by James Carter
+Submitted by: James Carter
 

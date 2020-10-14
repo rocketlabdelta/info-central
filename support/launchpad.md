@@ -46,5 +46,5 @@ Summary
 
 This pad has been used for rockets up to 2 lbs, equipped with G motors, and with rod sizes up to 3/8 inch.&nbsp; If this pad doesnt meet your needs you may want to check out the Jan-Feb 99 issue of NARs Sport Rocketry, there is a very good article on making a swivel head with a neat method of attaching the rod with a drill chuck, adapting that to a camera tripod. &nbsp;There is also an article on making ablative blast deflectors in the same issue.
 
-Submitted by Eric Ohmit
+Submitted by: Eric Ohmit
 

@@ -94,7 +94,7 @@ Conclusion
 
 If you buy everything brand new from Radio Shack you will spend about $50, without tax and the battery. &nbsp;You may want to scrounge through your junk box for some of the parts to save some money.&nbsp; This class should help anyone put together a launcher that can be assembled in one or two nights of tinkering.
 
-Submitted by Eric Ohmit
+Submitted by: Eric Ohmit
 
 The design for building a rocket launcher contains a problem that under certain circumstances may cause the unexpected ignition of a rocket engine. The problem lies in the use of phono plugs and jacks to connect the hand box to the launch box. When the phono plug slides into or out of the jack on the launch box, the contacts on the plug will momentarily touch more than one contact in the jack which may activate the relay and provide power to the igniter clips.
 
@@ -102,5 +102,5 @@ This can happen regardless of whether the hand side is plugged in, or if the saf
 
 In the interest of safety, the launcher should be completely assembled and tested before connecting it to an igniter. A 12 volt automotive light bulb connected to the igniter clips is an easy way to test the launcher, the bulb should be lit only when the key is in place and the launch button is pressed. If the bulb is lit at any other time, then check your system and do not connect to an igniter until the problem is resolved. Another option would be to use some other type of connector such as telephone (RJ11) plugs and jacks, where each contact does not slide against any of the other contacts, or simply hard wire the hand box and the launch box together.
 
-Submitted by Michael Short
+Submitted by: Michael Short
 

@@ -15,5 +15,5 @@ If your altimeter requires a rapid decrease in altitude to arm, begin your pull 
 
 It is a good idea to solder the extremely small lamp wires to 22 gauge or larger stranded wire and tin the exposed tips for ease of use. Heat shrink should cover the joint to keep the wire from breaking there.
 
-Submitted by Charles Barnett
+Submitted by: Charles Barnett
 

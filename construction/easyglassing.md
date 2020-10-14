@@ -20,5 +20,5 @@ When the glass has cured, sand it with 120 grit and wipe it down with acetone or
 
 To fill the weave pattern of the cloth so that it is smooth, “Kilz” is a high-solids primer in a spray can that will fill the weave and sands easily. A 4” tube will use about an entire can, so buy enough for your project. Home Deopt carries Kilz in the paint department.
 
-Submitted by Jon H. Ruehle
+Submitted by: Jon H. Ruehle
 

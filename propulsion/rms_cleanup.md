@@ -17,5 +17,5 @@ Smaller motors, like most Aerotech 38mm motors and smaller, can be soaked in whi
 
 Dish detergent can be used to thoroughly remove grease from motor components.
 
-Submitted by Dean Roth
+Submitted by: Dean Roth
 

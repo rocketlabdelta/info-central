@@ -6,5 +6,5 @@ Are are three images: one wiring diagram, one view of other dual deploy componen
 
 ![](/images/dualdeploy_wiring.jpg)
 
-Submitted by Mark E. Newton
+Submitted by: Mark E. Newton
 

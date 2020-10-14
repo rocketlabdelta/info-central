@@ -22,5 +22,5 @@ Third, keep the rocket stable, but not overly so. Remember: the rocket rotates (
 
 Making over stable rockets by adding lots of nose weight exacerbates the coning problem two ways: it increases the moment of inertia, which means you get bigger pitching moments before the fins can counteract them, and also means that the gyroscopic effects are larger. You also move the CG forward, so the magnitude of any coning is much worse.
 
-Submitted by Rick Dickinson
+Submitted by: Rick Dickinson
 

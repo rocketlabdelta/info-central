@@ -22,5 +22,5 @@ Sky Inc. 1300 Gay Lussac, 104 Boucherville, Quebec, Canada, J4B-7G4 Tel: 514-449
 
 Tango Papa Decals [Bakertom@aol.com](mailto:Bakertom@aol.com)
 
-Submitted by Eric Gadoury
+Submitted by: Eric Gadoury
 

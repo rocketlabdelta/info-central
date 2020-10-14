@@ -99,5 +99,5 @@ The author encourages the use of two igniters per charge. Though the probability
 
 ![](/images/recovery/ec6.jpg)An ejection charge can make the inside of an airframe dirty. The soot can be contained. In this photo is one idea. A PVC pipe fitting is attached to the top of the electronics bay. The ejection charge is placed into the fitting.
 
-Submitted by Dean A. Roth
+Submitted by: Dean A. Roth
 

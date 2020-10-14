@@ -6,5 +6,5 @@ The next part is to figure the actual decent rate. The formula used for this is 
 
 [Download the spreadsheet](xformdescent.xls).
 
-Submitted by Steve Gerber
+Submitted by: Steve Gerber
 

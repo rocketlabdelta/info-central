@@ -46,5 +46,5 @@ The silicone O-rings must have a light coat of lubricant (“grease”) applied 
 
 The particular type of lubricant used (petroleum jelly, grease with Teflon, etc.) is not nearly as important as the correct application of the lubricant.
 
-Submitted by Dean Roth
+Submitted by: Dean Roth
 

@@ -44,5 +44,5 @@ This type of rope is specifically engineered to absorb shock loads. It is not ra
 
 All the information for the tables came from the 1999 REI Climb Information Guide. To purchase any of the above materials visit your local climbing/outdoor store or visit REI online at[www.rei.com](http://www.rei.com/).
 
-Submitted by Bryan Flynt
+Submitted by: Bryan Flynt
 

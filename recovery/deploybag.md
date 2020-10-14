@@ -115,5 +115,5 @@ Sew the bag and turn inside out so that the seams are on the inside. Add the ela
 
 The method you will use to attach the bag to the parachute depends upon your parachute’s construction. For a Rocketman parachute melt two holes through the suspension lines at the apex and run the bridle to the deployment bag through the holes. Some parachutes have a spill hole with lines running over the hole. For those attach the bag’s bridle to the lines over the spill hole.
 
-Submitted by Dean A. Roth
+Submitted by: Dean A. Roth
 

@@ -28,5 +28,5 @@ In addition to fixing the Zipper Effect this design moves the center of gravity 
 
 One final point, you should only use Tubular Nylon for “shock cord”. Do NOT use elastic or bungee; both will fail under heat or high energy deployment. The use of Tubular Nylon combined with the AntiZipper design AND good parachutes (eg. RocketMan) will decrease problems associated with high energy deployment significantly.
 
-Submitted by Stu Barrett
+Submitted by: Stu Barrett
 

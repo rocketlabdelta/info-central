@@ -18,4 +18,4 @@ sqrt( 5 \* 0.454 ) \* 51.5 = 77.6” (78” parachute)
 
 A smaller parachute will result in a faster descent. A larger one a slower descent. If the ground is soft, such as grass covered, you may want to use a smaller parachute for a faster descent. A faster descent will result in less drift. If the ground is hard, like frozen earth or salt, you may want a slower descent, and therefore a larger parachute.
 
-Submitted by Dean Roth
+Submitted by: Dean Roth

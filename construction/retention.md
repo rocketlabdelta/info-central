@@ -16,5 +16,5 @@ Examples ![](/images/propulsion_tnut.jpg)A common practice is to install a #6 T-
 
 T-nuts cannot be added to an already constructed rocket. However, expansion bolts and other devices available in any hardware store can be also be used to add positive motor retention to an assembled rocket. Some companies have screw-on retainers that can be added to existing rockets.
 
-Submitted by Dean Roth
+Submitted by: Dean Roth
 

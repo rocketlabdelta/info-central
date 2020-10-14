@@ -10,5 +10,5 @@ Here’s the table.
 
 VelocityDistance 5 fps0’&nbsp; 5” 6 fps0’&nbsp; 7” 7 fps0’&nbsp; 9” 8 fps1’&nbsp; 0” 9 fps1’&nbsp; 3” 10 fps1’&nbsp; 7” 11 fps1’ 11” 12 fps2’&nbsp; 3” 13 fps2’&nbsp; 8” 14 fps3’&nbsp; 1” 15 fps3’&nbsp; 6” 16 fps4’&nbsp; 0” 17 fps4’&nbsp; 6” 18 fps5’&nbsp; 1” 19 fps5’&nbsp; 8” 20 fps6’&nbsp; 3” 21 fps6’ 11” 22 fps7’&nbsp; 7” 23 fps8’&nbsp; 3” 24 fps9’&nbsp; 0” 25 fps9’&nbsp; 9” 26 fps10’&nbsp; 7” 27 fps11’&nbsp; 5” 28 fps12’&nbsp; 3” 29 fps13’&nbsp; 2” 30 fps14’&nbsp; 1”
 
-Submitted by David Urbanek
+Submitted by: David Urbanek
 

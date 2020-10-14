@@ -1,6 +1,6 @@
 The best way to put on pressure sensitive vinyl decals is to put lukewarm water and TWO SMALL drops of dish detergent into a bowl. Then you take the decal off the backing and dip the side with the adhesive on it into the bowl (make sure to not let the adhesive touch the bowl). Now you can put it on the rocket and move it to were you want the decal. Set the rocket aside to dry and you’re done.
 
-Submitted by Nick Hills
+Submitted by: Nick Hills
 
 When applying decals, it helps to have a wet surface. Use a mixture of about 1qt. water to a tsp. of dishwashing detergent, or Windex. Spray the solution liberally to the decals sticky side, and to the location of the decal on the rocket. Position decal on the rocket perfectly. Squeegee excess solution from between decal and rocket. Let dry.
 
@@ -8,5 +8,5 @@ After the decal has dried, you can protect the decal and paint with a clear coat
 
 The most important tip is to take your time and be attentive to detail. If all of this is done, you should have a terrific finish of your rocket.
 
-Submitted by Eric Gadoury
+Submitted by: Eric Gadoury
 

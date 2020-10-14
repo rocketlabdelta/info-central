@@ -16,5 +16,5 @@ Ammonium nitrate (AN) is another oxidizer sometimes used in experimental motors.
 
 Other oxidizers are used by the experimental rocketry community, but not as commonly as are AP or AN.
 
-Submitted by Terry McCreary
+Submitted by: Terry McCreary
 

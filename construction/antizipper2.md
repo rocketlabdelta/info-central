@@ -27,5 +27,5 @@ Item D is the most important: in this case it consists of 3 2mm birch plywood pi
 
 This design offers a great way of taking the loads of a deployment without putting the airframe under stress; it is also a better deal than bolting the attachment harness directly to the most forward centering ring; it finally can be used with almost every rocket design (one airframe, payload section/s, dual deployment…) and can be easily retrofitted to already finished models.
 
-Submitted by Giacomo Bosso
+Submitted by: Giacomo Bosso
 

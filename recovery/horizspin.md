@@ -163,5 +163,5 @@ Abbreviations
 
 BCP:Barrowman center of pressure CLA:Center of lateral area CG:Center of gravity CP:Center of pressure
 
-Submitted by Peter Alway
+Submitted by: Peter Alway
 

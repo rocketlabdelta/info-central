@@ -38,5 +38,5 @@ Harry’s most enduring legacy to the hobby was the Handbook of Model Rocketry. 
 
 ![](/images/4handbks.jpg)
 
-Submitted by John Coker
+Submitted by: John Coker
 

@@ -146,11 +146,11 @@ Note: Many believe that a rail should be used with any rocket weighing more than
 Minimum Speed for Stable Flight
 
 44 fps (30mph) is generally accepted as a minimum safe speed for stable flight and is good for winds up to 5 mph. Faster speeds are necessary to achieve stability in windy conditions so add 9 fps (6 mph) for each additional 1 mph of wind speed.
-Contributed by Terry Markovich, TRA 6811
+Submitted by: Terry Markovich, TRA 6811
 
 Mounting launch lug(s)/button/s
 
 When mounting a single lug , cover the center of gravity with the lug. Always mount at least two rail buttons. When mounting two lugs or buttons, mount the lower piece at the rear of the airframe. The second should be on or just behind the center of gravity.
 
-Contributed by Tom Savoie
+Submitted by: Tom Savoie
 

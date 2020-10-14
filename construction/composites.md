@@ -54,5 +54,5 @@ Once the project has been allowed to fully cure at least 24 hours, go over the s
 
 Finishing After all layers have been applied, the resulting texture of the fiberglass on the tube may be filled in several ways. My personal favorite is Hobby-Poxy Primer/Filler. A thick, white primer that is brushed on, fills very well, and is very sandable. Automotive spray primers can also be used, but do not sand as well. Another method is to use epoxy, mixed with glass microspheres (available from fiberglass and resin sources). This reduces the weight of the epoxy, thickens it, and makes it sandable. Once you are satisfied with the finish, apply your favorite paint, and you’re ready to go!
 
-Submitted by [Greg Deputy](mailto:greg@deputy.org).
+Submitted by: [Greg Deputy](mailto:greg@deputy.org).
 

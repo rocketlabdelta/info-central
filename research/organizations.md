@@ -12,5 +12,5 @@ Another useful email discussion “list” is called Chemroc. This list moves mu
 
 Chemroc is well worth looking in to. Don’t choose to subscribe to arocket over chemroc, subscribe to both. For subscription details, go to Lanier’s Chemroc page,[webpages.charter.net/jelanier/chemroc.html](http://webpages.charter.net/jelanier/chemroc.html).
 
-Submitted by Chuck Andrus
+Submitted by: Chuck Andrus
 

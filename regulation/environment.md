@@ -183,5 +183,5 @@ Today’s regulatory environment demands that motor dealers address this custome
 
 With storage solutions such as these, there is no reason not to get legal. Unless, of course, you are an old-school conspiratorial theorist who believes your activities are of interest to the Government. That, or you’re already breaking the law and don’t want to be detected. Please, don’t play games, get legal. It’s really not that hard. And it’s certainly not worth it to get caught.
 
-Submitted by Darrell Mobley
+Submitted by: Darrell Mobley
 

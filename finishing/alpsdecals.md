@@ -53,5 +53,5 @@ Once the decal has thoroughly dried, you should protect it with a clear coat. Iâ
 
 Note that the white and light colored areas in the rocket body tube on the right show up in their correct colors, even though the decal is applied to a dark green rocket. You now have a way to make any logo you need for your rocket! (No, I will not make decals for you, but there are several people who will.)
 
-Submitted by John Coker
+Submitted by: John Coker
 

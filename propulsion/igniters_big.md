@@ -21,5 +21,5 @@ Directions
 3. Attach the igniter to a thin wood dowel (1/8"). This can be done by winding the the igniter along the dowel and fastening with masking tape. The dowel keeps the igniter from falling out of the motor. Cut the dowel so that it sits on the ground or blast plate to hold the igniter in the top of the motor. ![](/images/ig5.jpg)
 4. A test firing. (The fireball spreads out when not contained within the core of a motor.)
 
-Submitted by Dean Roth
+Submitted by: Dean Roth
 

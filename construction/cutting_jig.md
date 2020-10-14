@@ -8,5 +8,5 @@ Using the jig To use the jig, clamp a stop block the correct distance from the r
 
 Lessons learned This jig was originally built with the blade on a movable arm, but this didn’t work as well. The main problem is that the spiral winding on paper tubes causes the razor blade to “wander,” making it very hard to get clean cuts. If you decide to modify the jig, make sure the razor blade is firmly supported so that it can’t flex at all. If you look carefully, you can see that the razor plade is actually mounted with three screws.
 
-Submitted by John Coker
+Submitted by: John Coker
 

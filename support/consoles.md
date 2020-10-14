@@ -50,5 +50,5 @@ Commercial Controllers The Estes [Estes Electron Beam®](support_consoles_estese
 
 The first step up seems to be the [Aerotech Interlock](support_consoles_atinterlock.html)launch controller. This unit connects to a motorcycle or car battery for power with large aligator clips and provides higher power than the penlight battery-type controllers. [Pratt Hobbies](http://www.pratthobbies.com/) Offers a nice launch controller which looks like the best of the currently avaialable “box and wires” controllers. More information on the [Launch Box](http://www.pratthobbies.com/lb.html) is on their site.
 
-Submitted by John Coker
+Submitted by: John Coker
 

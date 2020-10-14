@@ -1,14 +1,14 @@
 Model Rocket Fin Attachment This only works for Estes type rockets that the fins are mounted on the body tube! If you hate to wait 20 minutes for glue to set then this is for you! First go out and buy some CA glue (I use Pacer brand). Then, put the glue on the ROOT edge of the fin (side that goes on the rocket) and put it on the tube. You have about 20 seconds to put it were it should be (you can take it off if it does not go on right, but you HAVE to be careful taking it off). Then put GOOD filets of glue on the fins so they won`t fall off on landing!
 
-Submitted by Nick Hills
+Submitted by: Nick Hills
 
 Here’s another variation on gluing fins to Estes style rockets. First, make sure that the tube’s glassine finish is removed using sandpaper to promote good glue adhesion. Then apply a thin layer of 30 minute epoxy to the fin’s root edge except for the last 1/8” of each end. Hold the fin in the desired positon on the airframe, then apply a drop of CA at these two end locations. The capillary action will pull the CA into the joint. Hold the fin in this position for a few seconds, then continue with the rest of the fins in the same manner. The CA will lock the fins in a relatively stable position while the epoxy has a chance to soak in and give the fin the strongest hold possible.
 
-Submitted by Larry DuBois
+Submitted by: Larry DuBois
 
 Model Rocket Fin Detachment Using Cyanoacrylates (CA) and accidently glued that fin in the wrong place? What should you do? The CA manufacturers make a product called a debonder. This handy mixture (contains Acetone) will allow you to remove the mis-aligned fin or even glued skin. The debonder can be successfully used to remove a fin with perfect results. Remember to read the label carefully and heed all the precautions to avoid injury or illness. This is a handy item to keep in your glue tray.
 
-Submitted by Doyle Tatum
+Submitted by: Doyle Tatum
 
 High Power Rocket Fin Attachment Fins of high power rockets need to be firmly attached to the motor mount tube and airframe. Epoxy fillets should be created inside and outside the airframe, along all surfaces so that the motor mount tube, fins and airframe, along with the motor mount tube and centering rings, create a single thrust bearing unit. Read the instructions listed below completely before starting construction.
 
@@ -23,5 +23,5 @@ High Power Rocket Fin Attachment Fins of high power rockets need to be firmly at
 
 The fins, airframe, centering rings and motor mount tube should now be a single thrust bearing unit.
 
-Submitted by Dean Roth
+Submitted by: Dean Roth
 

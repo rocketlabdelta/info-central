@@ -40,4 +40,4 @@ The ejection charge chamber can be fitted into a holder assembly, as illustrated
 
 This rocket uses the ejection charge to propel the upper section away from the lower section at apogee rather. The altimeter is located in the compartment to the right. The main parachute’s ejection charge is located above the altimeter compartment, and is not shown.
 
-Submitted by Dean Roth
+Submitted by: Dean Roth

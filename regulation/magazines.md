@@ -24,5 +24,5 @@ A type 4 magazine is a building, igloo or “Army-type structure”, tunnel, dug
 
 (4) Locks. Each door is to be equipped with (i) two mortise locks; (ii) two padlocks fastened in separate hasps and staples; (iii) a combination of a mortise lock and padlock; (iv) a mortise lock that requires two keys to open; or (v) a three-point lock. Padlocks must have at least five tumblers and a case-hardened shackle of at least 3/8 inch diameter. Padlocks must be protected with not less than 1/4 inch steel hoods constructed so as to prevent sawing or lever action on the locks, hasps, and staples. Indoor magazines located in secure rooms that are locked as provided in this subparagraph may have each door locked with one steel padlock (which need not be protected by a steel hood) having at least five tumblers and a case-hardened shackle of at least 3/8 inch diameter, if the door hinges and lock hasp are securely fastened to the magazine. These requirements do not apply to magazine doors that are adequately secured on the inside by means of a bolt, lock, or bar that cannot be actuated from the outside.
 
-Submitted by Jim Jannuzzo
+Submitted by: Jim Jannuzzo
 

@@ -40,5 +40,5 @@ An igniter can be secured in a reusable motor with string or carpet thread durin
 
 Another method to keep an igniter positioned in a sustainer’s motor during boost, provided the nozzle diameter and motor core are large enough, is to attach the igniter to a thin (1/8”) wood dowel. Rest the dowel against the booster in the interstage coupler. If ignition will occur during a coast after the stages have separated then use masking tape to hold the igniter in the sustainer during the coast phase. The dowel must be free to exit the motor when the motor ignites.
 
-Submitted by Dean A. Roth
+Submitted by: Dean A. Roth
 

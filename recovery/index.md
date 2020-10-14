@@ -22,4 +22,4 @@ Orderly deployment means that the parachute’s suspension lines are fully exten
 
 A pilot parachute (a small parachute) may be used to pull the deployment bag off the parachute. Some deployment bags are designed to serve as its own pilot chute.
 
-Submitted by Dean Roth
+Submitted by: Dean Roth

@@ -1,1 +1,1 @@
-Submitted by Chuck Andrus
+Submitted by: Chuck Andrus

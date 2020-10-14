@@ -122,5 +122,5 @@ Recommendations
 
 Safety is important. Massive rockets can inflict significant personal injury, including death, and create major property damage when the recovery system fails. One failure mode is a defective ejection charge igniter. Although the failure rate of commercially manufactured igniters used to ignite ejection charges is low, a redundant igniter can be a good idea. Rocketry altimeters and timers can fire two low current igniters per charge. The author believes that it is a better idea to spend an extra $2 to $3 on extra igniters than to watch a rocket nose into the ground, a car or person.
 
-Submitted by Dean A. Roth
+Submitted by: Dean A. Roth
 

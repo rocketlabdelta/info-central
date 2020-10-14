@@ -32,5 +32,5 @@ Conclusion
 
 No single method of attachment is the answer to every situation. A good rule of thumb in designing any rocket recovery system is to assume any knots or sharp bends, including sewn loops, in the rope or webbing weakens it by 50%. Nonetheless, the requirements of each rocket recovery system should be evaluated and the best method for that situation should be used.
 
-Submitted by Bryan Flynt
+Submitted by: Bryan Flynt
 

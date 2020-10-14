@@ -8,5 +8,5 @@ I also have received a few suggestions for a stand-alone version of the calculat
 
 It is freeware and I do not ask for or expect any payment from those who download it. It is a standard .zip file, to install the program you would need to unzip and then run setup.exe.
 
-Submitted by Jack Anderson
+Submitted by: Jack Anderson
 
