@@ -20,5 +20,6 @@ A deployment bag is literally a bag into which a parachute is packed. A bag can 
 
 Orderly deployment means that the parachute’s suspension lines are fully extended, and the harness is tight before the parachute inflates. This reduces the opening shock forces. A large parachute opening force can tear a rocket or recovery system apart.
 
-A pilot parachute (a small parachute) may be used to pull the deployment bag off the parachute. Some deployment bags are designed to serve as its own pilot chute. Submitted by Dean Roth
+A pilot parachute (a small parachute) may be used to pull the deployment bag off the parachute. Some deployment bags are designed to serve as its own pilot chute.
 
+Submitted by Dean Roth

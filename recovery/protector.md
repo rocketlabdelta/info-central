@@ -12,5 +12,6 @@ A canister can be a cardboard tube with a cap on the end facing the ejection cha
 
 A baffle is used to filter and redirect ejection gasses so that they do not directly impact the parachute. Several baffle designs have been used. A simple design consists of two disks with holes. The disks are aligned so that the holes are not aligned. Hot particles that might melt the parachute are stopped when they hit the disks.
 
-Multiple protection techniques can be combined, too. For example a deployment bag can be used with a piston and canister system to also provide for orderly deployment. Submitted by Dean Roth
+Multiple protection techniques can be combined, too. For example a deployment bag can be used with a piston and canister system to also provide for orderly deployment.
 
+Submitted by Dean Roth

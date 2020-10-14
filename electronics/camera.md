@@ -56,5 +56,7 @@ Configuration 3: Straight look out the side of the rocket ![](/images/electronic
 
 Just like the saying “never gamble money you can’t loose”, never fly a camera your not prepared to loose. Not that flying rockets is a gamble but there are many uncertainties associated with flying rockets. Even the most experienced people flying rockets occasionally loose them. You can reduce your chances by building your rocket to protect the camera. There have been several camera payloads free fall from thousands of feet due to recovery failures landing on rocks or in water and the camera survives. Most cameras are quite durable with a little extra protection built around them. Although its not that difficult design a camera rocket and even easier to find a suitable camera for it, depending on the camera you use and design of rocket you choose, it can become quite difficult in preparing the rocket for flight. Not only do you have to prepare the motor and parachute, you must also contend with preparing the camera and activation circuit. Just remember to keep the KISS principle and remember that a good camera rocket flight is one where you get your camera back. Everything else is just gravy.
 
-Submitted by: [Douglas Gerrard](mailto:gerrardd@fnoc.navy.mil), TRA #568 \*All arial photographs are copyright 2000 by Douglas Gerrard and no reproduction is allowed without the express permission from the author.
+Submitted by: [Douglas Gerrard](mailto:gerrardd@fnoc.navy.mil), TRA #568
+
+_All arial photographs are copyright 2000 by Douglas Gerrard and no reproduction is allowed without the express permission from the author._
 

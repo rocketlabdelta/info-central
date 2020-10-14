@@ -38,5 +38,6 @@ Custom ejection charge holder ![](/images/recovery_eject3.jpg)
 
 The ejection charge chamber can be fitted into a holder assembly, as illustrated here. This holder is a 3/8” launch lug epoxied to the bottom of the electronics compartment. A slot is cut down the tube for the ejection charge’s igniter’s wires. A strip of masking tape is used to ensure the ejection charge chamber is secured within the holder.
 
-This rocket uses the ejection charge to propel the upper section away from the lower section at apogee rather. The altimeter is located in the compartment to the right. The main parachute’s ejection charge is located above the altimeter compartment, and is not shown. Submitted by Dean Roth
+This rocket uses the ejection charge to propel the upper section away from the lower section at apogee rather. The altimeter is located in the compartment to the right. The main parachute’s ejection charge is located above the altimeter compartment, and is not shown.
 
+Submitted by Dean Roth

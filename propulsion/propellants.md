@@ -2,5 +2,7 @@ Solid fuel rocket motor manufacturers usually provide a variety of propellant ty
 
 Most commercial solid fuel used with high power rockets is a composite material made of ammonium perchlorate with a rubber binder. The rubber also serves as the fuel. Different additives can be used to create effects like sparks or colored flames.
 
-Another type of motor is a hyrbid. It uses a gas, like N2O (nitrous oxide) as the oxidizer (source of oxygen), and a solid material, like cellulose, as the fuel. Submitted by Dean Roth
+Another type of motor is a hyrbid. It uses a gas, like N2O (nitrous oxide) as the oxidizer (source of oxygen), and a solid material, like cellulose, as the fuel.
+
+Submitted by Dean Roth
 

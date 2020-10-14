@@ -4,9 +4,11 @@ This glossary contains most of the words you will encounter among rocketeers, on
 
 [M](#M)[N](#N)[O](#O)[P](#P)[R](#R)[S](#S)[T](#T)[U](#U)[V](#V)[W](#W)[X](#X)[Y](#Y)[Z](#Z)
 
-\<h1\>0\</h1\> 3FNC - Slang for a basic rocket: “3 Fins and a Nose Cone”. The simplest form a rocket can take is a cylindrical airframe with a pointed or rounded nose, and three stabilizing fins at the rear of the airframe. The size and shape of the fins, the length and diameter of the airframe, and the shape of the nose are all driven by factors related to motor thrust, internal capacity, stability, and style. But the simplest (and most nearly drag-free) design for a rocket is three fins and a nose cone.
+### 0
+3FNC - Slang for a basic rocket: “3 Fins and a Nose Cone”. The simplest form a rocket can take is a cylindrical airframe with a pointed or rounded nose, and three stabilizing fins at the rear of the airframe. The size and shape of the fins, the length and diameter of the airframe, and the shape of the nose are all driven by factors related to motor thrust, internal capacity, stability, and style. But the simplest (and most nearly drag-free) design for a rocket is three fins and a nose cone.
 
-\</a\>\<h1\>A\</h1\> Ablation - The flaking and vaporization of material undergoing severe heating due to aerodynamic drag. In a model or high power rocket the only component that typically undergoes ablation is the motor nozzle. This is why, even with a reusable motor system (RMS), the nozzle is usually used only once.
+### A
+Ablation - The flaking and vaporization of material undergoing severe heating due to aerodynamic drag. In a model or high power rocket the only component that typically undergoes ablation is the motor nozzle. This is why, even with a reusable motor system (RMS), the nozzle is usually used only once.
 
 Accelerometer - An electronic device for detecting the presence of high acceleration. An accelerometer can be used for flight data gathering, or for controlling flight events. For example, an accelerometer with a memory chip can record the strength and duration of a rockets acceleration. This data can be used by a computer to calculate the rockets approximate altitude at various points of its ascent. An accelerometer can also be combined with a timer to determine the proper time for a deployment charge or sustainer motor to be activated, by counting down a pre-set number of seconds after acceleration ceases (motor burn-out).
 
@@ -103,7 +105,8 @@ Axis - One of the three lines of reference around which an aircraft can rotate. 
 
 Azimuth - An angle on a horizontal plane. See Elevation.
 
-\</a\>\<h1\>B\</h1\> Ballast - Mass added to a model to bring the model into balance by moving the center of gravity forward. See Stability.
+### B
+Ballast - Mass added to a model to bring the model into balance by moving the center of gravity forward. See Stability.
 
 Ballistics - Study of objects moving through the air that have been given a short lived acceleration.
 
@@ -201,7 +204,8 @@ Burn Rate - The rate at which a substance is consumed by burning, such as propel
 
 Butt Joint - A joint made by gluing an edge to a surface, such as a fin to a body tube.
 
-\</a\>\<h1\>C\</h1\> CA - Cyanoacrylate: a thin, very strong adhesive also known as Super Glue.
+### C
+CA - Cyanoacrylate: a thin, very strong adhesive also known as Super Glue.
 
 Cabosil - A super fine silica. Unlike microballoons, which are tiny glass spheres, Cabosil is “cut’ glass fibers and very light. Used as a filler in epoxy fin fillets to reduce weight, and control sagging and dripping in thin epoxies.
 
@@ -325,7 +329,8 @@ Cross Section - The area exposed if a part is cut through.
 
 Cyanoacrylate - Adhesive developed through the space program. Adhesive hardens very quickly and forms a high strength bond without the mixing of components. Also known as Superglue, Crazyglue, and CA.
 
-\</a\>\<h1\>D\</h1\> Dart - An unpowered vehicle, with the same aerodynamic characteristics as a rocket. A dart is one method of propelling a payload package to a maximum altitude. The dart rides on top of a large booster, possessing a higher coefficient of drag. During powered flight the dart acquires all the momentum of the entire vehicle. As the booster begins to slow during the coasting phase, its greater drag causes it to fall away from the dart which continues to ascend to a higher altitude.
+### D
+Dart - An unpowered vehicle, with the same aerodynamic characteristics as a rocket. A dart is one method of propelling a payload package to a maximum altitude. The dart rides on top of a large booster, possessing a higher coefficient of drag. During powered flight the dart acquires all the momentum of the entire vehicle. As the booster begins to slow during the coasting phase, its greater drag causes it to fall away from the dart which continues to ascend to a higher altitude.
 
 Davis Douche - Variant of the flash pan, where wicks are inserted into each motor and the wick ends are put into the pan of BP. See Flashpan, with Caution.
 
@@ -407,7 +412,8 @@ Dual Recovery - See Two-Stage Recovery.
 
 Dullcote® - A spray coating from Testors Corp. that protects the finish of a model while removing the sheen of the finish.
 
-\</a\>\<h1\>E\</h1\> Egg Lofter - A rocket designed to carry one or more eggs as payload. Used in competition in which the object is to boost the egg to the maximum possible altitude and recover it without breaking.
+### E
+Egg Lofter - A rocket designed to carry one or more eggs as payload. Used in competition in which the object is to boost the egg to the maximum possible altitude and recover it without breaking.
 
 Ejection Baffle - A physical or mechanical barrier ahead of a motor mount designed to absorb the heat and hot particles of the ejection charge while allowing the gas to pressurize the airframe.
 
@@ -435,7 +441,8 @@ Exothermic - A type of chemical reaction in which energy is produced as the reac
 
 Explosives Act - Canadian law defining and governing the use of all explosive substances outside the Canadian Armed Forces.
 
-\</a\>\<h1\>F\</h1\> FAA Federal Aviation Administration. This is the organization that governs airspace in the U.S. HPR hobbyists must obtain a waiver from the FAA for permission to fly large or high (2000+) altitude rockets. Equivalent to Transport Canada and the Air Ministry in the United Kingdom.
+### F
+FAA Federal Aviation Administration. This is the organization that governs airspace in the U.S. HPR hobbyists must obtain a waiver from the FAA for permission to fly large or high (2000+) altitude rockets. Equivalent to Transport Canada and the Air Ministry in the United Kingdom.
 
 FAR101 - FAA regulations regarding airspace use for hobby rocketry.
 
@@ -497,7 +504,8 @@ Frontal Area - the surface area of a rocket which faces directly into the airflo
 
 Fuselage - The structure or airframe that houses payload, crew or passengers. Although not inaccurate, this term is used more commonly with regard to airplanes than to rockets.
 
-\</a\>\<h1\>G\</h1\> G10 - A grade of fiberglass commonly used for fins on high power rockets. G10 designates a laminate made of fiberglass cloth laid in epoxy resin.
+### G
+G10 - A grade of fiberglass commonly used for fins on high power rockets. G10 designates a laminate made of fiberglass cloth laid in epoxy resin.
 
 G-Switch - A mechanical device which detects the presence of acceleration through the movement of a weighted electrical contact. G-switches are normally used in combination with other electronic devices such as timers. For example, an electronic timer can be programmed to count down a certain number of seconds after the G-switch closes an electrical circuit, at the end of which time the timer closes a second circuit which activates a deployment charge or sustainer motor igniter.
 
@@ -525,19 +533,18 @@ Gusset - A roughly triangular shaped piece of material added to reinforce a join
 
 Gyroscope - A well balanced flywheel, rotating at high speed and generating a high moment of rotation. Gyroscopes work to maintain their original orientation, and so are used to provide stability to rockets.
 
-\</a\>\<h1\>H\</h1\> Hand-Launch-Glider - A small robust glider designed to be launched by hand.
+### H
+Hand-Launch-Glider - A small robust glider designed to be launched by hand.
 
 Hatch - A door in the side of a spacecraft or aircraft.
 
 HD - Helicopter Duration; a competitive event in NAR-sanctioned launches, using rockets with helicopter recovery.
 
-Heads-up - An alert called by the Launch Control Officer if one of three conditions prevail: \<ul\>
+Heads-up - An alert called by the Launch Control Officer if one of three conditions prevail:
 
 - A model using an advanced technique such as a cluster is about to be launched.
 - An untried rocket design is about to launch and the results are uncertain.
 - A recovery system has failed, and it is possible that the rocket will crash in an area containing people.
-
-\</ul\>
 
 Headwind - Wind blowing generally into the front of an aircraft, thereby slowing its ground speed.
 
@@ -557,7 +564,8 @@ Hypergolic - An arrangement of liquid fuel and oxidizer which ignites spontaneou
 
 Hypersonic - Term used to describe a vehicle exceeding Mach 5.
 
-\</a\>\<h1\>I\</h1\> IAR - Independent Association of Rocketry.
+### I
+IAR - Independent Association of Rocketry.
 
 Igniter - A length of high-resistance wire, sometimes coated with a flammable material (see Pyrogen,) which is placed in contact with the motor propellant prior to the rockets launch. When an electrical current is passed through the igniter by the launch controller, the wires high resistance causes it to become very hot and ignite the surrounding propellant.
 
@@ -575,9 +583,10 @@ Induced Drag - Drag resulting from lift generated by the foils and lifting body 
 
 Interstage - A section of a rocket in between two stages, such as the interstage spacing ring between the first and second stage of the Saturn V.
 
-\</a\>\<h1\>I\</h1\> Isp - Symbol for Specific Impulse
+Isp - Symbol for Specific Impulse
 
-\</a\>\<h1\>J\</h1\> J-Foil - A self-inflating parachute airfoil developed by Domini C. Jalbert. It is very maneuverable and is the current standard airfoil in skydiving parachutes.
+### J
+J-Foil - A self-inflating parachute airfoil developed by Domini C. Jalbert. It is very maneuverable and is the current standard airfoil in skydiving parachutes.
 
 Javelin In - See Lawn Dart.
 
@@ -587,7 +596,8 @@ JIC - Just In Case: Any precaution taken to avoid trouble, such as sanding resid
 
 Jig - A tool that uses dowel, blocks of wood, clamps and/or forms to allow precise shaping and/or construction of hard to assemble parts, or mass production of commonly used parts such as centering rings.
 
-\</a\>\<h1\>K\</h1\> Kaplow Clip - A popular type of motor retainer designed by Bob Kaplow.
+### K
+Kaplow Clip - A popular type of motor retainer designed by Bob Kaplow.
 
 Kevlar® - A synthetic fiber, originally woven into mats for use in bullet-resistant body armor. Kevlar is highly resistant to tearing or burning. Kevlar thread is used in some model rockets as a shock cord. In model rockets, this provides the advantage of allowing the cord to be anchored to the motor mount rather than to the open end of the airframe. This design is less susceptible to zippering and burning. Larger-diameter Kevlar cord is increasingly being used as shock cords on high-power rockets for the same reason, and because Kevlar is stronger than bungee or elastic straps. Kevlar is also woven into sheaths or bags, and used to protect elastic shock cords and parachutes in larger rockets. See Deployment Bag.
 
@@ -599,7 +609,8 @@ Kraft Paper - a course paper used in making cylindrical airframes. Kraft paper c
 
 Krushnic Effect - The effect caused when rocket motor exhaust is confined in an open tube, such as a booster stage airframe. The exhaust gas over-expands and loses its velocity, reducing the motor thrust. Also called over-expansion. Usually occurs when a booster motor separates but the booster stage does not.
 
-\</a\>\<h1\>L\</h1\> L1, L2, L3 - Levels one through three: reference to the three levels of high power rocketry certification.
+### L
+L1, L2, L3 - Levels one through three: reference to the three levels of high power rocketry certification.
 
 Laminar Flow - A smooth flow of air, noted for lack of turbulence. In current theory , it is modeled as consisting of layers of air having similar speed and density.
 
@@ -627,13 +638,13 @@ Lawn Dart - Similar to a Core Sample but requires the nosecone to remain in plac
 
 LBP - Live Biological Payload. Transport of any vertebrate animal is currently in violation of all rocketry safety codes.
 
-LCO - Launch Control Officer.&nbsp; Person in charge of controlling the range and launching rockets.
+LCO - Launch Control Officer. Person in charge of controlling the range and launching rockets.
 
 LDRS - Large and Dangerous Rocket Ships: the name of the annual TRA launch.
 
 Leading Edge - The front edge of a wing or fin.
 
-LEUP BATF Low Explosive User Permit for rocket motors with greater than 62.5 grams of propellant, as well as other substances deemed by the government to be low explosives such as Thermalite.&nbsp;
+LEUP BATF Low Explosive User Permit for rocket motors with greater than 62.5 grams of propellant, as well as other substances deemed by the government to be low explosives such as Thermalite.
 
 Liftoff Mass - See GLOW.
 
@@ -649,7 +660,8 @@ LPR - Low Power Rocket: a term sometimes used synonymously with Model Rocket.
 
 Lucerne Soft Landing - A condition - experienced only on ground surfaces of cracked playa clay - in which a rocket which has landed remains in a semi-upright position with one fin stuck in a crack in the ground.
 
-\</a\>\<h1\>M\</h1\> Mach Number - An expression of velocity calculated by dividing the actual velocity by the speed of sound.
+### M
+Mach Number - An expression of velocity calculated by dividing the actual velocity by the speed of sound.
 
 Magazine - An ATF-approved storage device for large rocket motors and other low-explosive devices.
 
@@ -689,7 +701,7 @@ Motor Clip - See Motor Hook.
 
 Motor Code - The accepted method of expressing the characteristics of a particular motor. Motor power ranges (total impulse) are expressed with letters A through N. Each letter expresses a power range twice as powerful as the preceding range. The power ranges are as follows:
 
-&nbsp;Class&nbsp; &nbsp;Min. N&nbsp; &nbsp;Max. N&nbsp;
+Class Min. N Max. N
 
 ¼ A 0.0 0.625
 
@@ -737,7 +749,8 @@ Murphys Law - The guiding principle of Rocketry preparation: “If anything can 
 
 Music Wire - A high grade, stiff wire made to low tolerances that comes in a wide variety of diameters. Commonly used to make springs, it is also known as piano wire. Most often used in model rocketry as launch rods.
 
-\</a\>\<h1\>N\</h1\> NAR National Association of Rocketry
+### N
+NAR National Association of Rocketry
 
 NARAM - National Association of Rocketry Annual Meet: The annual week-long launch hosted by the NAR.
 
@@ -773,7 +786,8 @@ Nose Weight - A weight, often of lead, epoxy or modeling clay, which is added to
 
 NSL - National Sport Launch: an annual three-day launch hosted by the NAR.
 
-\</a\>\<h1\>O\</h1\> Oddroc - Slang term for a strange-looking rocket. Oddrocs are often made in the shape of other, non-rocketry-related items.
+### O
+Oddroc - Slang term for a strange-looking rocket. Oddrocs are often made in the shape of other, non-rocketry-related items.
 
 Ogive - In rocketry, the shape of a common type of nose or tail cone. If the sides of the cone are curved rather than straight, the geometric shape of the cone is actually an ogive rather than a cone.
 
@@ -785,7 +799,7 @@ Open Breech - A piston launcher in which the motor travels up the piston tube an
 
 Optimum Weight - The mass required to lift a rocket to the highest possible altitude on a given motor.
 
-Orange Book BATF explosives rule book.
+Orange Book - BATF explosives rule book.
 
 Oscillation, Parachute - The swinging from side to side of a payload under a parachute.
 
@@ -795,7 +809,8 @@ Over-Expansion - See Krushnic Effect.
 
 Oxidizer - A substance which provides oxygen to a combustion process, aiding in the speed and efficiency of combustion. The addition of an oxidizer to the chemical process of combustion can cause a fuel that would barely burn under normal atmospheric conditions to burn so enthusiastically that it can be used as a rocket propellant.
 
-\</a\>\<h1\>P\</h1\> Pad Manager - Person responsible for assigning pads and controlling the launch pad area.&nbsp; Helps rocket flyers set up pads and rockets for flight.
+### P
+Pad Manager - Person responsible for assigning pads and controlling the launch pad area. Helps rocket flyers set up pads and rockets for flight.
 
 Parachute - A piece of plastic, cloth, nylon, or other material, shaped something like an umbrella when deployed, which slows the descent of a rocket.
 
@@ -881,7 +896,8 @@ Pyrogen - The flammable substance placed at the head of an igniter, to assist in
 
 Pyrotechnic - Of or pertaining to fire or explosion. The term is most commonly used with reference to fireworks.
 
-\</a\>\<h1\>R\</h1\> Rangehead - The part of a launch site where the pads are located.
+### R
+Rangehead - The part of a launch site where the pads are located.
 
 Rear Ejection - The ejection of recovery device through the rear of a model.
 
@@ -925,13 +941,12 @@ Rotor Hub - The central attachment point for the blades of a rotor. The attachme
 
 RRS - Reaction Research Society - The oldest continuously-running amateur rocketry group in the United States.
 
-RSO - Range Safety Officer.&nbsp; Person(s) responsible for field safety.&nbsp; Determines suitability of rockets to fly at a particular site.&nbsp; Inspects rockets prior to flight.
-
-At NAR organized launches, the RSO may be the person with overall authority over launch administration. The rocket inspection duties are handled by a Safety Check Officer (SCO) who reports to the RSO. In case of a dispute over a rockets suitability, the RSO has the final word.
+RSO - Range Safety Officer. Person(s) responsible for field safety. Determines suitability of rockets to fly at a particular site. Inspects rockets prior to flight. At NAR organized launches, the RSO may be the person with overall authority over launch administration. The rocket inspection duties are handled by a Safety Check Officer (SCO) who reports to the RSO. In case of a dispute over a rockets suitability, the RSO has the final word.
 
 RTF - Ready to Fly. A rocket which is sold pre-built, as opposed to a kit.
 
-\</a\>\<h1\>S\</h1\> Safety Check Officer - At NAR organized launches, the person who examines rockets before they are assigned to launch pads. Reports to the RSO.
+### S
+Safety Check Officer - At NAR organized launches, the person who examines rockets before they are assigned to launch pads. Reports to the RSO.
 
 SC - See Shock Cord.
 
@@ -1037,9 +1052,7 @@ String Test - See Swing Test.
 
 Strip - A condition in which a rockets fins, or a gliders wings, are pulled off the airframe by excess thrust.
 
-Striptease - The “act” of having wings or fins stripped off an airframe.
-
-Also, a pop-pod glider that separates from the booster pod prematurely.
+Striptease - The “act” of having wings or fins stripped off an airframe. Also, a pop-pod glider that separates from the booster pod prematurely.
 
 Stuffer Tube - A small-diameter tube - commonly an extension of the motor tube - which is used in large-diameter rocket airframes to duct deployment charge gases to the recovery system storage area. This reduces the internal area which must be pressurized by the deployment charge.
 
@@ -1061,7 +1074,8 @@ Swing Test - A stability test in which a string is attached to a model rocket at
 
 Symmetrical Airfoil - An airfoil (wing) in which both the top and bottom surfaces are tapered.
 
-\</a\>\<h1\>T\</h1\> Tail Boom - The spar extending past the wings of a aircraft to which the tail or stabilizer surfaces are attached. It is usually cut down to a minimum diameter as required for strength.
+### T
+Tail Boom - The spar extending past the wings of a aircraft to which the tail or stabilizer surfaces are attached. It is usually cut down to a minimum diameter as required for strength.
 
 Tail Drag - See Base Drag.
 
@@ -1127,15 +1141,14 @@ Tube Launched - A rocket - often having some form of folding fins - which is sup
 
 Tumble Recovery - A recovery method where a very light model rocket ejects its motor and shifts its CG behind the CP, thus preventing stable flight and causing the model to tumble end over end.
 
-Tunnel - Slang for wind tunnel.
-
-Also, a long hollow conduit on the side of a rocket used to protect wiring traveling from the top to the bottom of the rocket.
+Tunnel - Slang for wind tunnel. Also, a long hollow conduit on the side of a rocket used to protect wiring traveling from the top to the bottom of the rocket.
 
 Turbulator - A device used on rockets with conical cross-sections, such as egg lofters, to prevent the extra drag which occurs when the laminar airflow separates from the airframe. This is done by causing the airflow to become turbulent at the point where it would normally separate from the airframe.
 
 Two-Stage Recovery - A process by which a rocket is recovered by means of a streamer or drogue parachute which opens at apogee, followed by a main parachute which opens at lower altitude. See Single-Stage Recovery.
 
-\</a\>\<h1\>U\</h1\> Ultrascale - The practice of building very large HPR versions of smaller model rockets, several times the size of the original.
+### U
+Ultrascale - The practice of building very large HPR versions of smaller model rockets, several times the size of the original.
 
 Umbilical Mast - A mast extending beside a rocket while sitting on its launcher, designed to support wiring or hoses to the rocket. It is often designed to pull the wiring or hose out of the way once the models motors ignite.
 
@@ -1145,13 +1158,15 @@ Unsymmetrical Thrust - A condition in which the thrust of a motor or motor clust
 
 Upscale - The practice of building large HPR versions of smaller model rockets.
 
-\</a\>\<h1\>V\</h1\> Vacu-form - A method of making lightweight plastic components like nose cones by using heated plastic, a mold, and a vacuum pump that is attached to the mold.
+### V
+Vacu-form - A method of making lightweight plastic components like nose cones by using heated plastic, a mold, and a vacuum pump that is attached to the mold.
 
 Vectored Thrust - A condition in which a rocket motors thrust is not parallel to the motors axis. This is achieved by canting the motors exhaust nozzle, and is often done to reduce the unsymmetrical thrust that results from outboard motors failing to ignite on clustered-motor rockets.
 
 Von Karmon - A nose cone shape. Von Karmon is a special case of the Sears-Haack series of nose cone shapes, used on very high-speed rockets. It is the most efficient volume per unit nose drag.
 
-\</a\>\<h1\>W\</h1\> Wadding - A non-flammable filler material placed in a model rocket airframe before the parachute is inserted, and serving two purposes:
+### W
+Wadding - A non-flammable filler material placed in a model rocket airframe before the parachute is inserted, and serving two purposes:
 
 - To act as a piston for deployment charge gases
 - To protect the parachute and other deployment system components from burning.
@@ -1174,11 +1189,14 @@ Winglets - Small fin or wing-like extensions attached to the ends of the wings o
 
 Wood Grain - The predominant direction of the fibers in a piece of wood. important to note as the strength of the material is perpendicular to the fiber direction.
 
-\</a\>\<h1\>X\</h1\> X-form - A parachute shape which looks like a cross instead of a circle from the top.
+### X
+X-form - A parachute shape which looks like a cross instead of a circle from the top.
 
-\</a\>\<h1\>Y\</h1\> Yaw - A back-and-forth motion of the nose of a rocket in flight, on the axis determined as “left-and-right”. See Pitch.
+### Y
+Yaw - A back-and-forth motion of the nose of a rocket in flight, on the axis determined as “left-and-right”. See Pitch.
 
-\</a\>\<h1\>Z\</h1\> Zipper/Zippering - A condition in which a slot is cut in an airframe by a shock cord. This condition is caused by early or late recovery system deployment, in which the recovery system deploys while the airframe is moving at a high rate of speed.
+### Z
+Zipper/Zippering - A condition in which a slot is cut in an airframe by a shock cord. This condition is caused by early or late recovery system deployment, in which the recovery system deploys while the airframe is moving at a high rate of speed.
 
-Submitted by Joel Simon \</a\>
+Submitted by Joel Simon
 
