@@ -153,3 +153,4 @@ If any of the fault conditions listed above is indicated, and visual inspection 
 
 ![](/images/copperhead_dec99lco.jpg) ![](/images/copperhead_quadctrlr.jpg)
 
+Submitted by: Bob Dahlquist

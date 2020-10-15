@@ -52,3 +52,4 @@ Check your continuity & resistance to make certain that you have not changed the
 
 It actually takes longer to describe this process than it does to do it. With a little practice, you should be able to produce them as fast or faster than by the solder method without all the hassle and mess of setting up the solder station, etc.
 
+Submitted by: Jim Ball
