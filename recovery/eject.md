@@ -1,8 +1,9 @@
 A pyrotechnic device using black powder (gunpowder) is usually used to deploy the recovery system.
 
-Motor Ejection
+## Motor Ejection
 
-Typical closure ejection well ![](/images/closure1.jpg)
+![](/images/closure1.jpg)
+Typical closure ejection well
 
 Main parachute deployment at apogee is often performed by motor ejection. Black powder (grade FFFFg) is placed in the well on the forward (top) closure. Masking tape is placed over the well to hold in the powder. When the delay grain, located in a chamber under the well, burns through the powder is ignited, pressurizing the airframe and hopefully pushing out the parachute.
 
@@ -18,9 +19,10 @@ An airframe usually consists of two pieces connected with a coupler tube. A pyro
 
 Motor ejection can be used to split the airframe, or an electronic device like altimeter, timer or radio control can be used to activate a pyrotechnic charge.
 
-Ejection Charge Device
+## Ejection Charge Device
 
-Typical ejection charge & flashbulb ![](/images/recovery_eject2.jpg)
+![](/images/recovery_eject2.jpg)
+Typical ejection charge & flashbulb
 
 A common pyrotechnic device is a cardboard tube with a flashbulb or electric match igniter.
 
@@ -28,13 +30,15 @@ Shown here is a commercial ejection charge chamber. It is a cardboard tube with 
 
 This example is of a single-use ejection charge tube. Tubes can be made from other materials, and some are designed to be reused. The ejection charge can be positioned to either pressurize the airframe or to propel one part of the rocket away from the other.
 
-Typical electric match ![](/images/recovery_ematch2.jpg)
+Typical electric match
+![](/images/recovery_ematch2.jpg)
 
 The type of flashbulb commonly used with ejection charges is no longer manufactured, which means the supply will decrease until no more are available.
 
 Another ignition device is an electric match like the ones used to ignite rocket motors. The type that can be used with an electronic device like an altimeter or timer must be used. The most commonly used electric matches are made by Daveyfire. See the Electric Matches section for more infomation.
 
-Custom ejection charge holder ![](/images/recovery_eject3.jpg)
+Custom ejection charge holder
+![](/images/recovery_eject3.jpg)
 
 The ejection charge chamber can be fitted into a holder assembly, as illustrated here. This holder is a 3/8” launch lug epoxied to the bottom of the electronics compartment. A slot is cut down the tube for the ejection charge’s igniter’s wires. A strip of masking tape is used to ensure the ejection charge chamber is secured within the holder.
 

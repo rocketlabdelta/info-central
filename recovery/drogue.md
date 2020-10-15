@@ -15,13 +15,13 @@ Vt= terminal velocity in feet/second W= weight in pounds Cd= drag coefficient - 
 If a 4” diameter, 5 pound rocket comes in nose first then:
 
     A = 3.1415 * 2^2 / 144 = 0.087 ft^2
-    
+
     Vt = sqrt( (2 * 5) / (0.75 * 0.0024 * 0.087)) = 253 feet/sec
 
 If the same rocket has a 60” long airframe and falls horizontally, then:
 
     A = pi * r * l = 3.1415 * 2 * 60 = 377 in^2 = 2.6 ft^2
-    
+
     Vt = sqrt( (2 * 5) / (0.75 * 0.0024 * 2.6)) = 46 feet/second
 
 If a rocket will fall at a reasonable rate without a drogue, then one is not needed unless you want a small (12”-18”) one to add stability without significantly affecting the descent rate. If a drogue is needed then the terminal velocity equation can be rearranged to calculate the desired size of a circular parachute. The simplified equation is shown below, and assumes a desired descent rate of 50 feet/second.

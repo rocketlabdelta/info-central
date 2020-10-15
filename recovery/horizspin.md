@@ -1,6 +1,9 @@
-Super Roc Rocket Gliders Research and Development Project for NARAM 42 Bumbling Brothers Flying Circus, NAR Team 011 Robert Alway and Peter Alway
+Super Roc Rocket Gliders  
+Research and Development Project for NARAM 42  
+Bumbling Brothers Flying Circus, NAR Team 011  
+Robert Alway and Peter Alway
 
-Summary
+## Summary
 
 For decades, rocketeers have observed that some rockets, particularly long, slender models, will glide backwards if they fail to deploy their parachutes. Modelers usually dismiss such recoveries as “dumb luck,” but we investigated how to turn this phenomenon into a deliberate recovery system. We explain super roc rocket glide recovery with the relationships of the Barrowman center of pressure (BCP), center of lateral area (CLA-an approximation of the high angle-of-incidence center of pressure), and the center of gravity (CG). We predicted that any model whose GC falls ahead of the BCP and behind the CLA can glide backwards. We concluded that by forcing the model to experience a high angle of attack, we could trigger the transition to a backwards glide.
 
@@ -12,7 +15,7 @@ We have found that a small-finned, long slender model rocket with a single eject
 
 On July 28, 1938, Robert H. Goddard observed a peculiar phenomenon. His model L-16, a tall, slender, fin-stabilized rocket, boosted vertically with the aid of his guidance system. At apogee, the guidance system became ineffective, and the rocket fell without guidance. Instead of descending nose first from its apogee, the rocket fell horizontally. Because of this slow, sideways descent, the parachute was able to deploy before impact, saving the rocket for another flight (1). In 1969, model rocketeers observed that the tube-finned “Infinite Loop” rocket would glide backwards when it suffered a separation (2). In the early 1970’s, one manufacturer, AVI, in Mineral Point, Wisconsin, produced a kit, the Linnaeus Gigantus, specifically designed to glide backwards after ejecting its nose. AVI described this kit as over 6 feet long and 2 cm in diameter and using “float recovery” (3). Casual observation has shown that long, slender models are most prone to this flight-typically in the NAR Super Roc competition. One of us has even resorted to exploiting the phenomenon to fly the NAR Rocket Glider Duration event with a long, slender scale model (EAC Hyperion) (4), resulting in qualified Rocket Glider flights (5) in at least one NARAM. We will call conventionally configured tall, slender rockets flown with the intention of recovering in a glide under the lift of the body tube, nose cone, and fins only “super roc rocket gliders.”
 
-Objectives
+## Objectives
 
 The goal of this project was to understand the reasons for the two stable modes, boost and glide, of super roc rocket gliders, to determine if the transition to glide could be made reliably, and to optimize the design of the super roc rocket gliders.
 
@@ -28,7 +31,7 @@ Figure 1 shows the CG-CP relationship of such a model at four phases of flight. 
 
 Some models can be weighted to reach the condition where the CG lies between the BCP and the CLA, but this condition is natural for long slender model rockets with small fins-typical Super Roc contest rockets.
 
-Transition to Glide
+## Transition to Glide
 
 For a super roc rocket glider to fly successfully, it must experience a low angle of attack from launch to apogee or ejection. Adherence to the NAR safety code’s launcher and wind speed requirements has proven to be adequate to insure a low angle-of-attack boost.
 
@@ -42,7 +45,7 @@ Third, the ejection charge can be directed to increase the angle of attack. Simp
 
 It is our intention to design super roc rocket gliders for maximum flight duration, in the hopes that they might be competitive in the Rocket Glide event, especially at high impulse levels where it is difficult to build a successful model without radio control. In our actual work, we found it challenging to map out regions where these models work; we performed limited optimization trials.
 
-Approach
+## Approach
 
 We began by writing an Excel spreadsheet that can calculate the center of pressure of a model according to the Barrowman equations and according to the lateral area method. This gave us a feel for how the two CP’s differed. Each row of the spreadsheet represents a different model, so that we could produce plots of high- and low- angle of attack centers of pressure for a range of designs.
 
@@ -50,7 +53,7 @@ There are several obvious variables in performance: body length, fin size, fin s
 
 For test models, we settled on a no-moving-parts, three-fins-and-a-nose-cone design with ejection port for transition to glide. We varied the fin size with interchangeable tail sections. For each flight, we noted if there was a glide, and the quality of the glide. We also timed most flights.
 
-Equipment
+## Equipment
 
 We used a Macintosh computer running the Excel spreadsheet (any PC running Microsoft office would do as well), a stopwatch, a conventional launch system, several Estes B6-4 engines, basic modeling supplies, and the models themselves. Description of the Models
 
@@ -64,7 +67,7 @@ We present a model construction plan for the version with 1.5” x 1.5” fins, 
 
 We taped tail sections, body tubes, and nose cones together with 1/2” electrical tape on the field. We then inserted an Estes B6-4 or A8-3, secured it with tape, inserted an igniter and mounted it in an Apogee components tower launcher or on a conventional launch rod.
 
-Data
+## Data
 
 We produced four types of data:
 
@@ -73,7 +76,7 @@ We produced four types of data:
 3. We made qualitative notes on the stability of each test flight on ascent and descent, including transitions to and from glide. We paid particular attention to the effects of the ejection port pitch maneuver.
 4. We timed our flights according to NAR conventions, from launch to landing.
 
-Results
+## Results
 
 Calculated Barrowman and Lateral Area Centers of Pressure
 
@@ -93,19 +96,35 @@ Spinning vs. Non-Spinning Recoveries
 
 A second qualitative observation was that a model that spun rapidly around the roll axis on descent could fall horizontally or in a glide with a CG-CP relationship that would result in a nose dive when the model wasn’t spinning. Spin or lack of spin on recovery was not easy to control. We made no effort to induce a spin on boost, yet some flights ended up with a spin after recovering from the pitch maneuver. Because a spinning rocket was more likely to glide, we chose to examine the CG-CP relationships in the cases of non-spinning recoveries to define the region of reliable glide recovery.
 
-Effects of the CG-CP Relationship
+## Effects of the CG-CP Relationship
 
 The table below shows calculated Barrowman center of pressure, calculated center of lateral area, measured burnout center of gravity, qualitative flight results, and times. For safety reasons, we only flew models whose CG fell in the range likely to glide.
 
 Flights without spin (presented graphically in figure 6)
 
-Fin DimensionsBCP from nose tipCLA from nose tipBurnout CG nose tipFlight results 0.75” x 0.75”29.8”21.0”~27”Unstable 1.0” x 1.0”32.7”21.5”27.5”Backwards glide, 25 and 27 sec. 1.5” x 1.5”35.2”22.4”28”Backwards glide, 40 and 37 sec. 1.5” x 1.5”35.2”22.4”26”Nose dive (one of five trials w/nose weight) 1.5” x 1.5”35.2”22.4”23.9”Nose dive (two trials w/nose weight) 2.0” x 2.0”36.2”23.6”28.25”Brief glide, transition to nose dive, 11 sec. 2.5” x 2.5”36.6”24.9”28.5”No glide, nose dive. 2.5” x 2.5”36.6”24.9”29”No glide, nose dive. (w/tail weight) 2.5” x 2.5”36.6”24.9”30”Backwards glide (slow roll) 29 sec. (w/tail weight) 3.0” x 3.0”\*36.8”26.2”~29”Spinning glide, nose dive when spin stopped
+| Fin Dimensions | BCP from nose tip | CLA from nose tip | Burnout CG nose tip |                    Flight results                   |
+|:--------------:|:-----------------:|:-----------------:|:-------------------:|:---------------------------------------------------:|
+| 0.75" x 0.75"  | 29.8"             | 21.0"             | ~27"                | Unstable                                            |
+| 1.0"  x 1.0"   | 32.7"             | 21.5"             | 27.5"               | Backwards glide, 25 and 27 sec.                     |
+| 1.5"  x 1.5"   | 35.2"             | 22.4"             | 28"                 | Backwards glide, 40 and 37 sec.                     |
+| 1.5"  x 1.5"   | 35.2"             | 22.4"             | 26"                 | Nose dive (one of five trials w/nose weight)        |
+| 1.5"  x 1.5"   | 35.2"             | 22.4"             | 23.9"               | Nose dive (two trials w/nose weight)                |
+| 2.0"  x 2.0"   | 36.2"             | 23.6"             | 28.25"              | Brief glide, transition to nose dive, 11 sec.       |
+| 2.5"  x 2.5"   | 36.6"             | 24.9"             | 28.5"               | No glide, nose dive.                                |
+| 2.5"  x 2.5"   | 36.6"             | 24.9"             | 29"                 | No glide, nose dive. (w/tail weight)                |
+| 2.5"  x 2.5"   | 36.6"             | 24.9"             | 30"                 | Backwards glide (slow roll) 29 sec. (w/tail weight) |
+| 3.0"  x 3.0"*  | 36.8"             | 26.2"             | ~29"                | Spinning glide, nose dive when spin stopped         |
 
 Flights with spin (presented graphically in figure 7)
 
-Fin DimensionsBCP from nose tipCLA from nose tipBurnout CG nose tipFlight results 1.5” x 1.5”35.2”22.4”28.2”Spinning glide 1.5” x 1.5”35.2”22.4”25.9”Spinning glide (four of five trials) 2.0” x 2.0”36.2”23.6”29Spinning glide 3.0” x 3.0”\*36.8”26.2”~29”Spinning glide, nose dive when spin stopped
+| Fin Dimensions | BCP from nose tip | CLA from nose tip | Burnout CG nose tip |                Flight results               |
+|:--------------:|:-----------------:|:-----------------:|:-------------------:|:-------------------------------------------:|
+| 1.5" x 1.5"    | 35.2"             | 22.4"             | 28.2"               | Spinning glide                              |
+| 1.5" x 1.5"    | 35.2"             | 22.4"             | 25.9"               | Spinning glide (four of five trials)        |
+| 2.0" x 2.0"    | 36.2"             | 23.6"             | 29                  | Spinning glide                              |
+| 3.0" x 3.0"*   | 36.8"             | 26.2"             | ~29"                | Spinning glide, nose dive when spin stopped |
 
-- a single flight of the 3”-fin model displayed both flight modes
+_A single flight of the 3”-fin model displayed both flight modes_
 
 Because out understanding of the super roc rocket glide phenomenon depends on the relationship of the burnout center of gravity, the Barrowman center of pressure, and the center of lateral area, it is useful to present this data in a way that describes this relationship. We will define the relative CG position as the distance the CG is in front of the BCP in units of the distance between the BCP and the CLA.
 
@@ -117,19 +136,30 @@ In the regime where the CLA is forward of the BCP (true for all models we studie
 
 Here are the non-spinning results organized by relative CG.
 
-Fin DimensionsRelative CGFlight results 0.75” x 0.75”0.32Unstable 1.0” x 1.0”0.46Backwards glide, 25 and 27 sec. 1.5” x 1.5”0.56Backwards glide, 40 and 37 sec. 2.5” x 2.5”0.56Backwards glide 29 sec. 2.0” x 2.0”0.63Brief backwards glide, transition to nose dive, 11 sec. 2.5” x 2.5”0.65Nose dive 2.5” x 2.5”0.69Nose dive. 1.5” x 1.5”0.72Nose dive 3.0” x 3.0”0.74Nose dive after spin stopped 1.5” x 1.5”0.88Nose dive
+| Fin Dimensions | Relative CG |                      Flight results                     |
+|:--------------:|:-----------:|:-------------------------------------------------------:|
+| 0.75" x 0.75"  | 0.32        | Unstable                                                |
+| 1.0" x 1.0"    | 0.46        | Backwards glide, 25 and 27 sec.                         |
+| 1.5" x 1.5"    | 0.56        | Backwards glide, 40 and 37 sec.                         |
+| 2.5" x 2.5"    | 0.56        | Backwards glide 29 sec.                                 |
+| 2.0" x 2.0"    | 0.63        | Brief backwards glide, transition to nose dive, 11 sec. |
+| 2.5" x 2.5"    | 0.65        | Nose dive                                               |
+| 2.5" x 2.5"    | 0.69        | Nose dive.                                              |
+| 1.5" x 1.5"    | 0.72        | Nose dive                                               |
+| 3.0" x 3.0"    | 0.74        | Nose dive after spin stopped                            |
+| 1.5" x 1.5"    | 0.88        | Nose dive                                               |
 
 What we see is that non-spinning models attained successful super roc rocket glider flight in only part of the predicted regime. Models only reliably glided when the relative CG was less than about 0.6 (x0.04). If the center of gravity was located in the forward 40% of the gap between the Barrowman CP and the center of lateral area, the models nose dived.
 
 One possible explanation is that the center of pressure at 90x is not the center of lateral area. We suspect that a more accurate method of calculating the 90x CP would weight the body tube and nose cone less than the fins.
 
-Conclusions and Further Work
+## Conclusions and Further Work
 
 We have begun to assemble the design tools for designing reliable super roc rocket gliders. The super roc glide phenomenon no longer need be an accidental quirk, but a deliberate design feature. We have demonstrated a novel method for reliably pitching super roc rocket gliders into their high angle-of-attack glide modes. This could mark the beginning of an essentially new recovery system and a new class of model rocket-the zero moving parts super roc rocket glider, or what we informally call the “backslider.”
 
 In the future, we would like to collect more data across the parameters of length, fin size, and CG to better define the limits of the tail glide envelope, and to optimize duration.
 
-Figures
+## Figures
 
 ![](/images/horizspin_fig1.gif)
 
@@ -143,7 +173,7 @@ Figures
 
 ![](/images/horizspin_fig7.gif)
 
-References
+## References
 
 (1) The Papers of Robert H. Goddard, Volume II, 1925-1937, Esther C. Goddard, Editor, McGraw-Hill, 1970, p. 1076. The rocket in question was test L-16, the movable casing rocket. It is also depicted in Rockets of the World and Retro Rockets, both by Peter Alway.
 
@@ -161,7 +191,10 @@ References
 
 Abbreviations
 
-BCP:Barrowman center of pressure CLA:Center of lateral area CG:Center of gravity CP:Center of pressure
+BCP:Barrowman center of pressure
+CLA:Center of lateral area
+CG:Center of gravity
+CP:Center of pressure
 
 Submitted by: Peter Alway
 

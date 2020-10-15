@@ -1,4 +1,4 @@
-powder is usually used. FFFg (3F) is also sometimes used.
+Black powder ("BP") is used in ejection charges. BP is available in different grain sizes. FFFFg (4F) powder is usually used. FFFg (3F) is also sometimes used.
 
 An important concept is that a little too much BP is better than any amount of too little. Precise measurement is not necessary, is part because different batches of BP are not exactly identical, and one batch may burn slightly better than another batch. If a calculation suggests 2.3 grams then 2.5 grams will be fine, but 2.0 grams may not be enough. Far too much BP can result in a large force that can tear a rocket apart. A simple way to compensate for a “hefty” ejection charge is a long tether so that rocket parts have a chance to decelerate before reaching the end of the tether.
 
@@ -6,9 +6,9 @@ Ground testing is recommended. Ground testing can reveal the minimum amount of B
 
 Factors that affect the amount of BP that will be needed are listed below.
 
-- Diameter of airframe (base of nose cone) 
-- Volume of parachute chamber 
-- How tightly parts (airframe/coupler) fit 
+- Diameter of airframe (base of nose cone)
+- Volume of parachute chamber
+- How tightly parts (airframe/coupler) fit
 - Leakiness of the airframe
 
 The mass of parts, such as a nose cone, isn’t taken into account as hobby rocket components generally have low mass compared to non-hobby rockets.
@@ -25,43 +25,12 @@ A starting point for determining the amount of BP to use is to determine the amo
 
 PSI by Airframe Diameter and Desired Force
 
-    Aiframe Diameter
-    100 Pounds
-    150 Pounds
-    200 Pounds
-    250 Pounds
-    
-    
-    
-    2.6"
-    19 psi
-    28 psi
-    38 psi
-    47 psi
-    
-    
-    
-    4.0"
-    8 psi
-    12 psi
-    16 psi
-    20 psi
-    
-    
-    
-    6.0"
-    3.5 psi
-    5.3 psi
-    7.0 psi
-    8.8 psi
-    
-    
-    
-    7.5"
-    2.3 psi
-    3.4 psi
-    4.5 psi
-    5.7 psi
+| Aiframe Diameter | 100 Pounds | 150 Pounds | 200 Pounds | 250 Pounds |
+|:----------------:|:----------:|:----------:|:----------:|:----------:|
+| 2.6"             | 19 psi     | 28 psi     | 38 psi     | 47 psi     |
+| 4.0"             | 8 psi      | 12 psi     | 16 psi     | 20 psi     |
+| 6.0"             | 3.5 psi    | 5.3 psi    | 7.0 psi    | 8.8 psi    |
+| 7.5"             | 2.3 psi    | 3.4 psi    | 4.5 psi    | 5.7 p      |
 
 The table shows that smaller diameter airframes may need a higher pressure than larger diameter airframes.
 

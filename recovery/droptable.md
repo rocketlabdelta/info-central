@@ -8,7 +8,34 @@ Example, you have a chute that will give your rocket a 16 fps descent rate under
 
 Here’s the table.
 
-VelocityDistance 5 fps0’&nbsp; 5” 6 fps0’&nbsp; 7” 7 fps0’&nbsp; 9” 8 fps1’&nbsp; 0” 9 fps1’&nbsp; 3” 10 fps1’&nbsp; 7” 11 fps1’ 11” 12 fps2’&nbsp; 3” 13 fps2’&nbsp; 8” 14 fps3’&nbsp; 1” 15 fps3’&nbsp; 6” 16 fps4’&nbsp; 0” 17 fps4’&nbsp; 6” 18 fps5’&nbsp; 1” 19 fps5’&nbsp; 8” 20 fps6’&nbsp; 3” 21 fps6’ 11” 22 fps7’&nbsp; 7” 23 fps8’&nbsp; 3” 24 fps9’&nbsp; 0” 25 fps9’&nbsp; 9” 26 fps10’&nbsp; 7” 27 fps11’&nbsp; 5” 28 fps12’&nbsp; 3” 29 fps13’&nbsp; 2” 30 fps14’&nbsp; 1”
+| Velocity | Distance |
+|:--------:|:--------:|
+| 5 fps    | 0'  5"   |
+| 6 fps    | 0'  7"   |
+| 7 fps    | 0'  9"   |
+| 8 fps    | 1'  0"   |
+| 9 fps    | 1'  3"   |
+| 10 fps   | 1'  7"   |
+| 11 fps   | 1' 11"   |
+| 12 fps   | 2'  3"   |
+| 13 fps   | 2'  8"   |
+| 14 fps   | 3'  1"   |
+| 15 fps   | 3'  6"   |
+| 16 fps   | 4'  0"   |
+| 17 fps   | 4'  6"   |
+| 18 fps   | 5'  1"   |
+| 19 fps   | 5'  8"   |
+| 20 fps   | 6'  3"   |
+| 21 fps   | 6' 11"   |
+| 22 fps   | 7'  7"   |
+| 23 fps   | 8'  3"   |
+| 24 fps   | 9'  0"   |
+| 25 fps   | 9'  9"   |
+| 26 fps   | 10'  7"  |
+| 27 fps   | 11'  5"  |
+| 28 fps   | 12'  3"  |
+| 29 fps   | 13'  2"  |
+| 30 fps   | 14'  1"  |
 
 Submitted by: David Urbanek
 

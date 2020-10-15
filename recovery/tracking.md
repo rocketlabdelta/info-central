@@ -1,6 +1,6 @@
 Ok, we had a good flight and your rocket is up there somewhere. Keeping it in sight is sometimes difficult, especially if it is high up and upper altitude wind conditions are unknown. And, landing sites often are obstructed with brush, crops and the terrain. So, how do you find it?
 
-Visual Tracking
+## Visual Tracking
 
 Use a parachute color that will contrast with the sky and also ground features. The most visible color I have seen was a “neon pink”. It lit up in the sunlight like a bright chinese lantern and the color was quite visible against the blue sky. Other colors work to varying degrees. Usually, the brighter color, the better it will be seen. (as long as it has contrast against the sky)
 
@@ -18,7 +18,7 @@ Strobe lights have also been used, usually mounted in the nose cone. The more po
 
 A good pair of binoculars will help greatly. A pair with a narrow field of view will make it difficult finding the rocket, use a pair with an ample field of view.
 
-Radio Tracking
+## Radio Tracking
 
 This is a very good method. There are commercially available units normally used for tracking falcons and other small wildlife that have been used successfully on rockets. They are quite durable and perform well. One well known brand is “Walston”, it performs very well and is used by many in HPR.
 
@@ -28,7 +28,7 @@ The FCC may not be as aggressive as the BATFE, but why push the issue? There are
 
 A directional antenna will needed to “point” to your rocket. The range can be quite good even with a very low power transmitter.
 
-Audio Tracking
+## Audio Tracking
 
 Using a small alarm module such as a “Sonalert”(tm) or similar device, you can track your rocket at the landing site by just listening for it once you get within hearing range. These are available with 110db or higher sound levels and usually use anywhere from 3 to 12 volts at low current levels appropriate to small batteries.
 
