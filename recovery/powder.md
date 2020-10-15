@@ -61,7 +61,7 @@ Some high altitude flights have experienced recovery system ejection problems. T
 
 None of this information applies to BP substitutes like Pyrodex or smokeless powers, which generally don’t work with rocket recovery systems.
 
-Submitted by: Dean Roth
+Submitted by: Dean A. Roth
 
 \<h4\>Shear Pins and Ejection Charges\</h4\>
 

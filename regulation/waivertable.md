@@ -7,7 +7,7 @@ The tables will work for “typical” rockets. The tables may not apply to rock
 - 4" Diameter, 4 pound rocket
 - Aerotech I195 motor - 426 Newton-seconds total impulse (33% I)
 
-Use the 50% I table. According to the table the rocket will go less than 2900’ and can be flown provided other factors are safe (thrust-to-weight ratio). 1/4 pound = 4 ounces 1/2 pound = 8 ounces 3/4 pound = 12 ounces Use at your own risk. Dean Roth, the creator of the tables, assumes no liability for use of this data, and recommends that RSOs require a flight simulator for large rockets, large motors and minimum diameter rockets.
+Use the 50% I table. According to the table the rocket will go less than 2900’ and can be flown provided other factors are safe (thrust-to-weight ratio). 1/4 pound = 4 ounces 1/2 pound = 8 ounces 3/4 pound = 12 ounces Use at your own risk. Dean A. Roth, the creator of the tables, assumes no liability for use of this data, and recommends that RSOs require a flight simulator for large rockets, large motors and minimum diameter rockets.
 
 100% F 80 Newton-seconds
 
@@ -1773,5 +1773,5 @@ Airframe Diameter
 
 7000
 
-Submitted by: Dean Roth
+Submitted by: Dean A. Roth
 

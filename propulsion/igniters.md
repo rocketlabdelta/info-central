@@ -48,7 +48,7 @@ They are available in a single length good for most E-G motors.
 
 Note: Additional commercial igniters exist, but have not been used by the author and therefore no data is included at this time.
 
-Submitted by: Dean Roth
+Submitted by: Dean A. Roth
 
 ![](/images/propulsion_igniter_box.jpg)
 Typical tackle box for storing igniters

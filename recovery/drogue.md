@@ -32,5 +32,5 @@ D = drogue diameter in inches W = weight in pounds without propellant
 
 Example of a 5 pound rocket: D = 24 \* sqrt( 0.14 \* 5 ) = 20 (or 24) inches
 
-Submitted by: Dean Roth
+Submitted by: Dean A. Roth
 

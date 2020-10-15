@@ -45,21 +45,21 @@ Here is a list of the most recent additions:
 - April 14, 2000: Ryan Hopkins' article on Internal Wiring added to the[ELECTRONICS](index_electronics.html) area.
 - April 14, 2000: Ryan Hopkins' article on Cluster Wiring added to the[GROUND SUPPORT](index_support.html) area.
 - April 12, 2000: Bob Dahlquist's article on Copperheads added to the[GROUND SUPPORT](index_support.html) area.
-- April 1, 2000: Dean Roth's Thust to Weight Charts added to the[RESOURCES](index_resources.html) area.
+- April 1, 2000: Dean A. Roth's Thust to Weight Charts added to the[RESOURCES](index_resources.html) area.
 - April 1, 2000: John Coker's article on Fin Bevelling added to the[CONSTRUCTION](index_construction.html) area.
 - March 31, 2000: Tom Savoie's Rules of Thumb added to the[ROCKETRY DESIGN](index_design.html) area.
-- March 29, 2000: Dean Roth's Waiver Table added to the[REGULATION](index_regulation.html) area.
+- March 29, 2000: Dean A. Roth's Waiver Table added to the[REGULATION](index_regulation.html) area.
 - March 24, 2000: Jim Ball's article on Solderless Igniters added to the[GROUND SUPPORT](index_support.html) area.
 - March 24, 2000: Tom Savoie's article on working with your Fire Marshall added to the[REGULATION](index_regulation.html) area.
 - March 12, 2000: John Coker's article on Making Decals updated in the[FINISHING](index_finishing.html) area.
-- February 2, 2000: Dean Roth's article on Deployment Bags updated in the[RECOVERY](index_recovery.html) area.
+- February 2, 2000: Dean A. Roth's article on Deployment Bags updated in the[RECOVERY](index_recovery.html) area.
 - January 29, 2000: Eric Gadoury's tips added to Applying Decals in the[FINISHING](index_finishing.html) area.
 - January 29, 2000: Eric Gadoury's Decal Sources added to the[RESOURCES](index_resources.html) area.
 - January 24, 2000: Bob Fortune's Epoxy Primer added to the[CONSTRUCTION](index_construction.html) area.
 - January 24, 2000: Bob Fortune's article on Spray Painting added to the[FINISHING](index_finishing.html) area.
 - January 24, 2000: Bryan Flynt's articles on a TN & Cord Info. and Attachments added to the[RECOVERY](index_recovery.html) area.
 - January 13, 2000: Charles Barnett's article on a Multi-Pad Launcher added to the[GROUND SUPPORT](index_support.html) area.
-- January 13, 2000: Dean Roth's article on Shear Pin Design updated in the[CONSTRUCTION](index_construction.html) area.
+- January 13, 2000: Dean A. Roth's article on Shear Pin Design updated in the[CONSTRUCTION](index_construction.html) area.
 - January 13, 2000: Bob Fortune's article on Paint Prep. added to the[FINISHING](index_finishing.html) area.
 - January 1, 2000:[Another prize for contributors!](index_contribute.html)Happy New Year.
 - November 27, 1999: Kemal Payza's article on Nose Cones added to the[ROCKETRY DESIGN](index_design.html) area.
@@ -87,9 +87,9 @@ Here is a list of the most recent additions:
 - July 28, 1999: New page on[Contributions sought.](index_contribute.html)Prizes!
 - July 28, 1999: New areas for [FINISHING](index_finishing.html) and[RESOURCES](index_resources.html) created.
 - July 12, 1999: Joel Simon's extensive glossary of rocket terms has been added to the has been added to the [ROCKETRY DESIGN](index_design.html) area.
-- July 5, 1999: Dean Roth's contribution on Staging Composite Motors has been added to the [PROPULSION](index_propulsion.html) area.
-- July 5, 1999: Dean Roth's contributions on Ejection Charges and Electric Matches have been added to the [RECOVERY](index_recovery.html) area.
-- July 2, 1999: Dean Roth's contribution on Flying in Clouds is the first section in the new [REGULATION](index_regulation.html) area.
-- July 2, 1999: Dean Roth's contribution on Ignitors for Large Motors has been added to the [PROPULSION](index_propulsion.html) area.
+- July 5, 1999: Dean A. Roth's contribution on Staging Composite Motors has been added to the [PROPULSION](index_propulsion.html) area.
+- July 5, 1999: Dean A. Roth's contributions on Ejection Charges and Electric Matches have been added to the [RECOVERY](index_recovery.html) area.
+- July 2, 1999: Dean A. Roth's contribution on Flying in Clouds is the first section in the new [REGULATION](index_regulation.html) area.
+- July 2, 1999: Dean A. Roth's contribution on Ignitors for Large Motors has been added to the [PROPULSION](index_propulsion.html) area.
 - July 2, 1999: New [WELCOME](index_welcome.html) area added with short introductory material on most areas of non-professional rocketry.
 - July 1, 1999: John Coker takes over as editor of INFOcentral. Please send problems you find and new content you would like to contribute to[john@rocketryonline.com](mailto:john@rocketryonline.com).

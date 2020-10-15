@@ -23,5 +23,5 @@ High Power Rocket Fin Attachment Fins of high power rockets need to be firmly at
 
 The fins, airframe, centering rings and motor mount tube should now be a single thrust bearing unit.
 
-Submitted by: Dean Roth
+Submitted by: Dean A. Roth
 

@@ -20,5 +20,5 @@ Pictured here is the bottom of a 2.6” diameter payload section. The coupler is
 
 The author has used this design with 2.6” and 4” diameter rockets, and it has worked perfectly each time. The author uses about 1/2 gram of black powder in the ejection charge. Larger diameter airframes may need multiple charges to prevent the couple from twisting and binding in the airframe.
 
-Submitted by: Dean Roth
+Submitted by: Dean A. Roth
 

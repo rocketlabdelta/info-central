@@ -22,7 +22,7 @@ In the hope of stimulating more contributions to INFOcentral, we offer periodic 
 
 [![](/images/billkirbysml.jpg)](/images/billkirby.jpg)On September 20, 1999 Bill Kirby won his choice of a Dynacom Black Widow kit or a set of AeroTech 54mm hardware (Dr. Rocket RMS 54/852-1706 System). Bill chose the 54mm set which you can see in the picture on the left (click on it for a larger picture). Each prize is worth almost $200!
 
-[![](/images/deanrothsml.jpg)](/images/deanroth.jpg)On February 21, 2000 Dean Roth won his choice of a Dynacom Black Widow kit or a $200 gift certificate at Magnum. He chose the gift certificate and bought a large case and several reloads. Dean is the champion contributor with 24 articles to his credit. Way to go Dean!
+[![](/images/deanrothsml.jpg)](/images/deanroth.jpg)On February 21, 2000 Dean A. Roth won his choice of a Dynacom Black Widow kit or a $200 gift certificate at Magnum. He chose the gift certificate and bought a large case and several reloads. Dean is the champion contributor with 24 articles to his credit. Way to go Dean!
 
 Keep those contributions coming as we will definitely have another raffle in the future.
 

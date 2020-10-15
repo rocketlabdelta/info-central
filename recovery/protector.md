@@ -14,4 +14,4 @@ A baffle is used to filter and redirect ejection gasses so that they do not dire
 
 Multiple protection techniques can be combined, too. For example a deployment bag can be used with a piston and canister system to also provide for orderly deployment.
 
-Submitted by: Dean Roth
+Submitted by: Dean A. Roth

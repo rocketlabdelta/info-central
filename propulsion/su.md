@@ -11,4 +11,4 @@ AeroTech Single Use 54mm J125 Motor
 
 Single use high power motors usually cost significantly more than the equivalent reload for a reloadable motor. Reloadable motors are usually used rather than single use motors.
 
-Submitted by: Dean Roth
+Submitted by: Dean A. Roth

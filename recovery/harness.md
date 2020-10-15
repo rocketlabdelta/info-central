@@ -8,4 +8,4 @@ No single recovery technology works for all situations. Available technologies n
 
 An elastic cord harness (“shock cord”) can work with low mass rockets, such as those weighing less than three pounds. The harness should be 2 to 3 times the rocket’s length, or about 6’ for rockets 1 pound or less, and 12’ for rockets 1 to 3 pounds. However, tubular nylon is probably a better choice. Small tubular nylon is sold by the yard by some stores that sell camping supplies and boots. Another use for it is boot laces. Low weight high power rockets may be able to use less than 20’ of cord, such as 12’.
 
-Submitted by: Dean Roth
+Submitted by: Dean A. Roth

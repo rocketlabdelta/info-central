@@ -25,5 +25,5 @@ Multiple types of motor igniters can be created. Only one type is presented here
 4. ![](/images/ig5.jpg)  
    A test firing. (The fireball spreads out when not contained within the core of a motor.)
 
-Submitted by: Dean Roth
+Submitted by: Dean A. Roth
 

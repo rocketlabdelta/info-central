@@ -4,4 +4,4 @@ A drogue is not always needed. For example, a two pound, 2.6” diameter rocket 
 
 A drogue and main parachute can sometimes be deployed from the same location. This technique usually requires sufficient airframe diameter to contain a canister to hold the main and drogue, and separate ejection charges for each. One problem with this technique is the potential for the main parachute to become tangled with the drogue. This risk can be reduced by making the drogue’s bridle longer than the main’s bridle so that the parachute’s cannot meet. The drogue should deflate when main inflates.
 
-Submitted by: Dean Roth
+Submitted by: Dean A. Roth

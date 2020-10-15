@@ -12,5 +12,5 @@ Small Rockets Large Rockets
 
 [![](/images/thrustweight_lpr-vs.jpg)](/images/thrustweight_lpr.jpg)[![](/images/thrustweight_hpr-vs.jpg)](/images/thrustweight_hpr.jpg)
 
-Submitted by: Dean Roth
+Submitted by: Dean A. Roth
 
