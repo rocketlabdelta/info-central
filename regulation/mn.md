@@ -10,5 +10,6 @@ The Minneapolis Park Board appears to technically prohibit launches in city park
 
 NFPA 1122 and 1127 are available from NARTS, at the same ungodly price as they are from the NFPA itself. They are copyrighted and not on the web, but TRA has adopted most of 1127 as its safety code.
 
-Minneapolis ordinances are on the web; start at[the help page](http://www.ci.mpls.mn.us./citywork/clerk/laws/mcchelp/mcchelp.html).[The Minnesota fire code](http://www.dps.state.mn.us/fmarshal/firecode/97mufc-3-amend-explan.html)is also on-line.
+Minneapolis ordinances are on the web; start at[the help page](http://www.ci.mpls.mn.us./citywork/clerk/laws/mcchelp/mcchelp.html).[The Minnesota fire code](http://www.dps.state.mn.us/fmarshal/firecode/97mufc-3-amend-explan.html) is also on-line.
 
+Submitted by: Ted Cochran
