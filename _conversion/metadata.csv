@@ -130,12 +130,12 @@ archive/regulatory/orangebook/subparti.html,,,
 archive/regulatory/orangebook/subpartj.html,,,
 archive/regulatory/orangebook/subpartk.html,,,
 archive/regulatory/orangebook/tables55.html,,,
-archive/research.html,research/index.md,Motor Research,motor-research
-archive/research_books.html,research/books.md,Books & Resources,books-resources
-archive/research_fuels.html,research/fuels.md,Fuel Types,fuel-types
-archive/research_organizations.html,research/organizations.md,Organizations,organizations
-archive/research_solids.html,research/solids.md,Solid Propellants,solid-propellants
-archive/resources.html,resources/index.md,Rocket Resources,rocket-resources
+archive/research.html,motor-research/index.md,Motor Research,motor-research
+archive/research_books.html,motor-research/books.md,Books & Resources,books-resources
+archive/research_fuels.html,motor-research/fuels.md,Fuel Types,fuel-types
+archive/research_organizations.html,motor-research/organizations.md,Organizations,organizations
+archive/research_solids.html,motor-research/solids.md,Solid Propellants,solid-propellants
+archive/resources.html,resources/index.md,Rocket Resources,resources
 archive/resources_decals.html,resources/decals.md,Decal Sources,decal-sources
 archive/resources_glossary.html,resources/glossary.md,Glossary,glossary
 archive/resources_thrustweight.html,resources/thrustweight.md,Thrust & Weight,thrust-weight
