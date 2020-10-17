@@ -68,6 +68,11 @@ class Metadata
     metadata[:contributors] = contributors if contributors.any?
     metadata
   end
+
+  def frontmatter
+    yaml = to_h.to_yaml
+    yaml << "---\n"
+  end
 end
 
 Record = Struct.new(:archive_page, :filename, :title, :normalized_filename)
@@ -76,12 +81,11 @@ CSV.foreach(metadata_file) do |row|
   record = Record.new(*row).to_h
   metadata = Metadata.new(record)
   old_filename = metadata.filename
-  next unless File.exist? old_filename
+  next unless old_filename and File.exist? old_filename
   new_filename = metadata.new_filename
-
-  frontmatter = metadata.to_h.to_yaml
-  frontmatter << "---\n"
-  logger.debug(frontmatter.inspect)
+  puts old_filename == new_filename
+  logger.debug(metadata.frontmatter.inspect)
+  next
 
   logger.info("Prepending YAML frontmatter to #{old_filename} and writing to #{new_filename}")
   File.open(new_filename, 'w') do |f|
