@@ -1,166 +1,166 @@
- archive-page,filename,title,new-filename
-_archive/construction.html,construction/index.md,Construction,construction
-_archive/construction_adhesives.html,construction/adhesives.md,Adhesives,adhesives
-_archive/construction_airframe.html,construction/airframe.md,Airframes,airframes
-_archive/construction_antizipper.html,construction/antizipper.md,Anti-Zipper Design,anti-zipper-design
-_archive/construction_antizipper2.html,construction/antizipper2.md,Anti-Zipper Baffle,anti-zipper-baffle
-_archive/construction_bulkheads.html,construction/bulkheads.md,Plywood Bulkheads,plywood-bulkheads
-_archive/construction_composites.html,construction/composites.md,Reinforcing Tubes,reinforcing-tubes
-_archive/construction_couplers.html,construction/couplers.md,Making Couplers,making-couplers
-_archive/construction_cutting_jig.html,construction/cutting_jig.md,Tube Cutting Jig,tube-cutting-jig
-_archive/construction_easyglassing.html,construction/easyglassing.md,Easy 'Glassing,easy-glassing
-_archive/construction_epoxy_tips.html,construction/epoxy_tips.md,Epoxy Tips,epoxy-tips
-_archive/construction_epoxyprimer.html,construction/epoxyprimer.md,Epoxy Primer,epoxy-primer
-_archive/construction_estes.html,construction/estes.md,Estes Part Reference,estes-part-reference
-_archive/construction_fiberglasstips.html,construction/fiberglasstips.md,Fiberglass Tips,fiberglass-tips
-_archive/construction_finbevels.html,construction/finbevels.md,Fin Beveling,fin-beveling
-_archive/construction_finfillets.html,construction/finfillets.md,Fin Fillets,fin-fillets
-_archive/construction_finrouting.html,construction/finrouting.md,Routing Fins,routing-fins
-_archive/construction_fins.html,construction/fins.md,Fins,fins
-_archive/construction_finslots.html,construction/finslots.md,Router Fin Slots,router-fin-slots
-_archive/construction_finslots2.html,construction/finslots2.md,Miter Saw Fin Slots,miter-saw-fin-slots
-_archive/construction_foamturning.html,construction/foamturning.md,Form Tuning,form-tuning
-_archive/construction_heatepoxy.html,construction/heatepoxy.md,Epoxy & Heat,epoxy-heat
-_archive/construction_heattape.html,construction/heattape.md,Heat Shrink Tape,heat-shrink-tape
-_archive/construction_hotwire.html,construction/hotwire.md,Hot Wire Cutting,hot-wire-cutting
-_archive/construction_innerfillets.html,construction/innerfillets.md,Inside Fillets,inside-fillets
-_archive/construction_moldmaking.html,construction/moldmaking.md,Mold Making,mold-making
-_archive/construction_mounts.html,construction/mounts.md,Motor Mounts,motor-mounts
-_archive/construction_nosecones.html,construction/nosecones.md,Nosecones,nosecones
-_archive/construction_phenolic.html,construction/phenolic.md,Phenolic Tubing,phenolic-tubing
-_archive/construction_plasticbond.html,construction/plasticbond.md,Plastic Bonding,plastic-bonding
-_archive/construction_retention.html,construction/retention.md,Motor Retention,motor-retention
-_archive/construction_shearpin.html,construction/shearpin.md,Shear Pin Design,shear-pin-design
-_archive/construction_vacuumbagging.html,construction/vacuumbagging.md,Vacuum Bagging,vacuum-bagging
-_archive/construction_warpedply.html,construction/warpedply.md,Warped Plywood,warped-plywood
-_archive/construction_westsystems.html,construction/westsystems.md,West Systems,west-systems
-_archive/construction_zipperfix.html,construction/zipperfix.md,Fixing a Zipper,fixing-a-zipper
-_archive/contribute.html,contribute.md,Contributing,contributing
-_archive/design.html,design/index.md,Design,design
-_archive/design_cg-cp.html,design/cg-cp.md,CG/CP Relation,cg-cp-relation
-_archive/design_cluster.html,design/cluster.md,Clustering Motors,clustering-motors
-_archive/design_coning.html,design/coning.md,Coning,coning
-_archive/design_convert.html,design/convert.md,Conversions,conversions
-_archive/design_finflutter.html,design/finflutter.md,Fin Flutter,fin-flutter
-_archive/design_nosecones.html,design/nosecones.md,Nose Cones,nose-cones
-_archive/design_rulesofthumb.html,design/rulesofthumb.md,Rules of Thumb,rules-of-thumb
-_archive/design_transcalc.html,design/transcalc.md,Transitions,transitions
-_archive/electronics.html,electronics/index.md,Electronics,electronics
-_archive/electronics_accelerometer.html,electronics/accelerometer.md,Accelerometers,accelerometers
-_archive/electronics_altimeter.html,electronics/altimeter.md,Altimeters,altimeters
-_archive/electronics_camera.html,electronics/camera.md,Cameras,cameras
-_archive/electronics_dolphincam.html,electronics/dolphincam.md,Dolphin Camera,dolphin-camera
-_archive/electronics_intwiring.html,electronics/intwiring.md,Internal Wiring,internal-wiring
-_archive/electronics_rdas.html,electronics/rdas.md,R-DAS,r-das
-_archive/electronics_rftesting.html,electronics/rftesting.md,RF Interference,rf-interference
-_archive/electronics_timer.html,electronics/timer.md,Timers,timers
-_archive/finishing.html,finishing/index.md,Finishing,finishing
-_archive/finishing_alpsdecals.html,finishing/alpsdecals.md,Making Decals,making-decals
-_archive/finishing_applydecals.html,finishing/applydecals.md,Applying Decals,applying-decals
-_archive/finishing_monokote.html,finishing/monokote.md,Monokote,monokote
-_archive/finishing_painting.html,finishing/painting.md,Paint Prep,paint-prep
-_archive/finishing_spraycan.html,finishing/spraycan.md,Spray Painting,spray-painting
-_archive/index.html,index.md,Help,help
-_archive/nav.html,nav.md,Info Central,info-central
-_archive/new.html,new.md,What's New,whats-new
-_archive/propulsion.html,propulsion/index.md,Propulsion,propulsion
-_archive/propulsion_atdelays.html,propulsion/atdelays.md,AeroTech Delays,aerotech-delays
-_archive/propulsion_atmedusa.html,propulsion/atmedusa.md,AeroTech Medusa Kn,aerotech-medusa
-_archive/propulsion_atnozzles.html,propulsion/atnozzles.md,AeroTech Nozzles,aerotech-nozzles
-_archive/propulsion_clustering.html,propulsion/clustering.md,Composite Clustering,composite-clustering
-_archive/propulsion_hybrid.html,propulsion/hybrid.md,Hybrid Motors,hybrid-motors
-_archive/propulsion_hybrid_retrofit.html,propulsion/hybrid_retrofit.md,Hybrid Retrofitting,hybrid-retrofitting
-_archive/propulsion_igniters.html,propulsion/igniters.md,Commercial Igniters,commercial-igniters
-_archive/propulsion_igniters_big.html,propulsion/igniters_big.md,Large Igniters,large-igniters
-_archive/propulsion_motortotal.html,propulsion/motortotal.md,Cluster Totals,cluster-totals
-_archive/propulsion_propellants.html,propulsion/propellants.md,Propellants,propellants
-_archive/propulsion_rms.html,propulsion/rms.md,Reloadable Motors,reloadable-motors
-_archive/propulsion_rms_cleanup.html,propulsion/rms_cleanup.md,Cleaning Reloadable Motors,cleaning-reloadable-motors
-_archive/propulsion_selection.html,propulsion/selection.md,Motor Selection,motor-selection
-_archive/propulsion_staging.html,propulsion/staging.md,Composite Staging,composite-staging
-_archive/propulsion_su.html,propulsion/su.md,Single Use Motors,single-use-motors
-_archive/propulsion_thrustcurve.html,propulsion/thrustcurve.md,Motor Grid,motor-grid
-_archive/recovery.html,recovery/index.md,Recovery,recovery
-_archive/recovery_2stage_design.html,recovery/2stage_design.md,Two Stage Design,two-stage-design
-_archive/recovery_attachments.html,recovery/attachments.md,Attachments,attachments
-_archive/recovery_barotester.html,recovery/barotester.md,Barometric Altimeter Tester,barometric-altimeter-tester
-_archive/recovery_calculators.html,recovery/calculators.md,Recovery Calculators,recovery-calculators
-_archive/recovery_canister.html,recovery/canister.md,Ejection Charges,ejection-charges
-_archive/recovery_cordinfo.html,recovery/cordinfo.md,Tubular Nylon and Climbing Cord,tubular-nylon-and-climbing-cord
-_archive/recovery_deploybag.html,recovery/deploybag.md,Deployment Bags,deployment-bags
-_archive/recovery_design.html,recovery/design.md,Recovery Design,recovery-design
-_archive/recovery_drogue.html,recovery/drogue.md,Drogue Sizing,drogue-sizing
-_archive/recovery_droptable.html,recovery/droptable.md,Drop Table,drop-table
-_archive/recovery_dualdeploy.html,recovery/dualdeploy.md,Dual Deployment,dual-deployment
-_archive/recovery_eject.html,recovery/eject.md,Ejection Techniques & Materials,ejection-techniques
-_archive/recovery_ematches.html,recovery/ematches.md,Electric Matches,electric-matches
-_archive/recovery_harness.html,recovery/harness.md,Recovery Harness,recovery-harness
-_archive/recovery_horizspin.html,recovery/horizspin.md,Backwards Sliding,backwards-sliding
-_archive/recovery_powder.html,recovery/powder.md,Black Powder Sizing,black-powder-sizing
-_archive/recovery_protector.html,recovery/protector.md,Parachute Protection,parachute-protection
-_archive/recovery_psize.html,recovery/psize.md,Main Chutes Sizing,main-chutes-sizing
-_archive/recovery_techniques.html,recovery/techniques.md,Basic Techniques,basic-techniques
-_archive/recovery_tracking.html,recovery/tracking.md,Tracking,tracking
-_archive/recovery_vbcalcs.html,recovery/vbcalcs.md,VB Calculators,vb-calculators
-_archive/recovery_xformdescent.html,recovery/xformdescent.md,X-Form Descent Rate,x-form-descent-rate
-_archive/regulation.html,regulation/index.md,Regulation,regulation
-_archive/regulation_clouds.html,regulation/clouds.md,Flying in Clouds,flying-in-clouds
-_archive/regulation_environment.html,regulation/environment.md,Getting Legal,getting-legal
-_archive/regulation_firemarshal.html,regulation/firemarshal.md,US Fire Marshal,us-fire-marshal
-_archive/regulation_magazines.html,regulation/magazines.md,Magazines,magazines
-_archive/regulation_mn.html,regulation/mn.md,US: Minnesota,us-minnesota
-_archive/regulation_us.html,regulation/us.md,United States,united-states
-_archive/regulation_waivertable.html,regulation/waivertable.md,Waiver Table,waiver-table
-_archive/regulatory/orangebook/18usc40.html,,,
-_archive/regulatory/orangebook/atfoff.html,,,
-_archive/regulatory/orangebook/index.html,,,
-_archive/regulatory/orangebook/index55.html,,,
-_archive/regulatory/orangebook/qanda.html,,,
-_archive/regulatory/orangebook/rulings.html,,,
-_archive/regulatory/orangebook/storage.html,,,
-_archive/regulatory/orangebook/subparta.html,,,
-_archive/regulatory/orangebook/subpartb.html,,,
-_archive/regulatory/orangebook/subpartc.html,,,
-_archive/regulatory/orangebook/subpartd.html,,,
-_archive/regulatory/orangebook/subparte.html,,,
-_archive/regulatory/orangebook/subpartf.html,,,
-_archive/regulatory/orangebook/subpartg.html,,,
-_archive/regulatory/orangebook/subparth.html,,,
-_archive/regulatory/orangebook/subparti.html,,,
-_archive/regulatory/orangebook/subpartj.html,,,
-_archive/regulatory/orangebook/subpartk.html,,,
-_archive/regulatory/orangebook/tables55.html,,,
-_archive/research.html,research/index.md,Motor Research,motor-research
-_archive/research_books.html,research/books.md,Books & Resources,books-resources
-_archive/research_fuels.html,research/fuels.md,Fuel Types,fuel-types
-_archive/research_organizations.html,research/organizations.md,Organizations,organizations
-_archive/research_solids.html,research/solids.md,Solid Propellants,solid-propellants
-_archive/resources.html,resources/index.md,Rocket Resources,rocket-resources
-_archive/resources_decals.html,resources/decals.md,Decal Sources,decal-sources
-_archive/resources_glossary.html,resources/glossary.md,Glossary,glossary
-_archive/resources_thrustweight.html,resources/thrustweight.md,Thrust & Weight,thrust-weight
-_archive/support.html,support/index.md,Ground Support,ground-support
-_archive/support_clipwhip.html,support/clipwhip.md,Clip Whips,clip-whips
-_archive/support_clusterwires.html,support/clusterwires.md,Cluster Wires,cluster-wires
-_archive/support_consoles.html,support/consoles.md,Firing Consoles,firing-consoles
-_archive/support_consoles_atinterlock.html,support/consoles_atinterlock.md,AeroTech Interlock,aerotech-interlock
-_archive/support_consoles_estesebeam.html,support/consoles_estesebeam.md,Estes Electron Beam Launch Controller,estes-electron-beam
-_archive/support_consoles_hmrch6.html,support/consoles_hmrch6.md,"Excerpt from Handbook of Model Rocketry, Chapter 6",handbook-of-model-rocketry-chapter-6
-_archive/support_copperheads.html,support/copperheads.md,Copperheads,copperheads
-_archive/support_igniters.html,support/igniters.md,Solderless Igniters,solderless-igniters
-_archive/support_launcher.html,support/launcher.md,Launch Pads,launch-pads
-_archive/support_launchpad.html,support/launchpad.md,Build a Lunch Pad,build-a-lunch-pad
-_archive/support_multilauncher.html,support/multilauncher.md,Multi-Pad Launcher,multi-pad-launcher
-_archive/support_relaylauncher.html,support/relaylauncher.md,Build a Launcher,build-a-launcher
-_archive/welcome.html,welcome/index.md,Welcome,welcome
-_archive/welcome_anatomy.html,welcome/anatomy.md,Rocket Anatomy,rocket-anatomy
-_archive/welcome_categories.html,welcome/categories.md,Categories,categories
-_archive/welcome_clubs.html,welcome/clubs.md,Clubs,clubs
-_archive/welcome_design.html,welcome/design.md,Rocket Design,rocket-design
-_archive/welcome_laws.html,welcome/laws.md,Laws & Regulations,laws-regulations
-_archive/welcome_links.html,welcome/links.md,Links,links
-_archive/welcome_motors.html,welcome/motors.md,Motors,motors
-_archive/welcome_safety.html,welcome/safety.md,Safety,safety
-_archive/welcome_sources.html,welcome/sources.md,Sources,sources
-_archive/welcome_starting.html,welcome/starting.md,Starting Out,starting-out
-_archive/welcome_terms.html,welcome/terms.md,Terms,terms
+archive-page,filename,title,new-filename
+archive/construction.html,construction/index.md,Construction,construction
+archive/construction_adhesives.html,construction/adhesives.md,Adhesives,adhesives
+archive/construction_airframe.html,construction/airframe.md,Airframes,airframes
+archive/construction_antizipper.html,construction/antizipper.md,Anti-Zipper Design,anti-zipper-design
+archive/construction_antizipper2.html,construction/antizipper2.md,Anti-Zipper Baffle,anti-zipper-baffle
+archive/construction_bulkheads.html,construction/bulkheads.md,Plywood Bulkheads,plywood-bulkheads
+archive/construction_composites.html,construction/composites.md,Reinforcing Tubes,reinforcing-tubes
+archive/construction_couplers.html,construction/couplers.md,Making Couplers,making-couplers
+archive/construction_cutting_jig.html,construction/cutting_jig.md,Tube Cutting Jig,tube-cutting-jig
+archive/construction_easyglassing.html,construction/easyglassing.md,Easy 'Glassing,easy-glassing
+archive/construction_epoxy_tips.html,construction/epoxy_tips.md,Epoxy Tips,epoxy-tips
+archive/construction_epoxyprimer.html,construction/epoxyprimer.md,Epoxy Primer,epoxy-primer
+archive/construction_estes.html,construction/estes.md,Estes Part Reference,estes-part-reference
+archive/construction_fiberglasstips.html,construction/fiberglasstips.md,Fiberglass Tips,fiberglass-tips
+archive/construction_finbevels.html,construction/finbevels.md,Fin Beveling,fin-beveling
+archive/construction_finfillets.html,construction/finfillets.md,Fin Fillets,fin-fillets
+archive/construction_finrouting.html,construction/finrouting.md,Routing Fins,routing-fins
+archive/construction_fins.html,construction/fins.md,Fins,fins
+archive/construction_finslots.html,construction/finslots.md,Router Fin Slots,router-fin-slots
+archive/construction_finslots2.html,construction/finslots2.md,Miter Saw Fin Slots,miter-saw-fin-slots
+archive/construction_foamturning.html,construction/foamturning.md,Form Tuning,form-tuning
+archive/construction_heatepoxy.html,construction/heatepoxy.md,Epoxy & Heat,epoxy-heat
+archive/construction_heattape.html,construction/heattape.md,Heat Shrink Tape,heat-shrink-tape
+archive/construction_hotwire.html,construction/hotwire.md,Hot Wire Cutting,hot-wire-cutting
+archive/construction_innerfillets.html,construction/innerfillets.md,Inside Fillets,inside-fillets
+archive/construction_moldmaking.html,construction/moldmaking.md,Mold Making,mold-making
+archive/construction_mounts.html,construction/mounts.md,Motor Mounts,motor-mounts
+archive/construction_nosecones.html,construction/nosecones.md,Nosecones,nosecones
+archive/construction_phenolic.html,construction/phenolic.md,Phenolic Tubing,phenolic-tubing
+archive/construction_plasticbond.html,construction/plasticbond.md,Plastic Bonding,plastic-bonding
+archive/construction_retention.html,construction/retention.md,Motor Retention,motor-retention
+archive/construction_shearpin.html,construction/shearpin.md,Shear Pin Design,shear-pin-design
+archive/construction_vacuumbagging.html,construction/vacuumbagging.md,Vacuum Bagging,vacuum-bagging
+archive/construction_warpedply.html,construction/warpedply.md,Warped Plywood,warped-plywood
+archive/construction_westsystems.html,construction/westsystems.md,West Systems,west-systems
+archive/construction_zipperfix.html,construction/zipperfix.md,Fixing a Zipper,fixing-a-zipper
+archive/contribute.html,contribute.md,Contributing,contributing
+archive/design.html,design/index.md,Design,design
+archive/design_cg-cp.html,design/cg-cp.md,CG/CP Relation,cg-cp-relation
+archive/design_cluster.html,design/cluster.md,Clustering Motors,clustering-motors
+archive/design_coning.html,design/coning.md,Coning,coning
+archive/design_convert.html,design/convert.md,Conversions,conversions
+archive/design_finflutter.html,design/finflutter.md,Fin Flutter,fin-flutter
+archive/design_nosecones.html,design/nosecones.md,Nose Cones,nose-cones
+archive/design_rulesofthumb.html,design/rulesofthumb.md,Rules of Thumb,rules-of-thumb
+archive/design_transcalc.html,design/transcalc.md,Transitions,transitions
+archive/electronics.html,electronics/index.md,Electronics,electronics
+archive/electronics_accelerometer.html,electronics/accelerometer.md,Accelerometers,accelerometers
+archive/electronics_altimeter.html,electronics/altimeter.md,Altimeters,altimeters
+archive/electronics_camera.html,electronics/camera.md,Cameras,cameras
+archive/electronics_dolphincam.html,electronics/dolphincam.md,Dolphin Camera,dolphin-camera
+archive/electronics_intwiring.html,electronics/intwiring.md,Internal Wiring,internal-wiring
+archive/electronics_rdas.html,electronics/rdas.md,R-DAS,r-das
+archive/electronics_rftesting.html,electronics/rftesting.md,RF Interference,rf-interference
+archive/electronics_timer.html,electronics/timer.md,Timers,timers
+archive/finishing.html,finishing/index.md,Finishing,finishing
+archive/finishing_alpsdecals.html,finishing/alpsdecals.md,Making Decals,making-decals
+archive/finishing_applydecals.html,finishing/applydecals.md,Applying Decals,applying-decals
+archive/finishing_monokote.html,finishing/monokote.md,Monokote,monokote
+archive/finishing_painting.html,finishing/painting.md,Paint Prep,paint-prep
+archive/finishing_spraycan.html,finishing/spraycan.md,Spray Painting,spray-painting
+archive/index.html,index.md,Help,help
+archive/nav.html,nav.md,Info Central,info-central
+archive/new.html,new.md,What's New,whats-new
+archive/propulsion.html,propulsion/index.md,Propulsion,propulsion
+archive/propulsion_atdelays.html,propulsion/atdelays.md,AeroTech Delays,aerotech-delays
+archive/propulsion_atmedusa.html,propulsion/atmedusa.md,AeroTech Medusa Kn,aerotech-medusa
+archive/propulsion_atnozzles.html,propulsion/atnozzles.md,AeroTech Nozzles,aerotech-nozzles
+archive/propulsion_clustering.html,propulsion/clustering.md,Composite Clustering,composite-clustering
+archive/propulsion_hybrid.html,propulsion/hybrid.md,Hybrid Motors,hybrid-motors
+archive/propulsion_hybrid_retrofit.html,propulsion/hybrid_retrofit.md,Hybrid Retrofitting,hybrid-retrofitting
+archive/propulsion_igniters.html,propulsion/igniters.md,Commercial Igniters,commercial-igniters
+archive/propulsion_igniters_big.html,propulsion/igniters_big.md,Large Igniters,large-igniters
+archive/propulsion_motortotal.html,propulsion/motortotal.md,Cluster Totals,cluster-totals
+archive/propulsion_propellants.html,propulsion/propellants.md,Propellants,propellants
+archive/propulsion_rms.html,propulsion/rms.md,Reloadable Motors,reloadable-motors
+archive/propulsion_rms_cleanup.html,propulsion/rms_cleanup.md,Cleaning Reloadable Motors,cleaning-reloadable-motors
+archive/propulsion_selection.html,propulsion/selection.md,Motor Selection,motor-selection
+archive/propulsion_staging.html,propulsion/staging.md,Composite Staging,composite-staging
+archive/propulsion_su.html,propulsion/su.md,Single Use Motors,single-use-motors
+archive/propulsion_thrustcurve.html,propulsion/thrustcurve.md,Motor Grid,motor-grid
+archive/recovery.html,recovery/index.md,Recovery,recovery
+archive/recovery_2stage_design.html,recovery/2stage_design.md,Two Stage Design,two-stage-design
+archive/recovery_attachments.html,recovery/attachments.md,Attachments,attachments
+archive/recovery_barotester.html,recovery/barotester.md,Barometric Altimeter Tester,barometric-altimeter-tester
+archive/recovery_calculators.html,recovery/calculators.md,Recovery Calculators,recovery-calculators
+archive/recovery_canister.html,recovery/canister.md,Ejection Charges,ejection-charges
+archive/recovery_cordinfo.html,recovery/cordinfo.md,Tubular Nylon and Climbing Cord,tubular-nylon-and-climbing-cord
+archive/recovery_deploybag.html,recovery/deploybag.md,Deployment Bags,deployment-bags
+archive/recovery_design.html,recovery/design.md,Recovery Design,recovery-design
+archive/recovery_drogue.html,recovery/drogue.md,Drogue Sizing,drogue-sizing
+archive/recovery_droptable.html,recovery/droptable.md,Drop Table,drop-table
+archive/recovery_dualdeploy.html,recovery/dualdeploy.md,Dual Deployment,dual-deployment
+archive/recovery_eject.html,recovery/eject.md,Ejection Techniques & Materials,ejection-techniques
+archive/recovery_ematches.html,recovery/ematches.md,Electric Matches,electric-matches
+archive/recovery_harness.html,recovery/harness.md,Recovery Harness,recovery-harness
+archive/recovery_horizspin.html,recovery/horizspin.md,Backwards Sliding,backwards-sliding
+archive/recovery_powder.html,recovery/powder.md,Black Powder Sizing,black-powder-sizing
+archive/recovery_protector.html,recovery/protector.md,Parachute Protection,parachute-protection
+archive/recovery_psize.html,recovery/psize.md,Main Chutes Sizing,main-chutes-sizing
+archive/recovery_techniques.html,recovery/techniques.md,Basic Techniques,basic-techniques
+archive/recovery_tracking.html,recovery/tracking.md,Tracking,tracking
+archive/recovery_vbcalcs.html,recovery/vbcalcs.md,VB Calculators,vb-calculators
+archive/recovery_xformdescent.html,recovery/xformdescent.md,X-Form Descent Rate,x-form-descent-rate
+archive/regulation.html,regulation/index.md,Regulation,regulation
+archive/regulation_clouds.html,regulation/clouds.md,Flying in Clouds,flying-in-clouds
+archive/regulation_environment.html,regulation/environment.md,Getting Legal,getting-legal
+archive/regulation_firemarshal.html,regulation/firemarshal.md,US Fire Marshal,us-fire-marshal
+archive/regulation_magazines.html,regulation/magazines.md,Magazines,magazines
+archive/regulation_mn.html,regulation/mn.md,US: Minnesota,us-minnesota
+archive/regulation_us.html,regulation/us.md,United States,united-states
+archive/regulation_waivertable.html,regulation/waivertable.md,Waiver Table,waiver-table
+archive/regulatory/orangebook/18usc40.html,,,
+archive/regulatory/orangebook/atfoff.html,,,
+archive/regulatory/orangebook/index.html,,,
+archive/regulatory/orangebook/index55.html,,,
+archive/regulatory/orangebook/qanda.html,,,
+archive/regulatory/orangebook/rulings.html,,,
+archive/regulatory/orangebook/storage.html,,,
+archive/regulatory/orangebook/subparta.html,,,
+archive/regulatory/orangebook/subpartb.html,,,
+archive/regulatory/orangebook/subpartc.html,,,
+archive/regulatory/orangebook/subpartd.html,,,
+archive/regulatory/orangebook/subparte.html,,,
+archive/regulatory/orangebook/subpartf.html,,,
+archive/regulatory/orangebook/subpartg.html,,,
+archive/regulatory/orangebook/subparth.html,,,
+archive/regulatory/orangebook/subparti.html,,,
+archive/regulatory/orangebook/subpartj.html,,,
+archive/regulatory/orangebook/subpartk.html,,,
+archive/regulatory/orangebook/tables55.html,,,
+archive/research.html,research/index.md,Motor Research,motor-research
+archive/research_books.html,research/books.md,Books & Resources,books-resources
+archive/research_fuels.html,research/fuels.md,Fuel Types,fuel-types
+archive/research_organizations.html,research/organizations.md,Organizations,organizations
+archive/research_solids.html,research/solids.md,Solid Propellants,solid-propellants
+archive/resources.html,resources/index.md,Rocket Resources,rocket-resources
+archive/resources_decals.html,resources/decals.md,Decal Sources,decal-sources
+archive/resources_glossary.html,resources/glossary.md,Glossary,glossary
+archive/resources_thrustweight.html,resources/thrustweight.md,Thrust & Weight,thrust-weight
+archive/support.html,ground-support/index.md,Ground Support,ground-support
+archive/support_clipwhip.html,ground-support/clipwhip.md,Clip Whips,clip-whips
+archive/support_clusterwires.html,ground-support/clusterwires.md,Cluster Wires,cluster-wires
+archive/support_consoles.html,ground-support/consoles.md,Firing Consoles,firing-consoles
+archive/support_consoles_atinterlock.html,ground-support/consoles_atinterlock.md,AeroTech Interlock,aerotech-interlock
+archive/support_consoles_estesebeam.html,ground-support/consoles_estesebeam.md,Estes Electron Beam Launch Controller,estes-electron-beam
+archive/support_consoles_hmrch6.html,ground-support/consoles_hmrch6.md,"Excerpt from Handbook of Model Rocketry, Chapter 6",handbook-of-model-rocketry-chapter-6
+archive/support_copperheads.html,ground-support/copperheads.md,Copperheads,copperheads
+archive/support_igniters.html,ground-support/igniters.md,Solderless Igniters,solderless-igniters
+archive/support_launcher.html,ground-support/launcher.md,Launch Pads,launch-pads
+archive/support_launchpad.html,ground-support/launchpad.md,Build a Lunch Pad,build-a-lunch-pad
+archive/support_multilauncher.html,ground-support/multilauncher.md,Multi-Pad Launcher,multi-pad-launcher
+archive/support_relaylauncher.html,ground-support/relaylauncher.md,Build a Launcher,build-a-launcher
+archive/welcome.html,welcome/index.md,Welcome,welcome
+archive/welcome_anatomy.html,welcome/anatomy.md,Rocket Anatomy,rocket-anatomy
+archive/welcome_categories.html,welcome/categories.md,Categories,categories
+archive/welcome_clubs.html,welcome/clubs.md,Clubs,clubs
+archive/welcome_design.html,welcome/design.md,Rocket Design,rocket-design
+archive/welcome_laws.html,welcome/laws.md,Laws & Regulations,laws-regulations
+archive/welcome_links.html,welcome/links.md,Links,links
+archive/welcome_motors.html,welcome/motors.md,Motors,motors
+archive/welcome_safety.html,welcome/safety.md,Safety,safety
+archive/welcome_sources.html,welcome/sources.md,Sources,sources
+archive/welcome_starting.html,welcome/starting.md,Starting Out,starting-out
+archive/welcome_terms.html,welcome/terms.md,Terms,terms
