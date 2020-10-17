@@ -14,7 +14,7 @@ working_directory = File.expand_path(File.join(File.dirname(__FILE__), '..'))
 logger.debug(working_directory)
 Dir.chdir working_directory
 
-class Frontmatter
+class Metadata
   attr_reader :archive_page, :title, :filename, :normalized_filename
 
   def initialize(archive_page:, title:, filename:, normalized_filename:)
@@ -70,15 +70,15 @@ class Frontmatter
   end
 end
 
-Metadata = Struct.new(:archive_page, :filename, :title, :normalized_filename)
+Record = Struct.new(:archive_page, :filename, :title, :normalized_filename)
 
 CSV.foreach(metadata_file) do |row|
-  metadata = Metadata.new(*row).to_h
-  frontmatter = Frontmatter.new(metadata)
-  if frontmatter.filename
-    puts frontmatter.to_h.inspect
-    puts frontmatter.to_h.to_yaml.inspect
-    cmd = "git mv #{frontmatter.filename} #{frontmatter.new_filename}"
+  record = Record.new(*row).to_h
+  metadata = Metadata.new(record)
+  if metadata.filename
+    frontmatter = metadata.to_h.to_yaml
+    puts frontmatter.inspect
+    cmd = "git mv #{metadata.filename} #{metadata.new_filename}"
     puts cmd
   end
 end
