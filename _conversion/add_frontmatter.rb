@@ -1,10 +1,13 @@
 #! /usr/bin/env ruby
 
 require 'logger'
+require 'csv'
 
 def logger
   @logger ||= Logger.new(STDOUT)
 end
+
+metadata_file = File.expand_path(File.join(File.dirname(__FILE__), 'metadata.csv'))
 
 working_directory = File.expand_path(File.join(File.dirname(__FILE__), '..'))
 logger.debug(working_directory)
@@ -35,8 +38,19 @@ def contributors(md_file)
   contributors
 end
 
-markdown_files.each do |md_file|
+CSV.foreach(metadata_file, headers: true) do |row|
+  md_file = row['filename']
+  next unless md_file
   logger.debug(md_file)
-  logger.debug("Category: #{category(md_file)}")
+  logger.debug("Title: #{row['title']}")
+  file_category = category(md_file)
+  logger.debug("Category: #{file_category}")
   logger.debug("Contributors: #{contributors(md_file)}")
+  logger.debug("Archive Page: #{row['archive-page']}")
+  filename = "#{row['new-filename']}.md"
+  if file_category
+    logger.debug("New Filename: #{File.join(category(md_file), filename)}")
+  else
+    logger.debug("New Filename: #{filename}")
+  end
 end
