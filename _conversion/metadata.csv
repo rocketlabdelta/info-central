@@ -1,4 +1,4 @@
-archive-page,filename,title,new-filename
+archive_page,filename,title,normalized_filename
 archive/construction.html,construction/index.md,Construction,construction
 archive/construction_adhesives.html,construction/adhesives.md,Adhesives,adhesives
 archive/construction_airframe.html,construction/airframe.md,Airframes,airframes

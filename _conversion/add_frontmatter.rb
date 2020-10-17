@@ -2,6 +2,7 @@
 
 require 'logger'
 require 'csv'
+require 'yaml'
 
 def logger
   @logger ||= Logger.new(STDOUT)
@@ -13,44 +14,70 @@ working_directory = File.expand_path(File.join(File.dirname(__FILE__), '..'))
 logger.debug(working_directory)
 Dir.chdir working_directory
 
-markdown_files = `git ls-files | grep -v '_archive' | grep 'md$'`.split(/\n/)
+class Frontmatter
+  attr_reader :archive_page, :title, :filename, :normalized_filename
 
-def category(md_file)
-  directory = File.dirname(md_file)
-  return nil if directory == '.'
-  directory
-end
-
-def contributor_name(text)
-  attribution = text.split(':')[1].lstrip
-  name = attribution.tr('[](),', '').gsub(/mailto/, '').chomp
-end
-
-def contributors(md_file)
-  contributors = []
-  return contributors unless File.exist?(md_file)
-  File.readlines(md_file).each do |line|
-    if line.include?('Submitted by:')
-      contributor = contributor_name(line)
-      contributors << contributor
-    end
+  def initialize(archive_page:, title:, filename:, normalized_filename:)
+    @archive_page = archive_page
+    @title = title
+    @filename = filename
+    @normalized_filename = normalized_filename
   end
-  contributors
+
+  def category
+    return nil unless filename
+    directory = File.dirname(filename)
+    return nil if directory == '.'
+    directory
+  end
+
+  def contributor_name(text)
+    attribution = text.split(':')[1].lstrip
+    name = attribution.tr('[](),', '').gsub(/mailto/, '').chomp
+  end
+
+  def contributors(source: filename)
+    return nil unless filename
+    contributors = []
+    return contributors unless File.exist?(source)
+    File.readlines(source).each do |line|
+      if line.include?('Submitted by:')
+        contributor = contributor_name(line)
+        contributors << contributor
+      end
+    end
+    contributors
+  end
+
+  def normalized_name
+    @normalized_name ||= "#{normalized_filename}.md"
+  end
+
+  def new_filename
+    return File.join(category, normalized_name) if category
+    normalized_name
+  end
+
+  def to_h
+    metadata = {
+      title: title,
+      archive_page: archive_page
+    }
+    metadata[:category] = category if category
+    metadata[:contributors] = contributors if contributors.any?
+    metadata
+  end
 end
 
-CSV.foreach(metadata_file, headers: true) do |row|
-  md_file = row['filename']
-  next unless md_file
-  logger.debug(md_file)
-  logger.debug("Title: #{row['title']}")
-  file_category = category(md_file)
-  logger.debug("Category: #{file_category}")
-  logger.debug("Contributors: #{contributors(md_file)}")
-  logger.debug("Archive Page: #{row['archive-page']}")
-  filename = "#{row['new-filename']}.md"
-  if file_category
-    logger.debug("New Filename: #{File.join(category(md_file), filename)}")
-  else
-    logger.debug("New Filename: #{filename}")
+Metadata = Struct.new(:archive_page, :filename, :title, :normalized_filename)
+
+CSV.foreach(metadata_file) do |row|
+  metadata = Metadata.new(*row).to_h
+  frontmatter = Frontmatter.new(metadata)
+  if frontmatter.filename
+    puts frontmatter.to_h.inspect
+    puts frontmatter.to_h.to_yaml.inspect
+    cmd = "git mv #{frontmatter.filename} #{frontmatter.new_filename}"
+    puts cmd
   end
 end
