@@ -43,9 +43,9 @@ For stronger bonding, epoxy is the preferred adhesive. High-power rockets should
 
 There are many makers of epoxy. Hardware stores and hobby shops sell epoxy in small tubes or bottles which mix together in a 1:1 ratio (one part resin to one part hardener.) This epoxy is usually about right for bonding, but too thick for fiberglassing. The maker will probably have a thinner “finish” epoxy which can be used for filling wood and fiberglassing. Hobby shop epoxy is rated by its “handling time,” the amount of time you have before the epoxy starts to set up. The full cure time is generally 8-10 times this long. If you are using 5-minute epoxy, you have five minutes or less to get your fin aligned, but can go on to the next fin in 10-15 minutes, with full cure in 45 minutes. An epoxy with a longer handling time tends to soak into porous surfaces more and thus is stronger. Most people use the 5- and 30-minute types for rocketry work.
 
-Moving beyond the hobby shop epoxy are complete “epoxy systems.” These product lines require buying into the system, but provide a much wider range of mixtures for different purpose and are generally stronger. The most commonly used epoxy system for high-power rocketry is [West System](http://www.concentric.net/~westsys). See the [West System](construction_westsystems.html) article for more information. Another popular system is [Fibre Glast](http://www.fibreglast.com).
+Moving beyond the hobby shop epoxy are complete “epoxy systems.” These product lines require buying into the system, but provide a much wider range of mixtures for different purpose and are generally stronger. The most commonly used epoxy system for high-power rocketry is [West System](https://www.westsystem.com/). See the [West System](/construction/west-system/) article for more information. Another popular system is [Fibre Glast](https://www.fibreglast.com).
 
-For more information, see the [Epoxy Tips](construction_epoxy_tips.html) article.
+For more information, see the [Epoxy Tips](/construction/epoxy-tips/) article.
 
 Submitted by: John Coker
 

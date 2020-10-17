@@ -1,11 +1,13 @@
 ---
-title: West Systems
+title: West System
 archive_page: archive/construction_westsystems.html
 category: construction
 contributors:
 - John Coker
 ---
-Introduction[West System](http://www.concentric.net/~westsys) makes widely known and well-liked “epoxy system.” In high-power rocketry, West System products are used more than any other epoxy system (although not more than basic “hobby shop” epoxy.) Everyone who tries this system loves it for the convenience and range it provides. The major disadvantages to the system are high price and difficulty in mixing small batches.
+## Introduction
+
+[West System](https://www.westsystem.com/) makes widely known and well-liked “epoxy system.” In high-power rocketry, West System products are used more than any other epoxy system (although not more than basic “hobby shop” epoxy.) Everyone who tries this system loves it for the convenience and range it provides. The major disadvantages to the system are high price and difficulty in mixing small batches.
 
 Questions and Answers
 
@@ -51,7 +53,7 @@ Part # Description Need For
 
 Q: Where should I buy my epoxy?
 
-A: You can purchase everything from Gougeon Bros. (makes of West System), but you can generally get a better price from distributors. Also check the yellow pages for marine supply stores as West System is heavily used by the boat-building industry. Check out the [dealers list](http://www.concentric.net/~gougeon/dealers/us_dealers_index.html).
+A: You can purchase everything from Gougeon Bros. (makes of West System), but you can generally get a better price from distributors. Also check the yellow pages for marine supply stores as West System is heavily used by the boat-building industry. Check out the [dealers list](https://www.westsystem.com/where-to-buy/).
 
 Q: I seem to waste a lot of epoxy, even with the “A” size pumps. How can I reduce this?
 
@@ -67,9 +69,9 @@ A: Fiberglassing isn’t hard, but it is harrowing the first couple of times. Yo
 
 Q: Where can I find out more about epoxy and West System?
 
-A: When you buy your epoxy products, make sure you get a West System catalog. It has great introductory material on epoxy in general and their system in particularly. Read the beginning pages and you will have a good background in epoxy use. You can request a free catalog [on-line](http://www.concentric.net/~Westsys/free_literature.html). (Even if you don’t buy into the system, get the catalog and read it. Really.)
+A: When you buy your epoxy products, make sure you get a West System catalog. It has great introductory material on epoxy in general and their system in particularly. Read the beginning pages and you will have a good background in epoxy use. You can request a free catalog [on-line](https://www.westsystem.com/instruction-manuals/user-manual-product-guide/). (Even if you don’t buy into the system, get the catalog and read it. Really.)
 
-Also see the [Epoxy Tips](construction_epoxy_tips.html) article.
+Also see the [Epoxy Tips](/construction/epoxy-tips/) article.
 
 West System Fillers
 
