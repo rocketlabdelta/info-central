@@ -54,6 +54,7 @@ class Frontmatter
   end
 
   def new_filename
+    return normalized_name if category == normalized_filename
     return File.join(category, normalized_name) if category
     normalized_name
   end
