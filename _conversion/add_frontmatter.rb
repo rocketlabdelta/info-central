@@ -75,10 +75,27 @@ Record = Struct.new(:archive_page, :filename, :title, :normalized_filename)
 CSV.foreach(metadata_file) do |row|
   record = Record.new(*row).to_h
   metadata = Metadata.new(record)
-  if metadata.filename
-    frontmatter = metadata.to_h.to_yaml
-    puts frontmatter.inspect
-    cmd = "git mv #{metadata.filename} #{metadata.new_filename}"
-    puts cmd
+  old_filename = metadata.filename
+  next unless File.exist? old_filename
+  new_filename = metadata.new_filename
+
+  frontmatter = metadata.to_h.to_yaml
+  frontmatter << "---\n"
+  logger.debug(frontmatter.inspect)
+
+  logger.info("Prepending YAML frontmatter to #{old_filename} and writing to #{new_filename}")
+  File.open(new_filename, 'w') do |f|
+    f.puts frontmatter
+    File.foreach(old_filename) do |line|
+      f.puts line
+    end
   end
+
+  remove_cmd = "git rm #{old_filename}"
+  logger.debug(remove_cmd)
+  `#{remove_cmd}`
+
+  track_cmd = "git add #{new_filename}"
+  logger.debug(track_cmd)
+  `#{track_cmd}`
 end
