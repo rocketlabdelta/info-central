@@ -7,7 +7,8 @@ contributors:
 ---
 ## Cyanoacrylates
 
-Various cyanoacrylate glues by Bob Smith Industries ![](/images/construction_adhesive1.jpg)
+![](/images/construction_adhesive1.jpg)  
+Various cyanoacrylate glues by Bob Smith Industries
 
 Cyanoacrylates, more commonly known as CA, have become the adhesive of choice for most hobby and household applications. High quality CA’s, when used properly, form bonds that in many cases are stronger than the material that is being adhered.
 
@@ -17,13 +18,12 @@ With all CA’s, the closer the parts fit together, the stronger the bond. Alway
 
 Heat and moisture will decrease the shelf life of CA’s. Unopened bottles can be stored in a freezer or refrigerator, but allow them to reach room temperature before using. Keep your bottles in a cool place that won’t be exposed to direct sunlight and store away from bottles of accelerators.
 
-Bob Smith Industries CA Adhesives Various cyanoacrylate accelerators and debonders ![](/images/construction_adhesive2.jpg)
+![](/images/construction_adhesive2.jpg)  
+Bob Smith Industries CA Adhesives Various cyanoacrylate accelerators and debonders
 
 Bob Smith’s Insta-Cure has a water-thin viscosity that wicks deep into joints by capillary action and cures in a matter of a few seconds. Surfaces to be bonded must be tight fitting and should be held together while you apply the CA around the edges of the seam. At the moment CA’s cure, they give off a vapor that can irritate the nose and eyes, so be prepared. Thin CA’s work very well on balsa since they penetrate into the wood and form more than just a surface bond.
 
 Insta-Cure+ is a higher viscosity CA for loose fitting joints in which the adhesive must bridge gaps. Normally, the thicker CA is applied to one surface and then the parts are held tightly together for about 5 to 15 seconds. For large surface areas, including those with close fitting joints such as laminations, Insta-Cure+ should also be used. To prevent premature curing, don’t spread the glue into a thin film. Lay down a serpentine bead with about 1” separations on one surface, then assemble the parts, letting the pressure spread the CA out.
-
-Various epoxies ![](/images/construction_adhesive3.jpg)
 
 Insta-Set is a catalyst which acts as an accelerator that allows CA’s to quickly cure in thick layers by enhancing the alkaline conditions during polymerization. Insta-Set in a spray bottle is normally used to cure the CA that flows from joints when parts are pressed together. Applying an additional bead of thick CA along a seam and then curing it with Insta-Set significantly enhances a joint’s strength. For difficult to bond materials, Insta-Set is formulated with a strawberry scent and activates CA in 6 to 8 seconds without any degrading of the CA’s strength, which can occur with many other accelerators. It is compatible with all surfaces, even clear plastic and white foam.
 
@@ -38,6 +38,9 @@ Due to the freshness of Bob Smith CA’s, their shelf life is guaranteed for 24 
 _Text from the Bob Smith Adhesives website._
 
 ## Epoxies
+
+![](/images/construction_adhesive3.jpg)  
+Various epoxies
 
 For stronger bonding, epoxy is the preferred adhesive. High-power rockets should be built entirely with epoxy and even large model rockets should use epoxy for high-stress joints such as the fin-to-body and motor mount joints.
 
