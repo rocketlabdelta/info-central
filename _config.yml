@@ -26,6 +26,8 @@ url: 'https://info-central.rocketlabdelta.com' # the base hostname & protocol fo
 plugins:
   - jekyll-feed
 
+permalink: /:category/:title/
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
