@@ -61,11 +61,11 @@ class Metadata
 
   def to_h
     metadata = {
-      title: title,
-      archive_page: archive_page
+      'title' => title,
+      'archive_page' => archive_page
     }
-    metadata[:category] = category if category
-    metadata[:contributors] = contributors if contributors.any?
+    metadata['category'] = category if category
+    metadata['contributors'] = contributors if contributors.any?
     metadata
   end
 
