@@ -1,3 +1,10 @@
+---
+title: Organizations
+archive_page: archive/research_organizations.html
+category: motor-research
+contributors:
+- Chuck Andrus
+---
 Since TRA prefects conduct “research” rocket launch activities, the organization would be a reasonable place to start, if you are interested in engineering your own rocket motors ([www.tripoli.org](http://www.tripoli.org/)). Regularly scheduled launches provide a great place to meet other research rocketeers, launch the motors you have developed, and learn a lot in the process. Other rocketeers are a most valuable asset, in your pursuit of “Research” rocketry.
 
 An organization that supports research rocketry exclusively is the Reaction Research Society, or RRS as commonly referred to. From the RRS webpage ([www.rrs.org](http://www.rrs.org)), “The REACTION RESEARCH SOCIETY, founded in 1943, is the oldest continuously operating amateur experimental rocketry group in the United States. With a membership active in all areas of the propulsion sciences, the Society maintains the largest privately owned rocket test facility in the country and has, among its membership, many experienced, state licensed First and Second Class Rocket Pyrotechnic Operators. Utilizing these facilities and expertise, the RRS is now offering the first in a series of dedicated rocket propulsion classes for the serious rocketry enthusiast.”

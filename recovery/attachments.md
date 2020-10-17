@@ -1,3 +1,10 @@
+---
+title: Attachments
+archive_page: archive/recovery_attachments.html
+category: recovery
+contributors:
+- Bryan Flynt
+---
 Many methods are used in rocketry to attach recovery harnesses together. This article will cover four of the most common methods. Each one has benefits and drawbacks and only the reader can decide which method is best for him/her.
 
 ## Oval Quick-Links

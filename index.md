@@ -1,3 +1,7 @@
+---
+title: Info Central
+archive_page: archive/index.html
+---
 [![](/images/ro_logo3.gif)](/http://www.rocketryonline.com/home.html)
 
 ![](/images/reference_logo.gif) ![](/images/infocentral.gif)

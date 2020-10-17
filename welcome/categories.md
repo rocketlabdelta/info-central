@@ -1,3 +1,10 @@
+---
+title: Categories
+archive_page: archive/welcome_categories.html
+category: welcome
+contributors:
+- John Coker
+---
 The term “non-professional rocketry” is so broad that it is typically broken down further in general use. There are four common categories used to describe the sub-groups:
 
 - Model Rocketry is what many of us did as children. The classic model rockets are those made by Estes, Centuri (now defunct) and Quest. Estes and Quest rockets are available in most hobby shops and larger toy stores. These rockets use pre-manufactured, inexpensive, usually black powder motors up to "D" size. The rockets generally weigh a few ounces and fly less than 1000 feet high, which allows them to be flown in any open space without special permission. Model rockets are usually simple to build and quite safe. People who enjoy model rocketry are generally more interested in rocket design and frequent flying since motors are inexpensive ($1-$4 per flight).

@@ -1,3 +1,10 @@
+---
+title: Clubs
+archive_page: archive/welcome_clubs.html
+category: welcome
+contributors:
+- John Coker
+---
 From the Laws & Regs. section, you can see that it takes a lot of work to set up a launch. This task is generally undertaken by a rocket club for periodic organized launches. Clubs are basically mandatory for all but model rockets, but even model rocketeers benefit from club membership. You should make an effort to find a local club in your area. See the list of[NAR Sections](http://www.nar.org/NARsect.html)and[Tripoli Prefectures](http://www.tripoli.org/prefect.htm)for clubs in the U.S. and the list of[C.A.R. Clubs](http://www.promotek.com/car/clubs.htm)for clubs in Canada.
 
 A club will have a field somewhere near the majority of their membership base where they will have periodic flights. Most model rocket clubs have flights monthly or weekly and most high-power clubs have flights less frequently (some as little as twice a year). Because the launches are periodic, most of the club will attend and this creates a social atmosphere and the launches become “events” with flyers, friends and spectators.

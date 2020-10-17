@@ -1,3 +1,10 @@
+---
+title: Glossary
+archive_page: archive/resources_glossary.html
+category: resources
+contributors:
+- Joel Simon
+---
 This glossary contains most of the words you will encounter among rocketeers, on Rocketry Online and on the field. The list is long, but you can use the letters to quickly find a term.
 
 [0](#0)[A](#A)[B](#B)[C](#C)[D](#D)[E](#E)[F](#F)[G](#G)[H](#H)[I](#I)[J](#J)[K](#K)[L](#L)

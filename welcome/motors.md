@@ -1,3 +1,10 @@
+---
+title: Motors
+archive_page: archive/welcome_motors.html
+category: welcome
+contributors:
+- John Coker
+---
 Rocket motors need to provide all the elements for combustion themselves (as compared to a jet engine, which uses atmospheric oxygen). So there are four key elements to a rocket motor:
 
 - The oxidizer provides oxygen to drive the combustion chemical reaction. (Combustion, an oxidation reaction, is the combination of oxygen with some other substance.)

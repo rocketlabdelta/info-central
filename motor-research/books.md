@@ -1,2 +1,0 @@
-Submitted by: Chuck Andrus
-

@@ -1,3 +1,10 @@
+---
+title: Terms
+archive_page: archive/welcome_terms.html
+category: welcome
+contributors:
+- John Coker
+---
 Every activity has its own jargon and rocketry is no exception. Here are some terms in common use which will make what you read comprehensible.
 
 - aft is the rear-ward end of something on a rocket. Ship terminology is often used because "top" and "bottom" are confusing as orientation changes. See also forward.

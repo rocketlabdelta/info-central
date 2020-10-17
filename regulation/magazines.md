@@ -1,3 +1,10 @@
+---
+title: Magazines
+archive_page: archive/regulation_magazines.html
+category: regulation
+contributors:
+- Jim Jannuzzo
+---
 This is an extract from the[ATF web site](http://www.atf.treas.gov)on requirements for “type 4” magazines. Type 4 indoor magazines are commonly used by rocketeers for storing high-power motors.
 
 Sec. 55.210 Construction of type 4 magazines.

@@ -1,3 +1,10 @@
+---
+title: Coning
+archive_page: archive/design_coning.html
+category: design
+contributors:
+- Rick Dickinson
+---
 [Editor: “coning” refers to the condition where a rocket rolls around in a cone shape during its flight. This is a more complex behavior than simple instability as covered in the CP/CG relationship.]
 
 “The easy answer is just to quote a term at you: “pitch-roll coupling”.

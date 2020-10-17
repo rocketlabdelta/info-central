@@ -1,3 +1,13 @@
+---
+title: Fins
+archive_page: archive/construction_fins.html
+category: construction
+contributors:
+- Nick Hills
+- Larry DuBois
+- Doyle Tatum
+- Dean A. Roth
+---
 Model Rocket Fin Attachment This only works for Estes type rockets that the fins are mounted on the body tube! If you hate to wait 20 minutes for glue to set then this is for you! First go out and buy some CA glue (I use Pacer brand). Then, put the glue on the ROOT edge of the fin (side that goes on the rocket) and put it on the tube. You have about 20 seconds to put it were it should be (you can take it off if it does not go on right, but you HAVE to be careful taking it off). Then put GOOD filets of glue on the fins so they won`t fall off on landing!
 
 Submitted by: Nick Hills

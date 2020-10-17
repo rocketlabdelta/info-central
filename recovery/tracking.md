@@ -1,3 +1,10 @@
+---
+title: Tracking
+archive_page: archive/recovery_tracking.html
+category: recovery
+contributors:
+- Dan King
+---
 Ok, we had a good flight and your rocket is up there somewhere. Keeping it in sight is sometimes difficult, especially if it is high up and upper altitude wind conditions are unknown. And, landing sites often are obstructed with brush, crops and the terrain. So, how do you find it?
 
 ## Visual Tracking

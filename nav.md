@@ -1,3 +1,7 @@
+---
+title: Navigation
+archive_page: archive/nav.html
+---
 nav
 
 ![](/images/space.gif) ![](/images/space.gif)

@@ -1,3 +1,10 @@
+---
+title: Monokote
+archive_page: archive/finishing_monokote.html
+category: finishing
+contributors:
+- Joe Grubb
+---
 This will be an attempt to relate some of the techniques that work well when using plastic self adhesive film, commonly referred to as Monokote, to cover rocket components. This is how the author uses plastic films, and he does not insist this is the right way or the only way but this is what works for him.
 
 ## What is Monokote?

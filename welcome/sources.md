@@ -1,3 +1,10 @@
+---
+title: Sources
+archive_page: archive/welcome_sources.html
+category: welcome
+contributors:
+- John Coker
+---
 The best way to get started in rocketry is to buy an Estes or Quest kit at your local hobby shop or larger toy store. These rockets are complete, easy to build, and come with detailed instructions. Model rockets generally have a level of difficulty indicated which ranges from completely pre-built rockets (ready to fly) to “level 4” rockets which require cutting out pieces from raw materials and complex painting. Two great Estes kits to start with are the Alpha III which is very easy to build and the Black Brant II which is more fun for those with some model-building skill. Estes now has a [web site.](http://www.estesrockets.com/)
 
 For mid-power rocketry, the largest company is[AeroTech](http://www.aerotech-rocketry.com) and their Initiator and Arreau rockets make good introductory kits. The AeroTech kits come complete and with detailed building instructions. These are more work than model rockets, but don’t require any very advanced skills.

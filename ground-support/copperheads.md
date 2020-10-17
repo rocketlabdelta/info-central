@@ -1,3 +1,10 @@
+---
+title: Copperheads
+archive_page: archive/support_copperheads.html
+category: ground-support
+contributors:
+- Bob Dahlquist
+---
 Success with Copperheads (and all other igniters) at Tripoli Central California
 
 ## Testing Your Igniter

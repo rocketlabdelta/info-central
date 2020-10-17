@@ -1,3 +1,10 @@
+---
+title: Adhesives
+archive_page: archive/construction_adhesives.html
+category: construction
+contributors:
+- John Coker
+---
 ## Cyanoacrylates
 
 Various cyanoacrylate glues by Bob Smith Industries ![](/images/construction_adhesive1.jpg)

@@ -1,3 +1,10 @@
+---
+title: Links
+archive_page: archive/welcome_links.html
+category: welcome
+contributors:
+- John Coker
+---
 These pages are just a quick introduction to the hobby. There is an immense amount of information on-line. Below are some of the high points from the web.
 
 - [Rocketry Online](http://www.rocketryonline.com) is the portal for rocketry. Make sure to browse right here on INFOcentral for much more in-depth information. The Forums provide a way to ask follow and participate in discussions on rocketry topics and to ask for help or more information.
