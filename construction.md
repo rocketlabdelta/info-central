@@ -2,6 +2,7 @@
 title: Construction
 archive_page: archive/construction.html
 category: construction
+layout: section
 ---
 Model and high power rocketry have used numerous construction components over the years, from regular cardboard tubes, hardened cardboard tubes inpregnated with phenolic resins, to a variety of fiberglass components. A few recent manufacturers have branched into wooden tubes or angular airframes built of wood pieces.
 

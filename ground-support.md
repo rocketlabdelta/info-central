@@ -2,6 +2,7 @@
 title: Ground Support
 archive_page: archive/support.html
 category: ground-support
+layout: section
 ---
 Introduction Critical to successful launching is good ground support equipment. A suitably sized launch pad and an adequate firing console are necessary to get your project off the ground.
 

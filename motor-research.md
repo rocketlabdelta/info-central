@@ -2,6 +2,7 @@
 title: Motor Research
 archive_page: archive/research.html
 category: motor-research
+layout: section
 ---
 This category, like other INFOcentral categories, is dedicated to answering questions and providing useful information about a specific topic, in this case Research Rocketry. A “research” rocket motor, as defined by Tripoli Rocketry Association, is “any motor which has not been certified by Tripoli Motor Testing and/or NAR for use by Tripoli members” ([www.tripoli.org/Documents/TRA\_exp\_rules.html](http://www.tripoli.org/Documents/TRA_exp_rules.html)). Following these guidelines, the various segments of this category will cover some of the references available, common propellant types, safety, composition, and propellant testing.
 
