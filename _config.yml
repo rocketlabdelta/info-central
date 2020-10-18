@@ -29,35 +29,38 @@ plugins:
 permalink: /:category/:title/
 
 header_pages:
-  - construction.md
+  - welcome.md
   - design.md
-  - electronics.md
+  - construction.md
   - finishing.md
-  - ground_support.md
-  - motor_research.md
   - propulsion.md
+  - electronics.md
   - recovery.md
+  - ground_support.md
   - regulation.md
+  - motor_research.md
   - resources.md
 
 collections:
-  construction:
+  welcome:
     output: true
   design:
     output: true
-  electronics:
+  construction:
     output: true
   finishing:
     output: true
-  ground_support:
-    output: true
-  motor_research:
-    output: true
   propulsion:
+    output: true
+  electronics:
     output: true
   recovery:
     output: true
+  ground_support:
+    output: true
   regulation:
+    output: true
+  motor_research:
     output: true
   resources:
     output: true
@@ -113,6 +116,11 @@ defaults:
       type: resources
     values:
       layout: resources
+  -
+    scope:
+      type: welcome
+    values:
+      layout: welcome
 
 # Exclude from processing.
 # The following items will not be processed, by default.

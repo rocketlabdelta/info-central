@@ -5,7 +5,9 @@ layout: home
 ---
 [![](/images/ro_logo3.gif)](http://www.rocketryonline.com/home.html)
 
-![](/images/reference_logo.gif) ![](/images/infocentral.gif)
+![](/images/infocentral.gif)
+
+![](/images/reference_logo.gif)
 
 [Welcome](/welcome/)  
 [Design](/design/)  
@@ -14,9 +16,9 @@ layout: home
 [Propulsion](/propulsion/)  
 [Recovery](/recovery/)  
 [Electronics](/electronics/)  
-[Ground Support](/ground-support/)  
+[Ground Support](/ground_support/)  
 [Regulation](/regulation/)  
-[Motor Research](/motor-research/)  
+[Motor Research](/motor_research/)  
 [Resources](/resources/)  
 [FAQ](http://www.ninfinger.org/~sven/rockets/rmrfaq.toc.html)
 
