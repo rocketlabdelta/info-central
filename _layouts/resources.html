@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<nav class="category-navigation">
+  <ul class="page-listing">
+    {%- for page in site.resources -%}
+    <li class="page-summary">
+      <a href="{{ page.url }}" class="page-link">
+        <span class="page-title">{{ page.title }}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</nav>
+
+<header>
+  <h1>{{page.title}}</h1>
+</header>
+
+<main id="main" role="main">
+  {{ content }}
+</main>

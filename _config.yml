@@ -30,16 +30,37 @@ permalink: /:category/:title/
 
 header_pages:
   - construction.md
-  - contributing.md
   - design.md
   - electronics.md
   - finishing.md
-  - ground-support.md
-  - motor-research.md
+  - ground_support.md
+  - motor_research.md
   - propulsion.md
   - recovery.md
   - regulation.md
   - resources.md
+
+collections:
+  construction:
+    output: true
+  design:
+    output: true
+  electronics:
+    output: true
+  finishing:
+    output: true
+  ground_support:
+    output: true
+  motor_research:
+    output: true
+  propulsion:
+    output: true
+  recovery:
+    output: true
+  regulation:
+    output: true
+  resources:
+    output: true
 
 defaults:
   -
@@ -47,6 +68,51 @@ defaults:
       path: ''
     values:
       layout: page
+  -
+    scope:
+      type: construction
+    values:
+      layout: construction
+  -
+    scope:
+      type: design
+    values:
+      layout: design
+  -
+    scope:
+      type: electronics
+    values:
+      layout: electronics
+  -
+    scope:
+      type: finishing
+    values:
+      layout: finishing
+  -
+    scope:
+      type: groud_support
+    values:
+      layout: ground_support
+  -
+    scope:
+      type: motor_research
+    values:
+      layout: motor_research
+  -
+    scope:
+      type: recovery
+    values:
+      layout: recovery
+  -
+    scope:
+      type: regulation
+    values:
+      layout: regulation
+  -
+    scope:
+      type: resources
+    values:
+      layout: resources
 
 # Exclude from processing.
 # The following items will not be processed, by default.

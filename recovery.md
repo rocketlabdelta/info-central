@@ -4,7 +4,7 @@ archive_page: archive/recovery.html
 collection: recovery
 contributors:
 - Dean A. Roth
-layout: section
+layout: recovery
 ---
 Introduction A recovery system is used to return a rocket to the ground without damage to the rocket or objects on the ground. The typical recovery mechanism is a parachute. The components of one rocket’s recovery system are shown below.
 
