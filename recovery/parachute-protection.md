@@ -1,7 +1,7 @@
 ---
 title: Parachute Protection
 archive_page: archive/recovery_protector.html
-category: recovery
+collection: recovery
 contributors:
 - Dean A. Roth
 ---

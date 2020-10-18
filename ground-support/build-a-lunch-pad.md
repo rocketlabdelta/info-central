@@ -1,7 +1,7 @@
 ---
 title: Build a Lunch Pad
 archive_page: archive/support_launchpad.html
-category: ground-support
+collection: ground-support
 contributors:
 - Eric Ohmit
 ---

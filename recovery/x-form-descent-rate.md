@@ -1,7 +1,7 @@
 ---
 title: X-Form Descent Rate
 archive_page: archive/recovery_xformdescent.html
-category: recovery
+collection: recovery
 contributors:
 - Steve Gerber
 ---

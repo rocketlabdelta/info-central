@@ -1,7 +1,7 @@
 ---
 title: Applying Decals
 archive_page: archive/finishing_applydecals.html
-category: finishing
+collection: finishing
 contributors:
 - Nick Hills
 - Eric Gadoury

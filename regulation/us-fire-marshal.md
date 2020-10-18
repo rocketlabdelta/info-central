@@ -1,7 +1,7 @@
 ---
 title: US Fire Marshal
 archive_page: archive/regulation_firemarshal.html
-category: regulation
+collection: regulation
 contributors:
 - Tom Savoie
 ---

@@ -1,7 +1,7 @@
 ---
 title: Fin Fillets
 archive_page: archive/construction_finfillets.html
-category: construction
+collection: construction
 contributors:
 - Darrell Mobley
 ---

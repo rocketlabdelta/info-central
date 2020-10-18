@@ -1,7 +1,7 @@
 ---
 title: Cameras
 archive_page: archive/electronics_camera.html
-category: electronics
+collection: electronics
 contributors:
 - Douglas Gerrard
 ---

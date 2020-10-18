@@ -1,7 +1,7 @@
 ---
 title: Categories
 archive_page: archive/welcome_categories.html
-category: welcome
+collection: welcome
 contributors:
 - John Coker
 ---

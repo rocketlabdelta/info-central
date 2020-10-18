@@ -1,7 +1,7 @@
 ---
 title: Cluster Totals
 archive_page: archive/propulsion_motortotal.html
-category: propulsion
+collection: propulsion
 contributors:
 - Ari Mahonen
 ---

@@ -1,7 +1,7 @@
 ---
 title: Commercial Igniters
 archive_page: archive/propulsion_igniters.html
-category: propulsion
+collection: propulsion
 contributors:
 - Dean A. Roth
 - Doyle Tatum

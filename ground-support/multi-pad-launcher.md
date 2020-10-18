@@ -1,7 +1,7 @@
 ---
 title: Multi-Pad Launcher
 archive_page: archive/support_multilauncher.html
-category: ground-support
+collection: ground-support
 contributors:
 - Charles Barnett
 ---

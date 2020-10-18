@@ -1,7 +1,7 @@
 ---
 title: AeroTech Nozzles
 archive_page: archive/propulsion_atnozzles.html
-category: propulsion
+collection: propulsion
 contributors:
 - Steve Pearson
 ---

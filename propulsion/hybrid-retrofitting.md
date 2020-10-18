@@ -1,7 +1,7 @@
 ---
 title: Hybrid Retrofitting
 archive_page: archive/propulsion_hybrid_retrofit.html
-category: propulsion
+collection: propulsion
 contributors:
 - John Coker
 ---

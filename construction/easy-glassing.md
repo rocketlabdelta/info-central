@@ -1,7 +1,7 @@
 ---
 title: Easy 'Glassing
 archive_page: archive/construction_easyglassing.html
-category: construction
+collection: construction
 contributors:
 - Jon H. Ruehle
 ---

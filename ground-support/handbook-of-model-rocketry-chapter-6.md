@@ -1,7 +1,7 @@
 ---
 title: Excerpt from Handbook of Model Rocketry, Chapter 6
 archive_page: archive/support_consoles_hmrch6.html
-category: ground-support
+collection: ground-support
 contributors:
 - John Coker
 ---

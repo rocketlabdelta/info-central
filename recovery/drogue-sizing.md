@@ -1,7 +1,7 @@
 ---
 title: Drogue Sizing
 archive_page: archive/recovery_drogue.html
-category: recovery
+collection: recovery
 contributors:
 - Dean A. Roth
 ---

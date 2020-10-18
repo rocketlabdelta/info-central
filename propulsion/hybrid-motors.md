@@ -1,7 +1,7 @@
 ---
 title: Hybrid Motors
 archive_page: archive/propulsion_hybrid.html
-category: propulsion
+collection: propulsion
 contributors:
 - John Coker
 ---

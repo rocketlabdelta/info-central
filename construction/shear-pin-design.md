@@ -1,7 +1,7 @@
 ---
 title: Shear Pin Design
 archive_page: archive/construction_shearpin.html
-category: construction
+collection: construction
 contributors:
 - Dean A. Roth
 ---

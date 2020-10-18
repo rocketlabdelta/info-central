@@ -1,7 +1,7 @@
 ---
 title: Monokote
 archive_page: archive/finishing_monokote.html
-category: finishing
+collection: finishing
 contributors:
 - Joe Grubb
 ---

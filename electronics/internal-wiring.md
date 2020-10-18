@@ -1,7 +1,7 @@
 ---
 title: Internal Wiring
 archive_page: archive/electronics_intwiring.html
-category: electronics
+collection: electronics
 contributors:
 - Ryan Hopkins
 ---

@@ -1,7 +1,7 @@
 ---
 title: Starting Out
 archive_page: archive/welcome_starting.html
-category: welcome
+collection: welcome
 contributors:
 - John Coker
 ---

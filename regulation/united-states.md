@@ -1,7 +1,7 @@
 ---
 title: United States
 archive_page: archive/regulation_us.html
-category: regulation
+collection: regulation
 contributors:
 - Ted Cochran
 ---

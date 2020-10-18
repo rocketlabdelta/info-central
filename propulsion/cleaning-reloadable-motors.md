@@ -1,7 +1,7 @@
 ---
 title: Cleaning Reloadable Motors
 archive_page: archive/propulsion_rms_cleanup.html
-category: propulsion
+collection: propulsion
 contributors:
 - Dean A. Roth
 ---

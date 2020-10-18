@@ -1,7 +1,7 @@
 ---
 title: Router Fin Slots
 archive_page: archive/construction_finslots.html
-category: construction
+collection: construction
 contributors:
 - Jerry OSullivan
 ---

@@ -1,7 +1,7 @@
 ---
 title: Form Tuning
 archive_page: archive/construction_foamturning.html
-category: construction
+collection: construction
 contributors:
 - James Pierson
 ---

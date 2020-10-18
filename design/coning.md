@@ -1,7 +1,7 @@
 ---
 title: Coning
 archive_page: archive/design_coning.html
-category: design
+collection: design
 contributors:
 - Rick Dickinson
 ---

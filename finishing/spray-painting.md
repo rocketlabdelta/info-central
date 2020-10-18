@@ -1,7 +1,7 @@
 ---
 title: Spray Painting
 archive_page: archive/finishing_spraycan.html
-category: finishing
+collection: finishing
 contributors:
 - Bob Fortune
 ---

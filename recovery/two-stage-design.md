@@ -1,7 +1,7 @@
 ---
 title: Two Stage Design
 archive_page: archive/recovery_2stage_design.html
-category: recovery
+collection: recovery
 contributors:
 - Dean A. Roth
 ---

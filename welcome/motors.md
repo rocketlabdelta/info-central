@@ -1,7 +1,7 @@
 ---
 title: Motors
 archive_page: archive/welcome_motors.html
-category: welcome
+collection: welcome
 contributors:
 - John Coker
 ---

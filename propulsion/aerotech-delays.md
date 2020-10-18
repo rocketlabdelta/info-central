@@ -1,7 +1,7 @@
 ---
 title: AeroTech Delays
 archive_page: archive/propulsion_atdelays.html
-category: propulsion
+collection: propulsion
 contributors:
 - Richard Hagen
 ---

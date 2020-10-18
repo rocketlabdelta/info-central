@@ -1,7 +1,7 @@
 ---
 title: Sources
 archive_page: archive/welcome_sources.html
-category: welcome
+collection: welcome
 contributors:
 - John Coker
 ---

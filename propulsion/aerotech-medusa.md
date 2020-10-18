@@ -1,7 +1,7 @@
 ---
 title: AeroTech Medusa Kn
 archive_page: archive/propulsion_atmedusa.html
-category: propulsion
+collection: propulsion
 contributors:
 - Jerry L. Scafidel
 ---

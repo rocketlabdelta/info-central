@@ -1,7 +1,7 @@
 ---
 title: Plastic Bonding
 archive_page: archive/construction_plasticbond.html
-category: construction
+collection: construction
 contributors:
 - Gustavo D. Piñero
 ---

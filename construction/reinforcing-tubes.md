@@ -1,7 +1,7 @@
 ---
 title: Reinforcing Tubes
 archive_page: archive/construction_composites.html
-category: construction
+collection: construction
 contributors:
 - Greg Deputy
 ---

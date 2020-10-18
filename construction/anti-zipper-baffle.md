@@ -1,7 +1,7 @@
 ---
 title: Anti-Zipper Baffle
 archive_page: archive/construction_antizipper2.html
-category: construction
+collection: construction
 contributors:
 - Giacomo Bosso
 ---

@@ -1,7 +1,7 @@
 ---
 title: Ejection Techniques & Materials
 archive_page: archive/recovery_eject.html
-category: recovery
+collection: recovery
 contributors:
 - Dean A. Roth
 ---

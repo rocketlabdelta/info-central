@@ -1,7 +1,7 @@
 ---
 title: Rocket Anatomy
 archive_page: archive/welcome_anatomy.html
-category: welcome
+collection: welcome
 contributors:
 - John Coker
 ---

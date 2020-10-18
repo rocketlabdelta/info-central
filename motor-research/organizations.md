@@ -1,7 +1,7 @@
 ---
 title: Organizations
 archive_page: archive/research_organizations.html
-category: motor-research
+collection: motor-research
 contributors:
 - Chuck Andrus
 ---

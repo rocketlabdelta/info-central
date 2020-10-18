@@ -1,7 +1,7 @@
 ---
 title: Routing Fins
 archive_page: archive/construction_finrouting.html
-category: construction
+collection: construction
 contributors:
 - Mark Mazzon
 ---

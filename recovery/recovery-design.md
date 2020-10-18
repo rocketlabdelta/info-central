@@ -1,7 +1,7 @@
 ---
 title: Recovery Design
 archive_page: archive/recovery_design.html
-category: recovery
+collection: recovery
 contributors:
 - Dean A. Roth
 ---

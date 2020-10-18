@@ -1,7 +1,7 @@
 ---
 title: Glossary
 archive_page: archive/resources_glossary.html
-category: resources
+collection: resources
 contributors:
 - Joel Simon
 ---

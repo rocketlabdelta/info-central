@@ -1,7 +1,7 @@
 ---
 title: Main Chutes Sizing
 archive_page: archive/recovery_psize.html
-category: recovery
+collection: recovery
 contributors:
 - Dean A. Roth
 ---

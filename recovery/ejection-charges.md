@@ -1,7 +1,7 @@
 ---
 title: Ejection Charges
 archive_page: archive/recovery_canister.html
-category: recovery
+collection: recovery
 contributors:
 - Dean A. Roth
 ---

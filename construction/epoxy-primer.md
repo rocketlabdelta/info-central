@@ -1,7 +1,7 @@
 ---
 title: Epoxy Primer
 archive_page: archive/construction_epoxyprimer.html
-category: construction
+collection: construction
 contributors:
 - Bob Fortune
 ---

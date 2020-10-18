@@ -1,7 +1,7 @@
 ---
 title: Rocket Design
 archive_page: archive/welcome_design.html
-category: welcome
+collection: welcome
 contributors:
 - John Coker
 ---

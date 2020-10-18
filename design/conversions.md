@@ -1,7 +1,7 @@
 ---
 title: Conversions
 archive_page: archive/design_convert.html
-category: design
+collection: design
 contributors:
 - Duncan Mcdonald
 ---

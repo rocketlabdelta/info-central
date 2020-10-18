@@ -1,7 +1,7 @@
 ---
 title: Magazines
 archive_page: archive/regulation_magazines.html
-category: regulation
+collection: regulation
 contributors:
 - Jim Jannuzzo
 ---

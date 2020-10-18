@@ -1,7 +1,7 @@
 ---
 title: Nosecones
 archive_page: archive/construction_nosecones.html
-category: construction
+collection: construction
 contributors:
 - Doyle Tatum
 ---

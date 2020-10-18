@@ -1,7 +1,7 @@
 ---
 title: Electronics
 archive_page: archive/electronics.html
-category: electronics
+collection: electronics
 layout: section
 ---
 Advances in electronics technology have created many opportunities for new ideas in consumer rocketry. Electronic ignition of upper stages of multi-staged rockets is now common as is the use of radio controlled devices. Several altimeters are available including some with downloadable memory modules. Electronic deployment of recovery devices, as well as deployment based on altitude, is now practical.

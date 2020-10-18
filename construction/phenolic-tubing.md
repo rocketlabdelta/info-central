@@ -1,7 +1,7 @@
 ---
 title: Phenolic Tubing
 archive_page: archive/construction_phenolic.html
-category: construction
+collection: construction
 contributors:
 - Michael Dennett
 ---

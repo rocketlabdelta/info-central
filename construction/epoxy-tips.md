@@ -1,7 +1,7 @@
 ---
 title: Epoxy Tips
 archive_page: archive/construction_epoxy_tips.html
-category: construction
+collection: construction
 contributors:
 - Mark James
 - Chuck Andrus

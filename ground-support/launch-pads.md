@@ -1,7 +1,7 @@
 ---
 title: Launch Pads
 archive_page: archive/support_launcher.html
-category: ground-support
+collection: ground-support
 ---
 ![](/images/mantis.jpg)AeroTech Mantis Launch Pad AeroTech’s Mantis launcher is one of the more versatile model rocketry launch pads available, making it a launch pad of choice for most model rockets.
 

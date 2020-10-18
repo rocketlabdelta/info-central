@@ -1,7 +1,7 @@
 ---
 title: Clubs
 archive_page: archive/welcome_clubs.html
-category: welcome
+collection: welcome
 contributors:
 - John Coker
 ---

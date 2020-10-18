@@ -1,7 +1,7 @@
 ---
 title: Cluster Wires
 archive_page: archive/support_clusterwires.html
-category: ground-support
+collection: ground-support
 contributors:
 - Ryan Hopkins
 ---

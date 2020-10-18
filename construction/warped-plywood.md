@@ -1,7 +1,7 @@
 ---
 title: Warped Plywood
 archive_page: archive/construction_warpedply.html
-category: construction
+collection: construction
 contributors:
 - Jon H. Ruehle
 ---

@@ -1,7 +1,7 @@
 ---
 title: Decal Sources
 archive_page: archive/resources_decals.html
-category: resources
+collection: resources
 contributors:
 - Eric Gadoury
 ---

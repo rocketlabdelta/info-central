@@ -1,7 +1,7 @@
 ---
 title: Timers
 archive_page: archive/electronics_timer.html
-category: electronics
+collection: electronics
 ---
 Introduction Electronic devices to control certain events are called timers. These units allow a user to control events at a predetermined time setting. Rocketry devices incorporating timers are used to ignite upper stage motors in multi-stage rockets, ignite clusters of motors sequentially or for deployment of recovery devices. There are numerous units on the market, the ones listed below are a sampling of what is available.
 

@@ -1,7 +1,7 @@
 ---
 title: Links
 archive_page: archive/welcome_links.html
-category: welcome
+collection: welcome
 contributors:
 - John Coker
 ---

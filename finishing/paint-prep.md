@@ -1,7 +1,7 @@
 ---
 title: Paint Prep
 archive_page: archive/finishing_painting.html
-category: finishing
+collection: finishing
 contributors:
 - Bob Fortune
 ---

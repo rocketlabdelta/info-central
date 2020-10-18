@@ -1,7 +1,7 @@
 ---
 title: Tubular Nylon and Climbing Cord
 archive_page: archive/recovery_cordinfo.html
-category: recovery
+collection: recovery
 contributors:
 - Bryan Flynt
 ---

@@ -1,7 +1,7 @@
 ---
 title: Transitions
 archive_page: archive/design_transcalc.html
-category: design
+collection: design
 contributors:
 - Jim Malone
 ---

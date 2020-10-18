@@ -1,7 +1,7 @@
 ---
 title: Estes Electron Beam Launch Controller
 archive_page: archive/support_consoles_estesebeam.html
-category: ground-support
+collection: ground-support
 contributors:
 - John Coker
 ---

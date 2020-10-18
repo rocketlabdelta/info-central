@@ -1,7 +1,7 @@
 ---
 title: Backwards Sliding
 archive_page: archive/recovery_horizspin.html
-category: recovery
+collection: recovery
 contributors:
 - Peter Alway
 ---

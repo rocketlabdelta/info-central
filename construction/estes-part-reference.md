@@ -1,7 +1,7 @@
 ---
 title: Estes Part Reference
 archive_page: archive/construction_estes.html
-category: construction
+collection: construction
 ---
 ## Body Tube Dimensions
 

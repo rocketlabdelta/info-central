@@ -1,7 +1,7 @@
 ---
 title: R-DAS
 archive_page: archive/electronics_rdas.html
-category: electronics
+collection: electronics
 ---
 Introduction
 

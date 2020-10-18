@@ -1,7 +1,7 @@
 ---
 title: Attachments
 archive_page: archive/recovery_attachments.html
-category: recovery
+collection: recovery
 contributors:
 - Bryan Flynt
 ---

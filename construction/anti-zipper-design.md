@@ -1,7 +1,7 @@
 ---
 title: Anti-Zipper Design
 archive_page: archive/construction_antizipper.html
-category: construction
+collection: construction
 contributors:
 - Stu Barrett
 ---

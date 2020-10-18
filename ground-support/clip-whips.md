@@ -1,7 +1,7 @@
 ---
 title: Clip Whips
 archive_page: archive/support_clipwhip.html
-category: ground-support
+collection: ground-support
 contributors:
 - Peter W. Clay
 ---

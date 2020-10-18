@@ -1,7 +1,7 @@
 ---
 title: Composite Clustering
 archive_page: archive/propulsion_clustering.html
-category: propulsion
+collection: propulsion
 contributors:
 - John Lyngdal
 ---

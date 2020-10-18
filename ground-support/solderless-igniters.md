@@ -1,7 +1,7 @@
 ---
 title: Solderless Igniters
 archive_page: archive/support_igniters.html
-category: ground-support
+collection: ground-support
 contributors:
 - Jim Ball
 ---

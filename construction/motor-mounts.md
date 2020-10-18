@@ -1,7 +1,7 @@
 ---
 title: Motor Mounts
 archive_page: archive/construction_mounts.html
-category: construction
+collection: construction
 ---
 Like rocketry airframe tubing, motor mount are also made from a number of different materials. The most common motor mount tubes are cardboard. Many flyers even use motor mount tubes to build minimum diameter rockets for a given motor size. The two predominant types of cardboard motor mount tubes are kraft cardboard and phenolic.
 

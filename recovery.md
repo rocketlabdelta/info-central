@@ -1,7 +1,7 @@
 ---
 title: Recovery
 archive_page: archive/recovery.html
-category: recovery
+collection: recovery
 contributors:
 - Dean A. Roth
 layout: section

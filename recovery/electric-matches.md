@@ -1,7 +1,7 @@
 ---
 title: Electric Matches
 archive_page: archive/recovery_ematches.html
-category: recovery
+collection: recovery
 contributors:
 - Dean A. Roth
 ---

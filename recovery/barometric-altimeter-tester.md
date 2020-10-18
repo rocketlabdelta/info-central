@@ -1,7 +1,7 @@
 ---
 title: Barometric Altimeter Tester
 archive_page: archive/recovery_barotester.html
-category: recovery
+collection: recovery
 contributors:
 - Charles Barnett
 ---

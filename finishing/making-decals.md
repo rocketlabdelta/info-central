@@ -1,7 +1,7 @@
 ---
 title: Making Decals
 archive_page: archive/finishing_alpsdecals.html
-category: finishing
+collection: finishing
 contributors:
 - John Coker
 ---

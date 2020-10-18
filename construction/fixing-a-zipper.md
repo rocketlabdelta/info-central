@@ -1,7 +1,7 @@
 ---
 title: Fixing a Zipper
 archive_page: archive/construction_zipperfix.html
-category: construction
+collection: construction
 contributors:
 - Dale Emery
 ---

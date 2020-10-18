@@ -1,7 +1,7 @@
 ---
 title: Thrust & Weight
 archive_page: archive/resources_thrustweight.html
-category: resources
+collection: resources
 contributors:
 - Dean A. Roth
 ---

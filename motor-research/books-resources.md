@@ -1,7 +1,7 @@
 ---
 title: Books & Resources
 archive_page: archive/research_books.html
-category: motor-research
+collection: motor-research
 contributors:
 - Chuck Andrus
 ---

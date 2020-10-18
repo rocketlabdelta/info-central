@@ -1,7 +1,7 @@
 ---
 title: Hot Wire Cutting
 archive_page: archive/construction_hotwire.html
-category: construction
+collection: construction
 contributors:
 - Bill Kirby
 ---

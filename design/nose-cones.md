@@ -1,7 +1,7 @@
 ---
 title: Nose Cones
 archive_page: archive/design_nosecones.html
-category: design
+collection: design
 contributors:
 - Kemal Payza
 ---

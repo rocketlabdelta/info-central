@@ -1,7 +1,7 @@
 ---
 title: Dual Deployment
 archive_page: archive/recovery_dualdeploy.html
-category: recovery
+collection: recovery
 contributors:
 - Mark E. Newton
 ---

@@ -1,7 +1,7 @@
 ---
 title: Reloadable Motors
 archive_page: archive/propulsion_rms.html
-category: propulsion
+collection: propulsion
 contributors:
 - Dean A. Roth
 ---

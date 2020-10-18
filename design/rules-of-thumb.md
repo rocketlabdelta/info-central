@@ -1,7 +1,7 @@
 ---
 title: Rules of Thumb
 archive_page: archive/design_rulesofthumb.html
-category: design
+collection: design
 contributors:
 - Terry Markovich TRA 6811
 - Tom Savoie

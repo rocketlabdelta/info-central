@@ -1,7 +1,7 @@
 ---
 title: Heat Shrink Tape
 archive_page: archive/construction_heattape.html
-category: construction
+collection: construction
 contributors:
 - Jim Jannuzzo
 ---

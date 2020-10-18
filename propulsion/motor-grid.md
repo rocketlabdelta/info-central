@@ -1,7 +1,7 @@
 ---
 title: Motor Grid
 archive_page: archive/propulsion_thrustcurve.html
-category: propulsion
+collection: propulsion
 contributors:
 - David Harbaugh
 ---

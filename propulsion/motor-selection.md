@@ -1,7 +1,7 @@
 ---
 title: Motor Selection
 archive_page: archive/propulsion_selection.html
-category: propulsion
+collection: propulsion
 contributors:
 - Dean A. Roth
 ---

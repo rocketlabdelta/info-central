@@ -1,7 +1,7 @@
 ---
 title: AeroTech Interlock
 archive_page: archive/support_consoles_atinterlock.html
-category: ground-support
+collection: ground-support
 contributors:
 - John Coker
 ---

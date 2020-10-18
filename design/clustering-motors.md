@@ -1,7 +1,7 @@
 ---
 title: Clustering Motors
 archive_page: archive/design_cluster.html
-category: design
+collection: design
 contributors:
 - Peter W. Clay
 ---

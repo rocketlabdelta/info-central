@@ -1,7 +1,7 @@
 ---
 title: Copperheads
 archive_page: archive/support_copperheads.html
-category: ground-support
+collection: ground-support
 contributors:
 - Bob Dahlquist
 ---

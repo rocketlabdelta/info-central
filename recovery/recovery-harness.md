@@ -1,7 +1,7 @@
 ---
 title: Recovery Harness
 archive_page: archive/recovery_harness.html
-category: recovery
+collection: recovery
 contributors:
 - Dean A. Roth
 ---

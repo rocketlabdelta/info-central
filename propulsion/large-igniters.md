@@ -1,7 +1,7 @@
 ---
 title: Large Igniters
 archive_page: archive/propulsion_igniters_big.html
-category: propulsion
+collection: propulsion
 contributors:
 - Dean A. Roth
 ---

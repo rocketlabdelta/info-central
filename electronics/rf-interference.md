@@ -1,7 +1,7 @@
 ---
 title: RF Interference
 archive_page: archive/electronics_rftesting.html
-category: electronics
+collection: electronics
 contributors:
 - John Lyngdal
 ---

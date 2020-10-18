@@ -1,7 +1,7 @@
 ---
 title: Build a Launcher
 archive_page: archive/support_relaylauncher.html
-category: ground-support
+collection: ground-support
 contributors:
 - Eric Ohmit
 - Michael Short

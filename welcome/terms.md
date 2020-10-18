@@ -1,7 +1,7 @@
 ---
 title: Terms
 archive_page: archive/welcome_terms.html
-category: welcome
+collection: welcome
 contributors:
 - John Coker
 ---

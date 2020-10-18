@@ -1,7 +1,7 @@
 ---
 title: Mold Making
 archive_page: archive/construction_moldmaking.html
-category: construction
+collection: construction
 contributors:
 - Chuck Andrus
 ---

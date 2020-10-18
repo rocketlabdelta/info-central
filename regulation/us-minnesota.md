@@ -1,7 +1,7 @@
 ---
 title: 'US: Minnesota'
 archive_page: archive/regulation_mn.html
-category: regulation
+collection: regulation
 contributors:
 - Ted Cochran
 ---

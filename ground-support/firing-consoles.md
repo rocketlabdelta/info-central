@@ -1,7 +1,7 @@
 ---
 title: Firing Consoles
 archive_page: archive/support_consoles.html
-category: ground-support
+collection: ground-support
 contributors:
 - John Coker
 ---

@@ -1,7 +1,7 @@
 ---
 title: Epoxy & Heat
 archive_page: archive/construction_heatepoxy.html
-category: construction
+collection: construction
 contributors:
 - Woody Hoburg
 ---

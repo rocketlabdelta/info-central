@@ -1,7 +1,7 @@
 ---
 title: Finishing
 archive_page: archive/finishing.html
-category: finishing
+collection: finishing
 layout: section
 ---
 Everyone has different desires for the finish of their rocket. Some are happy to stop when construction is finished and fly the rocket as is. Others want that perfect scale model paint job.

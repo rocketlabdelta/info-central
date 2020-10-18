@@ -1,7 +1,7 @@
 ---
 title: Vacuum Bagging
 archive_page: archive/construction_vacuumbagging.html
-category: construction
+collection: construction
 ---
 Introduction
 

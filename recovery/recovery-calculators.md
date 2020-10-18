@@ -1,7 +1,7 @@
 ---
 title: Recovery Calculators
 archive_page: archive/recovery_calculators.html
-category: recovery
+collection: recovery
 contributors:
 - Jack Anderson
 ---

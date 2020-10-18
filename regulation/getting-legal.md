@@ -1,7 +1,7 @@
 ---
 title: Getting Legal
 archive_page: archive/regulation_environment.html
-category: regulation
+collection: regulation
 contributors:
 - Darrell Mobley
 ---

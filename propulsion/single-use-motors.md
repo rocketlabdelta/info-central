@@ -1,7 +1,7 @@
 ---
 title: Single Use Motors
 archive_page: archive/propulsion_su.html
-category: propulsion
+collection: propulsion
 contributors:
 - Dean A. Roth
 ---

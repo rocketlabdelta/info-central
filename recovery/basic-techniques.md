@@ -1,7 +1,7 @@
 ---
 title: Basic Techniques
 archive_page: archive/recovery_techniques.html
-category: recovery
+collection: recovery
 contributors:
 - Dave Urbanek
 ---

@@ -1,7 +1,7 @@
 ---
 title: Fins
 archive_page: archive/construction_fins.html
-category: construction
+collection: construction
 contributors:
 - Nick Hills
 - Larry DuBois

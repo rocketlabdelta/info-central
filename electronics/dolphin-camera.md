@@ -1,7 +1,7 @@
 ---
 title: Dolphin Camera
 archive_page: archive/electronics_dolphincam.html
-category: electronics
+collection: electronics
 contributors:
 - James Carter
 ---

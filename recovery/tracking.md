@@ -1,7 +1,7 @@
 ---
 title: Tracking
 archive_page: archive/recovery_tracking.html
-category: recovery
+collection: recovery
 contributors:
 - Dan King
 ---

@@ -1,7 +1,7 @@
 ---
 title: Tube Cutting Jig
 archive_page: archive/construction_cutting_jig.html
-category: construction
+collection: construction
 contributors:
 - John Coker
 ---

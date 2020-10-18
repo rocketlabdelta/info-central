@@ -1,7 +1,7 @@
 ---
 title: Making Couplers
 archive_page: archive/construction_couplers.html
-category: construction
+collection: construction
 contributors:
 - Jon Simmons
 - Dan King

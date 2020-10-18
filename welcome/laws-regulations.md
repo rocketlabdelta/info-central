@@ -1,7 +1,7 @@
 ---
 title: Laws & Regulations
 archive_page: archive/welcome_laws.html
-category: welcome
+collection: welcome
 contributors:
 - John Coker
 ---

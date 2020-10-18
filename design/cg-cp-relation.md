@@ -1,7 +1,7 @@
 ---
 title: CG/CP Relation
 archive_page: archive/design_cg-cp.html
-category: design
+collection: design
 contributors:
 - Andrew Waddell
 ---

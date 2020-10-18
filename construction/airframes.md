@@ -1,7 +1,7 @@
 ---
 title: Airframes
 archive_page: archive/construction_airframe.html
-category: construction
+collection: construction
 ---
 Rocketry airframes are made from a number of different materials, the most common being cardboard tubes. Among cardboard tubes, the two predominant types are what is called kraft cardboard and phenolic.
 

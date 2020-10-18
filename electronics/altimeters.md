@@ -1,7 +1,7 @@
 ---
 title: Altimeters
 archive_page: archive/electronics_altimeter.html
-category: electronics
+collection: electronics
 ---
 Introduction Electronic devices to measure altitude based on barometric pressure are called altimeters. These units read the feet above sea level by comparing the relative pressure of the air at a given level. Rocketry devices incorporating altimeters are used mainly for deployment of recovery devices. There are numerous units on the market, the ones listed below are a sampling of what is available.
 

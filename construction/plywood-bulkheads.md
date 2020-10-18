@@ -1,7 +1,7 @@
 ---
 title: Plywood Bulkheads
 archive_page: archive/construction_bulkheads.html
-category: construction
+collection: construction
 contributors:
 - Chip Jenkins
 ---

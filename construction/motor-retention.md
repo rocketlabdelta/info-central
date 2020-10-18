@@ -1,7 +1,7 @@
 ---
 title: Motor Retention
 archive_page: archive/construction_retention.html
-category: construction
+collection: construction
 contributors:
 - Dean A. Roth
 ---

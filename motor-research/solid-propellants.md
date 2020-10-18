@@ -1,7 +1,7 @@
 ---
 title: Solid Propellants
 archive_page: archive/research_solids.html
-category: motor-research
+collection: motor-research
 contributors:
 - Terry McCreary
 ---

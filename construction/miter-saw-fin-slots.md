@@ -1,7 +1,7 @@
 ---
 title: Miter Saw Fin Slots
 archive_page: archive/construction_finslots2.html
-category: construction
+collection: construction
 contributors:
 - Chip Jenkins
 ---

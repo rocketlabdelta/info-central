@@ -1,7 +1,7 @@
 ---
 title: Accelerometers
 archive_page: archive/electronics_accelerometer.html
-category: electronics
+collection: electronics
 ---
 Black Sky Research ALTACC
 

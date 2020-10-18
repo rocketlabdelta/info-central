@@ -1,7 +1,7 @@
 ---
 title: West System
 archive_page: archive/construction_westsystems.html
-category: construction
+collection: construction
 contributors:
 - John Coker
 ---

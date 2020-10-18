@@ -1,7 +1,7 @@
 ---
 title: Adhesives
 archive_page: archive/construction_adhesives.html
-category: construction
+collection: construction
 contributors:
 - John Coker
 ---

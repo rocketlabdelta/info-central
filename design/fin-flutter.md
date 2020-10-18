@@ -1,7 +1,7 @@
 ---
 title: Fin Flutter
 archive_page: archive/design_finflutter.html
-category: design
+collection: design
 contributors:
 - Duncan McDonald
 ---

@@ -1,7 +1,7 @@
 ---
 title: Waiver Table
 archive_page: archive/regulation_waivertable.html
-category: regulation
+collection: regulation
 contributors:
 - Dean A. Roth
 ---

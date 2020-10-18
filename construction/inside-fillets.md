@@ -1,7 +1,7 @@
 ---
 title: Inside Fillets
 archive_page: archive/construction_innerfillets.html
-category: construction
+collection: construction
 contributors:
 - Scott Regan
 ---

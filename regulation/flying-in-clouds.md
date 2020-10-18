@@ -1,7 +1,7 @@
 ---
 title: Flying in Clouds
 archive_page: archive/regulation_clouds.html
-category: regulation
+collection: regulation
 contributors:
 - Dean A. Roth
 ---

@@ -1,7 +1,7 @@
 ---
 title: Fiberglass Tips
 archive_page: archive/construction_fiberglasstips.html
-category: construction
+collection: construction
 contributors:
 - Tim Smith
 ---

@@ -1,7 +1,7 @@
 ---
 title: Composite Staging
 archive_page: archive/propulsion_staging.html
-category: propulsion
+collection: propulsion
 contributors:
 - Dean A. Roth
 ---

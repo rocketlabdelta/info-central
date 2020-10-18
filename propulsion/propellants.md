@@ -1,7 +1,7 @@
 ---
 title: Propellants
 archive_page: archive/propulsion_propellants.html
-category: propulsion
+collection: propulsion
 contributors:
 - Dean A. Roth
 ---

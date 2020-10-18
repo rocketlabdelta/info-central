@@ -1,7 +1,7 @@
 ---
 title: Deployment Bags
 archive_page: archive/recovery_deploybag.html
-category: recovery
+collection: recovery
 contributors:
 - Dean A. Roth
 ---

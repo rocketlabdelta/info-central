@@ -1,7 +1,7 @@
 ---
 title: Drop Table
 archive_page: archive/recovery_droptable.html
-category: recovery
+collection: recovery
 contributors:
 - David Urbanek
 ---

@@ -1,7 +1,7 @@
 ---
 title: VB Calculators
 archive_page: archive/recovery_vbcalcs.html
-category: recovery
+collection: recovery
 contributors:
 - Michael Eriksson
 ---

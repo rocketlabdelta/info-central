@@ -1,7 +1,7 @@
 ---
 title: Black Powder Sizing
 archive_page: archive/recovery_powder.html
-category: recovery
+collection: recovery
 contributors:
 - Dean A. Roth
 - Duncan McDonald

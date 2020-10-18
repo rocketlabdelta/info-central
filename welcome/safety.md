@@ -1,7 +1,7 @@
 ---
 title: Safety
 archive_page: archive/welcome_safety.html
-category: welcome
+collection: welcome
 contributors:
 - John Coker
 ---
