@@ -44,26 +44,168 @@ header_pages:
 collections:
   welcome:
     output: true
+    order:
+      - categories.md
+      - rocket-anatomy.md
+      - terms.md
+      - motors.md
+      - starting-out.md
+      - rocket-design.md
+      - laws-regulations.md
+      - clubs.md
+      - sources.md
+      - safety.md
+      - links.md
   design:
     output: true
+    order:
+      - cg-cp-relation.md
+      - clustering-motors.md
+      - nose-cones.md
+      - rules-of-thumb.md
+      - fin-flutter.md
+      - conversions.md
+      - transitions.md
+      - coning.md
   construction:
     output: true
+    order:
+      - airframes.md
+      - nosecones.md
+      - fins.md
+      - motor-mounts.md
+      - motor-retention.md
+      - adhesives.md
+      - west-system.md
+      - epoxy-primer.md
+      - epoxy-tips.md
+      - tube-cutting-jig.md
+      - reinforcing-tubes.md
+      - easy-glassing.md
+      - vacuum-bagging.md
+      - heat-shrink-tape.md
+      - anti-zipper-design.md
+      - anti-zipper-baffle.md
+      - shear-pin-design.md
+      - hot-wire-cutting.md
+      - making-couplers.md
+      - router-fin-slots.md
+      - miter-saw-fin-slots.md
+      - fixing-a-zipper.md
+      - estes-part-reference.md
+      - fin-beveling.md
+      - routing-fins.md
+      - mold-making.md
+      - phenolic-tubing.md
+      - fin-fillets.md
+      - inside-fillets.md
+      - plastic-bonding.md
+      - epoxy-heat.md
+      - plywood-bulkheads.md
+      - fiberglass-tips.md
+      - warped-plywood.md
+      - form-tuning.md
   finishing:
     output: true
+    order:
+      - paint-prep.md
+      - spray-painting.md
+      - applying-decals.md
+      - monokote.md
+      - making-decals.md
   propulsion:
     output: true
+    order:
+      - propellants.md
+      - single-use-motors.md
+      - reloadable-motors.md
+      - hybrid-motors.md
+      - hybrid-retrofitting.md
+      - commercial-igniters.md
+      - large-igniters.md
+      - motor-selection.md
+      - cleaning-reloadable-motors.md
+      - composite-staging.md
+      - composite-clustering.md
+      - aerotech-delays.md
+      - aerotech-nozzles.md
+      - aerotech-medusa.md
+      - motor-grid.md
+      - cluster-totals.md
   electronics:
     output: true
+    order:
+      - altimeters.md
+      - accelerometers.md
+      - timers.md
+      - cameras.md
+      - r-das.md
+      - rf-interference.md
+      - internal-wiring.md
+      - dolphin-camera.md
   recovery:
     output: true
+    order:
+      - basic-techniques.md
+      - recovery-design.md
+      - two-stage-design.md
+      - recovery-harness.md
+      - ejection-techniques.md
+      - ejection-charges.md
+      - black-powder-sizing.md
+      - electric-matches.md
+      - parachute-protection.md
+      - main-chutes-sizing.md
+      - drogue-sizing.md
+      - tubular-nylon-and-climbing-cord.md
+      - attachments.md
+      - deployment-bags.md
+      - backwards-sliding.md
+      - drop-table.md
+      - x-form-descent-rate.md
+      - barometric-altimeter-tester.md
+      - recovery-calculators.md
+      - vb-calculators.md
+      - tracking.md
+      - dual-deployment.md
   ground_support:
     output: true
+    order:
+      - launch-pads.md
+      - firing-consoles.md
+      - estes-electron-beam.md
+      - aerotech-interlock.md
+      - multi-pad-launcher.md
+      - handbook-of-model-rocketry-chapter-6.md
+      - clip-whips.md
+      - build-a-launcher.md
+      - build-a-lunch-pad.md
+      - solderless-igniters.md
+      - copperheads.md
+      - cluster-wires.md
   regulation:
     output: true
+    order:
+      - getting-legal.md
+      - flying-in-clouds.md
+      - magazines.md
+      - united-states.md
+      - us-minnesota.md
+      - us-fire-marshal.md
+      - waiver-table.md
   motor_research:
     output: true
+    order:
+      - organizations.md
+      - fuel-types.md
+      - solid-propellants.md
+      - books-resources.md
   resources:
     output: true
+    order:
+      - glossary.md
+      - decal-sources.md
+      - thrust-weight.md
 
 defaults:
   -
