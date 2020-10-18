@@ -28,6 +28,26 @@ plugins:
 
 permalink: /:category/:title/
 
+header_pages:
+  - construction.md
+  - contributing.md
+  - design.md
+  - electronics.md
+  - finishing.md
+  - ground-support.md
+  - motor-research.md
+  - propulsion.md
+  - recovery.md
+  - regulation.md
+  - resources.md
+
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: page
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
