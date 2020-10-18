@@ -1,10 +1,10 @@
 ---
 layout: page
 ---
-<nav class="category-navigation">
+<nav role="navigation" class="collection-navigation">
   <ul class="page-listing">
     {%- for page in site.construction -%}
-    <li class="page-summary">
+    <li>
       <a href="{{ page.url }}" class="page-link">
         <span class="page-title">{{ page.title }}</span>
       </a>
