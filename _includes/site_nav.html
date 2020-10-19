@@ -1,4 +1,3 @@
-
 {%- assign page_paths = site.header_pages | default: default_paths -%}
 <nav role="navigation" class="site-navigation">
   <ul class="collection-listing">
@@ -6,7 +5,7 @@
     {%- assign nav_page = site.pages | where: "path", path | first -%}
     {%- if nav_page.title -%}
     <li><a class="collection-link" href="{{ nav_page.url | absolute_url }}">{{ nav_page.title | escape }}</a></li>
-    {% endif %}
+    {%- endif -%}
     {%- endfor -%}
   </ul>
 </nav>

@@ -4,13 +4,9 @@ layout: page
 <nav role="navigation" class="collection-navigation">
   <ul class="page-listing">
     {%- for page in site.ground_support -%}
-    <li>
-      <a href="{{ page.url }}" class="page-link">
-        <span class="page-title">{{ page.title }}</span>
-      </a>
-    </li>
-    {% endfor %}
-  </ul>
+    <li><a href="{{ page.url }}" class="page-link">{{ page.title }}</a></li>
+    {%- endfor -%}
+ </ul>
 </nav>
 
 <header>

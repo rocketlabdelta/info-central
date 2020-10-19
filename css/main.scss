@@ -113,4 +113,21 @@ summary {
 .page-listing {
   list-style-type: none;
   padding-left: 0;
+
+  li {
+    background-color: #CCC;
+    display: inline-block;
+    padding: .3em;
+  }
+
+  a {
+    text-decoration: none;
+    display: inline-block;
+    padding: .3em .5em;
+  }
+}
+
+.collection-listing a {
+  width: 8em;
+  background-color: #DDD;
 }

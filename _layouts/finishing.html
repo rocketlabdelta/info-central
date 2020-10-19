@@ -4,12 +4,8 @@ layout: page
 <nav role="navigation" class="collection-navigation">
   <ul class="page-listing">
     {%- for page in site.finishing -%}
-    <li>
-      <a href="{{ page.url }}" class="page-link">
-        <span class="page-title">{{ page.title }}</span>
-      </a>
-    </li>
-    {% endfor %}
+    <li><a href="{{ page.url }}" class="page-link">{{ page.title }}</a></li>
+    {%- endfor -%}
   </ul>
 </nav>
 
