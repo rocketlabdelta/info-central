@@ -15,6 +15,8 @@ $base-line-height: 1.25 !default;
 
 $accent-typeface: 'Raleway', 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', sans-serif !default;
 
+/* Partial reset derived from normalize.css */
+
 html {
   font-family: Georgia, serif;
   line-height: $base-line-height;
@@ -104,6 +106,8 @@ summary {
   display: list-item;
 }
 
+/* Site Structure */
+
 .nav {
   font-family: $accent-typeface;
 
@@ -129,5 +133,19 @@ summary {
     display: block;
     padding: .3em .5em;
     text-decoration: none;
+  }
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr Min(44em, 100%) 1fr;
+
+  & > * {
+    grid-column: 2;
+  }
+
+  @at-root #{&}__fullbleed {
+    width: 100%;
+    grid-column: 1 / 4;
   }
 }
