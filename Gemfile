@@ -4,6 +4,7 @@ gem 'jekyll'
 
 group :jekyll_plugins do
   gem 'jekyll-feed'
+  gem 'jekyll-redirect-from'
 end
 
 # Both Windows and JRuby do not include zoneinfo files,
