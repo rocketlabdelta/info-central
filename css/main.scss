@@ -104,30 +104,30 @@ summary {
   display: list-item;
 }
 
-.site-navigation,
-.collection-navigation {
+.nav {
   font-family: $accent-typeface;
-}
 
-.collection-listing,
-.page-listing {
-  list-style-type: none;
-  padding-left: 0;
+  @at-root #{&}__listing {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    list-style-type: none;
+    padding-left: 0;
+  }
 
-  li {
-    background-color: #CCC;
+  @at-root #{&}__list {
+    box-sizing: border-box;
     display: inline-block;
+    flex-grow: .3;
+    flex-shrink: 0;
+    flex-basis: 8em;
     padding: .3em;
   }
 
-  a {
-    text-decoration: none;
-    display: inline-block;
+  @at-root #{&}__link {
+    display: block;
     padding: .3em .5em;
+    text-decoration: none;
   }
-}
-
-.collection-listing a {
-  width: 8em;
-  background-color: #DDD;
 }

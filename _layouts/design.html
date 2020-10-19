@@ -1,10 +1,12 @@
 ---
 layout: page
 ---
-<nav role="navigation" class="collection-navigation">
-  <ul class="page-listing">
+<nav role="navigation" class="nav nav--secondary">
+  <ul class="nav__listing">
     {%- for page in site.design -%}
-    <li><a href="{{ page.url }}" class="page-link">{{ page.title }}</a></li>
+    <li class="nav__list">
+      <a class="nav__link" href="{{ page.url }}">{{ page.title }}</a>
+    </li>
     {%- endfor -%}
   </ul>
 </nav>
@@ -14,5 +16,5 @@ layout: page
 </header>
 
 <main id="main" role="main">
-  {{ content }}
+{{ content }}
 </main>
