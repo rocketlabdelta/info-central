@@ -237,7 +237,7 @@ defaults:
       layout: finishing
   -
     scope:
-      type: groud_support
+      type: ground_support
     values:
       layout: ground_support
   -
