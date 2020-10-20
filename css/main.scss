@@ -11,7 +11,7 @@
 
 $base-typeface:    Georgia, serif;
 $base-font-size:   16px !default;
-$base-line-height: 1.25 !default;
+$base-line-height: 1.375 !default;
 
 $accent-typeface: 'Raleway', 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', sans-serif !default;
 
@@ -110,6 +110,18 @@ summary {
   display: list-item;
 }
 
+figure {
+  margin: 2em;
+
+  & > img {
+    width: 100%;
+  }
+}
+
+figcaption {
+  font-style: italic;
+}
+
 /* Site Structure */
 
 .nav {
@@ -149,17 +161,31 @@ summary {
   }
 
   @at-root #{&}__full {
-    width: 100%;
     grid-column: 1 / 4;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
   }
 
   @at-root #{&}__left {
-    width: 100%;
     grid-column: 1 / 3;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
   }
 
   @at-root #{&}__right {
-    width: 100%;
     grid-column: 2 / 4;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+  }
+}
+
+/* Responsive */
+@media only screen and (min-width: 1000px) {
+  html {
+    font-size: 22px;
+    line-height: 1.364;
   }
 }
