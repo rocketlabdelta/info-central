@@ -1,16 +1,6 @@
 ---
 layout: page
 ---
-<nav role="navigation" class="nav nav--secondary">
-  <ul class="nav__listing">
-    {%- for page in site.ground_support -%}
-    <li class="nav__list">
-      <a class="nav__link" href="{{ page.url }}">{{ page.title }}</a>
-    </li>
-    {%- endfor -%}
-  </ul>
-</nav>
-
 <header class="grid">
   <h1>{{page.title}}</h1>
 </header>
@@ -18,3 +8,18 @@ layout: page
 <main class="grid" id="main" role="main">
 {{ content }}
 </main>
+
+<footer>
+  <p id="related-links" class="related-links">Related Links</p>
+  <nav role="navigation" class="nav nav--secondary">
+    <ul class="nav__listing">
+      {%- for page in site.ground_support -%}
+      <li class="nav__list">
+        <a class="nav__link" href="{{ page.url }}">{{ page.title }}</a>
+      </li>
+      {%- endfor -%}
+    </ul>
+  </nav>
+
+{%- include footer_content.html -%}
+</footer>
