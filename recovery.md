@@ -10,10 +10,7 @@ Introduction A recovery system is used to return a rocket to the ground without 
 The typical recovery mechanism is a parachute.
 The components of one rocket’s recovery system are shown below.
 
-<figure>
-  <img src="/images/recovery_rocket.jpg" alt="Annotated view of a rocket recovery system">
-  <figcaption>Annotated view of a "dual deployment" recovery system in a high power rocket</figcaption>
-</figure>
+{% figure /images/recovery_rocket.jpg|Annotated view of a dual deployment recovery system in a high power rocket %}
 
 This rocket uses an altimeter to split the rocket at about the midpoint at apogee.
 A small (drogue) parachute is used to stabilize the rocket’s descent, but not to significantly slow the rocket.
@@ -38,10 +35,7 @@ Therefore a smaller, and lighter, drogue chute can be used.
 
 ## Parachute Deployment Bag
 
-<figure>
-  <img src="/images/recovery_deploymentbag.jpg" alt="Typical deployment bag arrangement">
-  <figcaption>Typical deployment bag arrangement</figcaption>
-</figure>
+{% figure /images/recovery_deploymentbag.jpg|Typical deployment bag arrangement %}
 
 A deployment bag is literally a bag into which a parachute is packed.
 A bag can have one or more purposes, depending upon how the recovery system works.
