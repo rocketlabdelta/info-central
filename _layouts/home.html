@@ -5,7 +5,7 @@ layout: default
   <a class="skip__link" href="#main">Skip to main content</a>
 </div>
 
-<header class="grid">
+<header>
   <a href="http://www.rocketryonline.com/home.html">
     <img src="/images/ro_logo3.gif" alt="Rocketry Online" />
   </a>
@@ -16,7 +16,7 @@ layout: default
 </header>
 
 {%- assign page_paths = site.header_pages | default: default_paths -%}
-<nav role="navigation" class="nav nav--home">
+<nav role="navigation" class="nav nav--primary">
   <ul class="nav__listing">
     {%- for path in page_paths -%}
     {%- assign nav_page = site.pages | where: "path", path | first -%}

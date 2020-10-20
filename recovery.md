@@ -6,11 +6,11 @@ contributors:
 - Dean A. Roth
 layout: recovery
 ---
-Introduction A recovery system is used to return a rocket to the ground without damage to the rocket or objects on the ground.
+A recovery system is used to return a rocket to the ground without damage to the rocket or objects on the ground.
 The typical recovery mechanism is a parachute.
 The components of one rocket’s recovery system are shown below.
 
-{% figure /images/recovery_rocket.jpg|Annotated view of a dual deployment recovery system in a high power rocket %}
+{% media /images/recovery_rocket.jpg|Annotated view of a dual deployment recovery system in a high power rocket %}
 
 This rocket uses an altimeter to split the rocket at about the midpoint at apogee.
 A small (drogue) parachute is used to stabilize the rocket’s descent, but not to significantly slow the rocket.
@@ -21,10 +21,12 @@ The ejection charge for the main parachute is located above the altimeter bay an
 The main parachute is stuffed into a Nomex cloth deployment bag.
 The bag protects the parachute from the ejection charge.
 
-Single Stage Recovery Some rockets use only a single (main) parachute, which is deployed at apogee.
+## Single Stage Recovery
+Some rockets use only a single (main) parachute, which is deployed at apogee.
 An ejection charge activated by the motor, or an electronic device like an altimeter or timer may be used to deploy the parachute.
 
-Two Stage Recovery Two stage recovery uses a drogue parachute deployed at apogee and the main parachute deployed at a low altitude like 300’ or 600’.
+## Two Stage Recovery
+Two stage recovery uses a drogue parachute deployed at apogee and the main parachute deployed at a low altitude like 300’ or 600’.
 This is done to minimize the distance a rocket drifts.
 This technique uses an electronic device like an altimeter or timer to deploy the main parachute, and it also usually deploys the drogue parachute.
 Sometimes a streamer is used instead of a drogue parachute.
@@ -35,7 +37,7 @@ Therefore a smaller, and lighter, drogue chute can be used.
 
 ## Parachute Deployment Bag
 
-{% figure /images/recovery_deploymentbag.jpg|Typical deployment bag arrangement %}
+{% media /images/recovery_deploymentbag.jpg|Typical deployment bag arrangement %}
 
 A deployment bag is literally a bag into which a parachute is packed.
 A bag can have one or more purposes, depending upon how the recovery system works.

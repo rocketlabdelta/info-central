@@ -9,11 +9,12 @@
   src: url('/fonts/raleway-semibold.woff2') format('woff2');
 }
 
-$base-typeface:    Georgia, serif;
-$base-font-size:   16px !default;
-$base-line-height: 1.375 !default;
-
-$accent-typeface: 'Raleway', 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', sans-serif !default;
+$accent-typeface:    'Raleway', 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', sans-serif !default;
+$base-typeface:       Georgia, serif;
+$base-font-size:      16px !default;
+$base-line-height:    1.375 !default; // 22px
+$content-width:       44em;
+$theme-overlay-color: #fff;
 
 /* Partial reset derived from normalize.css */
 
@@ -110,19 +111,56 @@ summary {
   display: list-item;
 }
 
-figure {
-  margin: 2em;
+/* Site Components */
 
-  & > img {
-    width: 100%;
+.skip {
+  position: relative;
+
+  @at-root #{&}__link {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+
+  @at-root #{&}__link:focus {
+    background-color: $theme-overlay-color;
+    clip: auto;
+    height: auto;
+    left: 0;
+    padding: .2em .4em;
+    top: 0;
+    transition-property: background-color;
+    width: auto;
+    z-index: 1;
   }
 }
 
-figcaption {
-  font-style: italic;
+.banner {
+  display: grid;
+  grid-template-columns: 1fr Min(58em, 100%) 1fr;
+
+  & > * {
+    grid-column: 2;
+  }
 }
 
-/* Site Structure */
+.logo {
+  font-family: $accent-typeface;
+  font-size: 2em;
+  line-height: 1.8;
+  margin: 0;
+
+  @at-root #{&}__link {
+    display: inline-block;
+    padding: .3em .5em;
+    text-decoration: none;
+  }
+}
 
 .nav {
   font-family: $accent-typeface;
@@ -133,15 +171,15 @@ figcaption {
     flex-wrap: wrap;
     justify-content: flex-start;
     list-style-type: none;
-    padding-left: 0;
+    margin: 0;
+    padding: 0;
   }
 
   @at-root #{&}__list {
     box-sizing: border-box;
     display: inline-block;
-    flex-grow: .3;
+    flex-grow: 0;
     flex-shrink: 0;
-    flex-basis: 8em;
     padding: .3em;
   }
 
@@ -150,11 +188,21 @@ figcaption {
     padding: .3em .5em;
     text-decoration: none;
   }
+
+  @at-root #{&}--primary {
+    .nav__listing {
+      max-width: 60em;
+    }
+
+    .nav__list {
+      flex-basis: Max(8em, 16%);
+    }
+  }
 }
 
 .grid {
   display: grid;
-  grid-template-columns: 1fr Min(44em, 100%) 1fr;
+  grid-template-columns: 1fr Min($content-width, 100%) 1fr;
 
   & > * {
     grid-column: 2;
@@ -182,10 +230,40 @@ figcaption {
   }
 }
 
-/* Responsive */
+.media {
+  @at-root #{&}__content {
+    width: 100%;
+    display: block;
+    padding: .3em .5em;
+    text-decoration: none;
+  }
+
+  @at-root #{&}__caption {
+    font-style: italic;
+  }
+}
+
+/* Responsive Breakpoints */
+
 @media only screen and (min-width: 1000px) {
   html {
     font-size: 22px;
-    line-height: 1.364;
+    line-height: 1.364; // 30px
+  }
+
+  .logo {
+    display: inline-block;
+  }
+}
+
+@media only screen and (min-width: 1860px) {
+  .logo {
+    grid-column: 1;
+    padding: .5em 0;
+    text-align: right;
+  }
+
+  .banner  .nav {
+    margin: 1em 0;
   }
 }

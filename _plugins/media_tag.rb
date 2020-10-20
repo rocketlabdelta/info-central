@@ -1,4 +1,4 @@
-class FigureTag < Liquid::Tag
+class MediaTag < Liquid::Tag
   attr_reader :src, :caption, :klass
 
   def initialize(tag_name, input, tokens)
@@ -11,16 +11,16 @@ class FigureTag < Liquid::Tag
 
   def render(context)
     html = if klass.nil? || klass.empty?
-             "<figure>\n"
+             "<figure class=\"media\">\n"
            else
-             "<figure class=\"#{klass}\">\n"
+             "<figure class=\"media #{klass}\">\n"
            end
 
     if caption.nil? || caption.empty?
-      html += "<img src=\"#{src}\">\n"
+      html += "<img class=\"media__content\" src=\"#{src}\">\n"
     else
-      html += "  <img src=\"#{src}\" alt=\"#{caption}\">\n"
-      html += "  <figcaption>#{caption}</figcaption>\n"
+      html += "  <img class=\"media__content\" src=\"#{src}\" alt=\"#{caption}\">\n"
+      html += "  <figcaption class=\"media__caption\">#{caption}</figcaption>\n"
     end
 
     html += '</figure>'
@@ -28,4 +28,4 @@ class FigureTag < Liquid::Tag
   end
 end
 
-Liquid::Template.register_tag('figure', FigureTag)
+Liquid::Template.register_tag('media', MediaTag)
