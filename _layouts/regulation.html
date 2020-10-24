@@ -1,12 +1,11 @@
 ---
 layout: page
 ---
-<header class="grid">
-  <h1>{{page.title}}</h1>
-</header>
+{%- include page_header.html -%}
 
 <main class="grid" id="main" role="main">
 {{ content }}
+{%- include page_metadata.html -%}
 </main>
 
 <footer>
