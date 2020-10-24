@@ -247,6 +247,11 @@ defaults:
       layout: motor_research
   -
     scope:
+      type: propulsion
+    values:
+      layout: propulsion
+  -
+    scope:
       type: recovery
     values:
       layout: recovery
