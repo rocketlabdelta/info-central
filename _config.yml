@@ -151,6 +151,7 @@ collections:
       - basic-techniques.md
       - recovery-design.md
       - two-stage-design.md
+      - dual-deployment.md
       - recovery-harness.md
       - ejection-techniques.md
       - ejection-charges.md
@@ -169,7 +170,6 @@ collections:
       - recovery-calculators.md
       - vb-calculators.md
       - tracking.md
-      - dual-deployment.md
   ground_support:
     output: true
     order:

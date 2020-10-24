@@ -257,7 +257,15 @@ footer {
   @at-root #{&}__caption {
     font-style: italic;
   }
+
+  @at-root #{&}--portrait {
+    .media__content {
+      margin: 0 auto;
+      width: 50%;
+    }
+  }
 }
+
 
 /* Responsive Breakpoints */
 
