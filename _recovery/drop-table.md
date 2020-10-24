@@ -4,18 +4,25 @@ archive_page: archive/recovery_droptable.html
 contributors:
 - David Urbanek
 ---
-One black art that exists in rocketry is deciding on the proper descent rate for your rocket.&nbsp; There are plenty of ways to compute your rocket’s descent rate if you know the rocket’s weight and the parachute dimensions.&nbsp; The question then becomes, what is a good descent rate for my rocket?
+One black art that exists in rocketry is deciding on the proper descent rate for your rocket.
+There are plenty of ways to compute your rocket’s descent rate if you know the rocket’s weight and the parachute dimensions.
+The question then becomes, what is a good descent rate for my rocket?
 
-The speed at which the rocket impacts the ground determines the forces that the rocket must endure to land without damage.&nbsp; I’ve assembled the following table to give rocketeers an easy way to imagine what forces will be at work.&nbsp; You could even use this table to test your rocket, to see if it would survive impacting the ground at 15 fps.
+The speed at which the rocket impacts the ground determines the forces that the rocket must endure to land without damage.
+I’ve assembled the following table to give rocketeers an easy way to imagine what forces will be at work.
+You could even use this table to test your rocket, to see if it would survive impacting the ground at 15 fps.
 
-The first column has velocities, the second column has height.&nbsp; If a dense body is dropped from a height in column 2, then the body will be traveling at the velocity in column 1 when it hits the ground.
+The first column has velocities, the second column has height.
+If a dense body is dropped from a height in column 2, then the body will be traveling at the velocity in column 1 when it hits the ground.
 
-Example, you have a chute that will give your rocket a 16 fps descent rate under the chute.&nbsp; Look at column 1, find 16 fps in column 1.&nbsp; In column 2, you will see the height listed as 4’.&nbsp; Descending at 16 fps is roughly the same as being dropped from 4’ in the air.&nbsp; If you believe you could safely drop your rocket 4’ without damage, then 16 fps is fine.
-
-Here’s the table.
+Example, you have a chute that will give your rocket a 16 fps descent rate under the chute.
+Look at column 1, find 16 fps in column 1.
+In column 2, you will see the height listed as 4’.
+Descending at 16 fps is roughly the same as being dropped from 4’ in the air.
+If you believe you could safely drop your rocket 4’ without damage, then 16 fps is fine.
 
 | Velocity | Distance |
-|:--------:|:--------:|
+|:---------|:---------|
 | 5 fps    | 0'  5"   |
 | 6 fps    | 0'  7"   |
 | 7 fps    | 0'  9"   |

@@ -5,13 +5,13 @@ contributors:
 - Dean A. Roth
 ---
 
-{% media /images/recovery_drogue.jpg|Typical two stage recovery design|media--portrait %}
-
 High altitudes and parachute deployment at apogee don’t always mix unless you enjoy long walks or drives to recover a rocket.
 An alternative recovery method is to deploy a drogue at apogee to allow a rocket to fall at a relatively fast rate to a low altitude, like 1,000’ or 600’, where the main parachute is deployed.
 This type of recovery system is called two-stage recovery.
 The first stage is a quick, but controlled fall.
 The second stage is a slow descent under a parachute to touchdown.
+
+{% media /images/recovery_drogue.jpg|Typical two stage recovery design|media--small %}
 
 A common design is to split a rocket into two pieces at apogee, with the pieces connected by a harness.
 An ejection charge controlled by an altimeter can be used to split the rocket where the payload section joins the fin can.
@@ -39,7 +39,7 @@ The ejection charge tube should slide into the containment tube when the fin can
 Test fit all parts before applying epoxy.
 The coupler’s bottom bulkhead should fit against the top of the containment tube, and the payload’s airframe should evenly meet the fin can’s airframe.
 
-{% media /images/recovery_eject3.jpg|Two stage recovery payload ejection charge %}
+{% media /images/recovery_eject3.jpg|Two stage recovery payload ejection charge|media--small %}
 
 Pictured here is the bottom of a 2.6” diameter payload section.
 The coupler is used to house the altimeter that controls drogue and main parachute deployment.

@@ -247,6 +247,8 @@ footer {
 }
 
 .media {
+  margin: 0 0 .5em;
+
   @at-root #{&}__content {
     width: 100%;
     display: block;
@@ -262,6 +264,16 @@ footer {
     .media__content {
       margin: 0 auto;
       width: 50%;
+    }
+  }
+
+  @at-root #{&}--small {
+    .media__content {
+      margin: 0 auto;
+      width: 50%;
+    }
+    .media__caption {
+      text-align: center;
     }
   }
 }
