@@ -5,7 +5,8 @@ collection: design
 contributors:
 - Jim Malone
 ---
-This [Excel spreadsheet](transitioncalc.xls) is a calculator for paper transition sections.
+This [Excel spreadsheet][1] is a calculator for paper transition sections.
 
 Submitted by: Jim Malone
 
+[1]: {{ "/files/transitioncalc.xls" | absolute_path }}
