@@ -281,6 +281,16 @@ footer {
       text-align: center;
     }
   }
+
+  @at-root #{&}--small-portrait {
+    .picture__content {
+      margin: 0 auto;
+      width: 25%;
+    }
+    .picture__caption {
+      text-align: center;
+    }
+  }
 }
 
 
