@@ -8,7 +8,7 @@ A pyrotechnic device using black powder (gunpowder) is usually used to deploy th
 
 ## Motor Ejection
 
-{% media /images/closure1.jpg|Typical closure ejection well|media--small %}
+{% picture path: '/images/closure1.jpg', caption: 'Typical closure ejection well', class: 'picture--small' %}
 
 Main parachute deployment at apogee is often performed by motor ejection.
 Black powder (grade FFFFg) is placed in the well on the forward (top) closure.
@@ -57,7 +57,7 @@ Another ignition device is an electric match like the ones used to ignite rocket
 The type that can be used with an electronic device like an altimeter or timer must be used.
 The most commonly used electric matches are made by Daveyfire. See the Electric Matches section for more infomation.
 
-{% media /images/recovery_eject3.jpg|Custom ejection charge holder|media--small %}
+{% picture path: '/images/recovery_eject3.jpg', caption: 'Custom ejection charge holder', class: 'picture--small' %}
 
 The ejection charge chamber can be fitted into a holder assembly, as illustrated here.
 This holder is a 3/8” launch lug epoxied to the bottom of the electronics compartment.

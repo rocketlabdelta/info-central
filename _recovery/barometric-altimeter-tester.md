@@ -11,7 +11,7 @@ Parts Required:
 - 1 punchball balloon
 - 1 altimeter
 
-{% media /images/barotest_parts.jpg|Improvized chamber next to an RRC²X altimeter by Missile Works %}
+{% picture path: '/images/barotest_parts.jpg', caption: 'Improvized chamber next to an RRC²X altimeter by Missile Works' %}
 
 Attach one color of matchbook sized miniature lamp to the drogue output of the altimeter and another color to the main output.
 Cut off the end of the punchball balloon near the mouth of the balloon so that if will fit over the mouth of the cup without much difficulty.

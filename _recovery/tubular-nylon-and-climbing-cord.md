@@ -18,7 +18,7 @@ This is not to say tubular nylon should not be used.
 On the contrary, it is used quite often due to its immense strength and reliability.
 Below is a table showing four of the most common webbing and each type’s specifications, including approximate price.
 
-{% media /images/cordinfo_fig1.jpg|Two sizes of tubular nylon %}
+{% picture path: '/images/cordinfo_fig1.jpg', caption: 'Two sizes of tubular nylon' %}
 
 | Size (inch)         | Strength (kN) | Wt./ft (g) | Approx. Price/ft* |
 |:--------------------|:--------------|:-----------|:-----------------:|
@@ -37,7 +37,7 @@ One of the two advantages of using accessory cord is its round shape, which make
 The second advantage is the natural fit into standard oval quick-links compared to webbing.
 Below is a table showing various types of accessory cord and each type’s specifications, including approximate price.
 
-{% media /images/cordinfo_fig2.jpg|Three sizes of accessory cord %}
+{% picture path: '/images/cordinfo_fig2.jpg', caption: 'Three sizes of accessory cord' %}
 
 | Brand  | Size (mm) | Strength (kN) | Wt./ft (g) | Approx. Price/ft* |
 |:-------|:---------:|:--------------|:-----------|:-----------------:|
@@ -65,7 +65,7 @@ What makes this cord different is that the spectra fibers are on the inside with
 Note: The spectra cord is relatively stiff and slick, because of this, only a triple fisherman’s knot is recommended to tie it with.
 Below is a table showing three different types of spectra cord and each type’s specifications, including approximate price.
 
-{% media /images/cordinfo_fig3.jpg|Spectra cord %}
+{% picture path: '/images/cordinfo_fig3.jpg', caption: 'Spectra cord' %}
 
 | Brand      | Size (mm) | Strength (kN) | Wt./ft (g) | Approx. Price/ft |
 |:-----------|:----------|:--------------|:-----------|:-----------------|

@@ -104,6 +104,10 @@ img {
   border-style: none;
 }
 
+table {
+  margin-bottom: 1em;
+}
+
 details {
   display: block;
 }
@@ -246,7 +250,7 @@ footer {
   }
 }
 
-.media {
+.picture {
   margin: 0 0 .5em;
 
   @at-root #{&}__content {
@@ -258,21 +262,22 @@ footer {
 
   @at-root #{&}__caption {
     font-style: italic;
+    margin: .5em 0 1em;
   }
 
   @at-root #{&}--portrait {
-    .media__content {
+    .picture__content {
       margin: 0 auto;
       width: 50%;
     }
   }
 
   @at-root #{&}--small {
-    .media__content {
+    .picture__content {
       margin: 0 auto;
       width: 50%;
     }
-    .media__caption {
+    .picture__caption {
       text-align: center;
     }
   }

@@ -13,7 +13,7 @@ How can you predict whether a particular design will cause flutter? What does ca
 I decided to try and find out the answers to some of these questions recently and in my research came across a remarkable paper published by NACA in 1958 that not only examines the various types of flutter but also contains a simple algorithm for determining flutter susceptibility and determining the likely velocity at which flutter will occur.
 NACA performed over 100 different wind tunnel tests confirming this algorithm for various missile designs at low supersonic and subsonic airspeeds so it seems like a great place for the amateur community to start in an attempt to understand the flutter we experience. Obviously it will need to be verified for the materials, designs, and velocities that we use today.
 
-{% media /images/finflutter_types.gif|NACA classifcation of flutter modes %}
+{% picture path: '/images/finflutter_types.gif', caption:'NACA classifcation of flutter modes' %}
 
 There are at least three different types of flutter that have been examined by NACA (the precursor to NASA) rocket and missile designers: fin (wing) bending-torsion flutter, stall flutter, and pitch-bending flutter.
 Stall flutter occurs at high angle of attacks when the fin is near stall.
@@ -46,7 +46,7 @@ A well known example of this type of oscillator is the Wilberforce pendulum pict
 It is also interesting to note that resonant coupled harmonic oscillators with two degrees of freedom can, under the right conditions, exhibit chaotic motion.
 Maybe that explains some of those weird flutters you’ve experienced!
 
-{% media /images/finflutter_instrument_w_detail.jpg|A Wilberforce pendulum is a harmonic oscillator with two degrees of freedom %}
+{% picture path: '/images/finflutter_instrument_w_detail.jpg', caption: 'A Wilberforce pendulum is a harmonic oscillator with two degrees of freedom' %}
 
 To solve the flutter equations analytically is possible but it is pretty difficult.
 Today aerodynamicists probably use computational fluid dynamics or finite element analysis software to analyze these sorts of problems.
@@ -94,7 +94,7 @@ Since the pressure ratio goes down it does tend to help things out.
 |:----------------|:--------|:--------|:---------|:--------------|
 | Relative Effect | 0.5     | 1       | 1.04     | \\(1/x^3\\)   |
 
-{% media /images/finflutter_bendchart.gif|Figure 3 %}
+{% picture path: '/images/finflutter_bendchart.gif', caption: 'Figure 3' %}
 
 Figure 3 plots the flutter index against the other important factor that we need to consider, which is shear modulus.
 Shear modulus is a measure of the fin materials ability to resist bending and twisting, in other words it is a measure of stiffness.

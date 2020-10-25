@@ -22,7 +22,7 @@ If the rocket design allows for redundant ejection charges, then a single match 
 
 ### Materials
 
-{% media /images/recovery/materials.jpg|The materials needed to build ejection canisters|media--small %}
+{% picture path: '/images/recovery/materials.jpg', caption: 'The materials needed to build ejection canisters', class: 'picture--small' %}
 
 Materials list:
 
@@ -39,7 +39,7 @@ An advantage of translucent polyethylene tubing over cardboard tubing for the ca
 
 ### Construction Steps
 
-{% media /images/recovery/glue.jpg|Gluing in the electric match|media--small %}
+{% picture path: '/images/recovery/glue.jpg', caption: 'Gluing in the electric match', class: 'picture--small' %}
 
 If your polyethylene tubing is rolled, begin by unrolling the tubing and straightening it as much as possible.
 A slight curl in each canister will be O.K. Cut the tubing to the desired length, about 2” to 2.5” long pieces
@@ -52,7 +52,7 @@ Hold the tube until the glue cools enough that it no longer runs. you may need t
 
 ### Canister Usage
 
-{% media /images/recovery/pour.jpg|Pouring in the black powder|media--small %}
+{% picture path: '/images/recovery/pour.jpg', caption: 'Pouring in the black powder', class: 'picture--small' %}
 
 Materials to prepare the canisters for flight are listed below.
 
@@ -70,7 +70,7 @@ The masking tape is used to seal the tube so that the powder does not fall out.
 3. Push the tape into the tube down to the black powder to create a cap that keeps the powder in the canister.
 4. The canister is ready to be used.
 
-{% media /images/recovery/tape.jpg|Sealing the canister|media--small %}
+{% picture path: '/images/recovery/tape.jpg', caption: 'Sealing the canister', class: 'picture--small' %}
 
 ### Questions & Answers
 
@@ -92,7 +92,7 @@ Large and small ejection charges can be quickly and cheaply constructed from com
 
 ### Materials
 
-{% media /images/recovery/ec1.jpg|Plastic wrap; typical|media--small %}
+{% picture path: '/images/recovery/ec1.jpg', caption: 'Plastic wrap; typical', class: 'picture--small' %}
 
 - Plastic wrap - whatever brand you have
 - Low current electric igniter. Pictured here is a Daveyfire N28B.
@@ -108,14 +108,14 @@ Large and small ejection charges can be quickly and cheaply constructed from com
 5. Insert an igniter.
 6. Twist the plastic wrap around the igniter and wrap with masking tape. Excess plastic wrap can be cut off.
 
-{% media /images/recovery/ec5.jpg|A finished ejection charge before the excess plastic wrap has been trimmed|media--small %}
+{% picture path: '/images/recovery/ec5.jpg', caption: 'A finished ejection charge before the excess plastic wrap has been trimmed', class: 'picture--small' %}
 
 In the top right corner is the black powder and igniter. Masking tape is wrapped just in back of the black powder to create a seal.
 
 The author encourages the use of two igniters per charge.
 Though the probability of a commercially manufactured electrical igniter failing is low, the use of two igniters per charge further reduces the chance of personal injury or property damage from a recovery system failure.
 
-{% media /images/recovery/ec6.jpg|PVC fitting charge well|media--small %}
+{% picture path: '/images/recovery/ec6.jpg', caption: 'PVC fitting charge well', class: 'picture--small' %}
 
 An ejection charge can make the inside of an airframe dirty.
 The soot can be contained.

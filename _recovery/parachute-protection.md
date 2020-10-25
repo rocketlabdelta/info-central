@@ -9,17 +9,17 @@ Several techniques have been used successfully including deployment bag, wadding
 
 ## Deployment Bag
 
-{% media /images/recovery_deploymentbag.jpg|A parachute next to its deployment bag|media--small %}
+{% picture path: '/images/recovery_deploymentbag.jpg', caption: 'A parachute next to its deployment bag', class: 'picture--small' %}
 
 A deployment bag is a bag into which the parachute is stuffed.
 Deployment bags are often made of a fire resistant material like Nomex cloth to prevent a nylon parachute from being melted by the ejection charge.
 A deployment bag also servers the additional purpose of orderly deployment.
 
-{% media /images/recovery_chuteinbag.jpg|The parachute stuffed into the deployment bag|media--small %}
+{% picture path: '/images/recovery_chuteinbag.jpg', caption: 'The parachute stuffed into the deployment bag', class: 'picture--small' %}
 
 ## Wadding
 
-{% media /images/recovery_cellulose.jpg|Celluose insulation|media--small %}
+{% picture path: '/images/recovery_cellulose.jpg', caption: 'Celluose insulation', class: 'picture--small' %}
 
 Wadding is a fire resistant material, like cellulose insulation, that is placed between the ejection charge and parachute.
 Cellulose insulation is chopped newspapers treated to be fire resistant.

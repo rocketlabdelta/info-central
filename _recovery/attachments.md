@@ -18,7 +18,7 @@ This bunches the webbing at the other end, weakening it.
 The significance of this weakness must be evaluated by each individual on a case by case basis to determine if it is worth concern.
 
 
-{% media /images/attachments_fig1.jpg| Nylon webbing loop bunched by an oval quick-link %}
+{% picture path: '/images/attachments_fig1.jpg', caption: 'Nylon webbing loop bunched by an oval quick-link' %}
 
 ## Delta Shaped Quick-Links
 
@@ -26,7 +26,7 @@ While over twice the price as ovals, these triangle-shaped quick-links tend to s
 This allows the webbing to stay its normal width, which distributes the load more evenly over the entire surface of the webbing.
 Another added benefit is the wider design, which makes joining three different pieces easier.
 
-{% media /images/attachments_fig2.jpg| Nylon webbing loop lying flat at the cotact point with a delta-shaped quick-link %}
+{% picture path: '/images/attachments_fig2.jpg', caption: 'Nylon webbing loop lying flat at the cotact point with a delta-shaped quick-link' %}
 
 ## Knots
 
@@ -56,13 +56,13 @@ It does not really improve the strength of the system, however, because you stil
 Webbing that is professionally sewn is typically attached to itself with bar-tacks.
 Two bar-tacks are typically as strong as the material it is sewn into, but most manufacturers sew three to five bar-tacks to assure safety.
 
-{% media /images/attachments_fig3.jpg| Nylon webbing loop sewn with two bar-tacks %}
+{% picture path: '/images/attachments_fig3.jpg', caption: 'Nylon webbing loop sewn with two bar-tacks' %}
 
 Unfortunately, a special machine is needed to sew the bar-tacks.
 To avoid the added cost of a bar-tack sewing machine, many rocket enthusiasts sew an ‘X’ in a box to join the webbing.
 However, this method should be evaluated/tested before use.
 
-{% media /images/attachments_fig4.jpg| Nylon webbing loop sewn with a box 'X' join %}
+{% picture path: '/images/attachments_fig4.jpg', caption: 'Nylon webbing loop sewn with a box "X" join' %}
 
 ## Conclusion
 

@@ -1,6 +1,7 @@
-_site
-.sass-cache
+*.swp
+.byebug_history
 .jekyll-cache
 .jekyll-metadata
+.sass-cache
+_site
 vendor
-*.swp

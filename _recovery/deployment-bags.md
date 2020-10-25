@@ -13,7 +13,7 @@ A parachute deployment bag serves multiple purposes.
 
 Deployment bags can be used with single-stage and two-stage recovery systems, though they are more commonly seen with two-stage recovery.
 
-{% media /images/deploybag_descent.jpg|A High Power Rocket descending under a parachute|media--portrait %}
+{% picture path: '/images/deploybag_descent.jpg', caption: 'A High Power Rocket descending under a parachute', class: 'picture--portrait' %}
 
 The descending rocket shown above is using a Rocketman R7 parachute.
 The yellow deployment bag can be seen floating above the parachute.
@@ -28,7 +28,7 @@ Frequently the sleeve ends in a flap that folds over the lower part of the sleev
 
 ## Pilot Chute and Suspension Line Stow Loops
 
-{% media /images/deploybag_rm7.jpg|Pilot chute attached to a deployment bag %}
+{% picture path: '/images/deploybag_rm7.jpg', caption: 'Pilot chute attached to a deployment bag' %}
 
 Some deployment bags use a pilot chute to pull the bag off the main parachute, as shown above which has an 18” pilot chute.
 Before the bag can be pulled off the parachute the bridle and suspension lines are pulled tight and away from the faster descending rocket.
@@ -39,12 +39,12 @@ The author has modified Rocketman medium and large bags to use a pilot chute.
 Photo 2 shows an 18” pilot attached to a Rocketman medium bag.
 A short 1/4” tubular nylon bridle was added to the bag for pilot chute attachment.
 
-{% media /images/deploybag_rm5.jpg|Close up of the brindle attachment at the top of the bag|media--small %}
+{% picture path: '/images/deploybag_rm5.jpg', caption: 'Close up of the brindle attachment at the top of the bag', class: 'picture--small' %}
 
 The short 1/4” tubular nylon bridle was sewn to the bag by hand using carpet thread, which is available at any store with sewing supplies.
 The bridle ends in a loop, and the pilot’s suspension lines are looped through the loop to attach the pilot to the bridle.
 
-{% media /images/deploybag_rm6.jpg|A Rocketman R7 parachute stuffed into a medium bag, and the pilot chute %}
+{% picture path: '/images/deploybag_rm6.jpg', caption: 'A Rocketman R7 parachute stuffed into a medium bag, and the pilot chute' %}
 
 The above photo shows the deployment bag in the process of being packed; it is still open.
 Because the bag has not been closed yet it is not yet ready for flight.
@@ -53,18 +53,18 @@ Two elastic loops can be seen on the bag. The flap has holes that match the loop
 
 The holes in the flap have been reinforced by sewing around them with carpet thread.
 
-{% media /images/deploybag_rm2.jpg|Closeup of the elastic loops sewn to the bag using carpet thread %}
+{% picture path: '/images/deploybag_rm2.jpg', caption: 'Closeup of the elastic loops sewn to the bag using carpet thread' %}
 
-{% media /images/deploybag_rma.jpg|Deployment bag brindle|media--portrait %}
+{% picture path: '/images/deploybag_rma.jpg', caption: 'Deployment bag brindle', class: 'picture--portrait' %}
 
 The deployment bag’s bridle is attached to the top of the inside of the bag, and the apex of the parachute.
 This bridle is a standard part of all deployment bags so that the bag can be attached to the parachute and not float away when pulled off the parachute.
 
-{% media /images/deploybag_rm3.jpg|Folding over the flap of the deployment bag|media--portrait %}
+{% picture path: '/images/deploybag_rm3.jpg', caption: 'Folding over the flap of the deployment bag', class: 'picture--portrait' %}
 
 Note that the suspension lines have not been inserted through the loops of the deployment bag yet.
 
-{% media /images/deploybag_rm4.jpg|Suspension lines inserted through the elastic loops|media--portrait %}
+{% picture path: '/images/deploybag_rm4.jpg', caption: 'Suspension lines inserted through the elastic loops', class: 'picture--portrait' %}
 
 The suspension lines must go through the loops in a particular direction so that when pulled tight they easily pull out of the loops.
 If inserted in the wrong direction the lines may bind and not pull out of the loops.
@@ -76,25 +76,25 @@ The suspension lines should slide out when gently pulled. If the loops grab the 
 
 Deployment bags come in many shapes and sizes.
 
-{% media /images/deploybag_fox.jpg|Circled, left to right, are the attachment for the pilot chute’s bridle, the elastic loop that the suspension lines are placed through to keep the flap closed, and the hole in the flap. %}
+{% picture path: '/images/deploybag_fox.jpg', caption: 'Circled, left to right, are the attachment for the pilot chute’s bridle, the elastic loop that the suspension lines are placed through to keep the flap closed, and the hole in the flap.' %}
 
 The pilot chute has not been attached yet. The bridle that runs to the apex of the main parachute is visible on the right.
 
-{% media /images/deploybag_loopa.jpg|One side of the flap is placed over the matching loop|media--small %}
+{% picture path: '/images/deploybag_loopa.jpg', caption: 'One side of the flap is placed over the matching loop', class: 'picture--small' %}
 
-{% media /images/deploybag_loopb.jpg|A closeup of the suspension lines through the elastic loop|media--small %}
+{% picture path: '/images/deploybag_loopb.jpg', caption: 'A closeup of the suspension lines through the elastic loop', class: 'picture--small' %}
 
 The lines must be inserted in a particular direction so that they pull out when the bridle and suspension lines are pulled tight by the pilot chute.
 
-{% media /images/deploybag_foxr7.jpg|Loaded with a Rocketman R7 parachute with the suspension lines inserted into the loops %}
+{% picture path: '/images/deploybag_foxr7.jpg', caption: 'Loaded with a Rocketman R7 parachute with the suspension lines inserted into the loops' %}
 
 The pilot chute is not attached yet.
 Below the deployment bag is a 6” ruler for size comparison.
 The bag will easily fit in a 4” airframe.
 Because the bag will slide in a 4” diameter airframe shear pins should be used to retain the nose cone until the ejection charge fires.
 
-{% media /images/deploybag_twob.jpg|Two deployment bags %}
-{% media /images/deploybag_twoa.jpg|Two loaded deployment bags; alternate angle|media--small %}
+{% picture path: '/images/deploybag_twob.jpg', caption: 'Two deployment bags' %}
+{% picture path: '/images/deploybag_twoa.jpg', caption: 'Two loaded deployment bags; alternate angle', class: 'picture--small' %}
 
 The yellow bag is a large Rocketman bag holding a Rocketman R14 parachute.
 It has a 22” pilot chute.
@@ -142,7 +142,7 @@ A diameter of 3.5” translates into a circumference of about 11”.
 If the bag (circle) is folded flat it would be 5.5” wide.
 to fit into a 4” diameter airframe without binding when stuffed with a parachute.
 
-{% media /images/deploybag_diagram1.jpg|Deployment bag pattern|media--small %}
+{% picture path: '/images/deploybag_diagram1.jpg', caption: 'Deployment bag pattern', class: 'picture--small' %}
 
 Each side of the bag should have a seam of at least 1/8” wide.
 Therefore each side of the bag needs to be 1/8” wider making the unsewn material 5.75” wide.
