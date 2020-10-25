@@ -7,7 +7,7 @@ contributors:
 Here is the partial chart of Aerotech nozzle sizes, the few I have checked were correct.
 
 | Reload   | Nozzle  throat diam  |
-|:--------:|:--------------------:|
+|:---------|:--------------------:|
 | H73      | 0.125                |
 | G75      | 0.156                |
 | H112     | 0.159                |
@@ -27,15 +27,15 @@ Here is the partial chart of Aerotech nozzle sizes, the few I have checked were 
 | I435     | 0.315                |
 | J570     | 0.360                |
 
+Too often, AeroTech reload kits are packed with an incorrect nozzle.
+Using the reload with the wrong nozzle can cause it to under perform or even to CATO.
+Before you build that next AeroTech reload, check to make sure the right nozzle is packed in the kit.
+Measure the diameter of the nozzle and compare it to that listed in the table.
 
-Submitted by: Steve Pearson
-
-Too often, AeroTech reload kits are packed with an incorrect nozzle. Using the reload with the wrong nozzle can cause it to under perform or even to CATO. Before you build that next AeroTech reload, check to make sure the right nozzle is packed in the kit. Measure the diameter of the nozzle and compare it to that listed in the table.
-
-1” Outer diameter EZ Access:
+## 1” Outer diameter EZ Access
 
 |        Opening       |                  Reloads                 |
-|:--------------------:|:----------------------------------------:|
+|:---------------------|:-----------------------------------------|
 | Small Exit Diameter  |                                          |
 | .104                 | F37W                                     |
 | .125                 | F62T                                     |
@@ -54,18 +54,18 @@ Too often, AeroTech reload kits are packed with an incorrect nozzle. Using the r
 | .313                 | I300T                                    |
 
 
-L2 Nozzle
+## L2 Nozzle
 
 | Opening |                  Reloads                 |
-|:-------:|:----------------------------------------:|
+|:--------|:-----------------------------------------|
 | .291    | I200W, H268R, I366R, I600R, J350W, J420R |
 | .313    | I435T                                    |
 | .359    | J570W                                    |
 
-54MM Medusa
+## 54MM Medusa
 
 | Center |  Outer  |        Reload       |
-|:------:|:-------:|:-------------------:|
+|:-------|:--------|:--------------------|
 | .266   |         | J90W                |
 | .213   | 3@ .161 | J180T               |
 | .228   | 2@ .161 | J275W, J315R, J135W |
@@ -77,10 +77,11 @@ L2 Nozzle
 | .297   | 6@ .220 | K1100T              |
 | .266   | 6@ .199 | K700W               |
 
-New High Power Single Throat
+## New High Power Single Throat
 
 | Opening | Reload |
-|:-------:|:------:|
+|:--------|:-------|
 | .455    | K695R  |
 | .562    | K1275R |
 
+Submitted by: Steve Pearson

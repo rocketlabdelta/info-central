@@ -4,12 +4,14 @@ archive_page: archive/propulsion_thrustcurve.html
 contributors:
 - David Harbaugh
 ---
-This handy table allows you to locate motor information by impulse class, diameter or both. The row and column headers match all motors of that impulse class or diameter and the numbers in the cells indicate how many motors match. Click on any link to be taken to[ThrustCurve.org](http://www.thrustcurve.org) for the in-depth motor data.
+This handy table allows you to locate motor information by impulse class, diameter or both.
+The row and column headers match all motors of that impulse class or diameter and the numbers in the cells indicate how many motors match.
+Go to [ThrustCurve.org](http://www.thrustcurve.org) for the in-depth motor data.
 
-ThrustCurve.org Motor Data Table
+Available Motors by Motor Mount diameter in mm:
 
 | Class | Max Pounds | Max Newtons | 10 | 13 | 18 | 21 | 24 | 25 | 27 | 29 | 32 | 38 | 54 | 75 | 76 | 81 | 98 | 111 |
-|:-----:|:----------:|:-----------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---:|
+|:------|:-----------|:------------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---:|
 | 1/4A  | 0.14       | 0.625       | 1  | 2  |    |    |    |    |    |    |    |    |    |    |    |    |    |     |
 | 1/2A  | 0.28       | 1.25        | 1  | 1  | 2  |    |    |    |    |    |    |    |    |    |    |    |    |     |
 | A     | 0.56       | 2.50        | 1  | 3  | 6  |    |    |    |    |    |    |    |    |    |    |    |    |     |

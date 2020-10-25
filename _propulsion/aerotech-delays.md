@@ -4,14 +4,16 @@ archive_page: archive/propulsion_atdelays.html
 contributors:
 - Richard Hagen
 ---
-This is an update to the listing titled “Aerotech Delays” submitted by Ted Cochran some time ago. This listing includes coverage for the newer Redline motors and a motor by motor matrix for all Aerotech high power reloads. I ran it by Craig Christiansen at RCS/Aerotech and the response was “This looks good”.
+This is an update to the listing titled “Aerotech Delays” submitted by Ted Cochran some time ago.
+This listing includes coverage for the newer Redline motors and a motor by motor matrix for all Aerotech high power reloads.
+I ran it by Craig Christiansen at RCS/Aerotech and the response was “This looks good”.
 
 ## AEROTECH RDK & RDK+ DELAYS
 
 June 29, 2004
 
 |      Motor     | Hardware | T. Imp. |     Delay     |     RDK KIT    |       RDK+ Kit       |
-|:--------------:|:--------:|:-------:|:-------------:|:--------------:|:--------------------:|
+|:---------------|:---------|:--------|:--------------|:---------------|:---------------------|
 | 29 MM Hardware |          |         |               |                |                      |
 | F37W           | 29/60    | 50      | 6, 10, 14     | 02, 03, 04     | 03+, 05+, 07+        |
 | F62T           | 29/60    | 50      | 6, 10, 14     | 01, 02, 03     | 02+, 04+, 06+        |
@@ -67,9 +69,13 @@ June 29, 2004
 
 Submitted by: Richard Hagen
 
-Given how important it is to nail the delay time when you are deploying parachutes using the RMS delay charge, it is important to ensure that you are using the appropriate delay grain and delay spacer in every motor you build. While it’s rare to encounter a mis-packed delay part, they may get mixed up between separate RMS reload kits by mistake. As a result, the following list has been compiled from postings on the RMR newsgroup and by nosing around the vendor racks at LDRS.
+Given how important it is to nail the delay time when you are deploying parachutes using the RMS delay charge, it is important to ensure that you are using the appropriate delay grain and delay spacer in every motor you build.
+While it’s rare to encounter a mis-packed delay part, they may get mixed up between separate RMS reload kits by mistake.
+As a result, the following list has been compiled from postings on the RMR newsgroup and by nosing around the vendor racks at LDRS.
 
-These three tables list information on delay components for most Aerotech RMS motors. (Missing data, and corrections to any of the data listed, are welcome.) The first table shows the lengths of the delays and the color of the appropriate delay spacers for the reloads that fit the RMS 18/20, 24/40, and 29/40-120 (“consumer”) casings.
+These three tables list information on delay components for most Aerotech RMS motors.
+(Missing data, and corrections to any of the data listed, are welcome.)
+The first table shows the lengths of the delays and the color of the appropriate delay spacers for the reloads that fit the RMS 18/20, 24/40, and 29/40-120 (“consumer”) casings.
 
 |                |          Short           |    Medium     |       Long       |
 |----------------|:------------------------:|:-------------:|:----------------:|
@@ -99,7 +105,10 @@ These three tables list information on delay components for most Aerotech RMS mo
 |   E23T         | ?                        | silver        | ?                |
 |   F52T         | white                    | silver        | orange           |
 
-The second table shows the length of the delays and the appropriate reload delay kit, or RDK, number for reloads that fit 29mm, 38mm, and 54mm high power RMS casings. These kits contain several reload charges, and are sold separately by Aerotech. Note that since the delay charge burns at different rates depending on the propellant in the motor, the same delay train may be used for different delay lengths in different reloads. The RDK-3 kit, for example, burns for 6, 10, or 14 seconds depending on which motor it is used in.
+The second table shows the length of the delays and the appropriate reload delay kit, or RDK, number for reloads that fit 29mm, 38mm, and 54mm high power RMS casings.
+These kits contain several reload charges, and are sold separately by Aerotech.
+Note that since the delay charge burns at different rates depending on the propellant in the motor, the same delay train may be used for different delay lengths in different reloads.
+The RDK-3 kit, for example, burns for 6, 10, or 14 seconds depending on which motor it is used in.
 
 |                  | Short  | Medium  | Long  | XLong  |
 |------------------|:------:|:-------:|:-----:|:------:|
@@ -169,10 +178,11 @@ Note: The RDK 15 uses a slower burning composition than other 38mm delays, and t
 
 ## RMS+ (new style) Delays
 
-In 2000, AeroTech has simlified the delay structure to make them easier to install and more reliable. The tables below reflect the new RMS+ delays.
+In 2000, AeroTech has simlified the delay structure to make them easier to install and more reliable.
+The tables below reflect the new RMS+ delays.
 
 | RMS 29/60-240 | Short | Medium | Long |
-|:-------------:|:-----:|:------:|:----:|
+|:--------------|:-----:|:------:|:----:|
 | F62T          | 2+    | 4+     | 6+   |
 | G104T         | 2+    | 4+     | 6+   |
 | H238T         | 1+    | 4+     | 6+   |
@@ -186,7 +196,7 @@ In 2000, AeroTech has simlified the delay structure to make them easier to insta
 | H97J          | 5+    | 8+     | NA   |
 
 | RMS 38/240-720 | Short | Medium  | Long  |
-|:--------------:|:-----:|:-------:|:-----:|
+|:---------------|:-----:|:-------:|:-----:|
 | H242T          | 9+    | 10+     | 12+   |
 | I357T          | 9+    | 10+     | 12+   |
 | I300T          | 9+    | 10+     | 12+   |
@@ -204,8 +214,8 @@ In 2000, AeroTech has simlified the delay structure to make them easier to insta
 
 This table lists delay grain height and delay spacer color for the RMS+ Delay kits for 29mm and 38mm RMS casings.
 
-|      | Delay kit | delay height  | spacer ht | Spacer |
-|:----:|:---------:|:-------------:|:---------:|:------:|
+|      | Delay kit | Delay height  | Spacer ht | Spacer |
+|:----:|:----------|:-------------:|:---------:|:-------|
 | 29mm | RDK 1+    | .314          | 0.405     | pink   |
 | 29mm | RDK 2+    | .375          | 0.344     | red    |
 | 29mm | RDK 3+    | .438          | 0.281     | purple |
