@@ -4,7 +4,7 @@ archive_page: archive/support_multilauncher.html
 contributors:
 - Charles Barnett
 ---
-![](/images/multilauncher_animation.gif)
+{% picture path: '/images/multilauncher_animation.gif' %}
 
 ## General Description
 
@@ -15,7 +15,7 @@ It uses red LED’s to indicate pad chosen and green LED’s to show igniter con
 Igniter continuity is continuously displayed with igniter standby current of about 13 ma.
 Arming is indicated with a high intensity blinking red LED and an audio alarm.
 
-![](/images/multilauncher_controlback.jpg)
+{% picture path: '/images/multilauncher_controlback.jpg' %}
 
 Simultaneous launches are possible using the red switches on the back of the control panel.
 Using the front panel to fire any pad which has a red drag race switch turned on will simultaneously fire all others which have their red switch turned on.
@@ -23,16 +23,16 @@ The panel's selection LED's will indicate which pads are chosen for a "drag race
 The system is designed to minimize the probability of an inadvertent launch caused by a short in the wiring leading to the control panel.
 Power to the relay is supplied from the controller panel.
 
-![](/images/multilauncher_connector.jpg)
+{% picture path: '/images/multilauncher_connector.jpg', class: 'picture--small' %}
 
 Microphone connectors were used between the control panel and the remote relay pads so that control wiring can be easily replaced.
 
-![](/images/multilauncher_connectedrelay.jpg)
+{% picture path: '/images/multilauncher_connectedrelay.jpg' %}
 
 - There is a safety test button at each pad on each relay box. It should be pressed briefly before connecting the igniters. This will cause an alarm to sound at that relay box and a red alarm LED to display if there exists the dangerous condition of continuous power at the igniter connectors (i.e. the relay contacts are welded).
 - Green LED’s (at both the pad and at the launch controller) continually indicate the status of igniter continuity.
 
-![](/images/multilauncher_relayb.jpg)
+{% picture path: '/images/multilauncher_relayb.jpg', class: 'picture--small' %}
 
 If you are new to electronics, please enlist the assistance of someone with experience before beginning this project.
 
@@ -60,7 +60,7 @@ Despite the higher current specs of the clear **LED's, CURRENT LIMITING RESISTOR
 The resistors also limit the voltage drop across the igniter during continuity testing.
 To prevent LED dimming when multiple pads are selected, one resistor is now used for each LED.
 (You may wish to substitute a large LED for the Blinking one.
-Its blinking can be inhibited by direct sunlight.)
+Its blinking can be inhibited by direct sunlight.' %}
 
 | Qty  | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -101,19 +101,19 @@ _misc.: superglue, DuPont spray adhesive, Exacto knife, wire, power connectors, 
 Clicking the images below will allow you to download printing templates.
 The larger download may take about 3 minutes or more.
 
-Size: 194K  (printed 4 up horizontal)  
-[![](/images/multilauncher_cp1sml.jpg)](/images/multilauncher_cp1.jpg)
+{% picture path: '/images/multilauncher_cp1sml.jpg', class: 'picture--small-portrait' %}
+[Full size for printing](/images/multilauncher_cp1.jpg) (194Kb, print 4 up horizontal)
 
-Size: 441 K  
-[![](/images/multilauncher_c1sml.jpg)](/images/multilauncher_c1.jpg)
+{% picture path: '/images/multilauncher_c1sml.jpg', class: 'picture--small' %}
+[Full size for printing](/images/multilauncher_c1.jpg') (441 Kb)
 
 
-1. Print templates using a color inkjet. (Print several extras.)
+1. Print templates using a color inkjet. (Print several extras.' %}
 2. Temporarily tape a template to the control panel and use a center punch to mark the drill holes and insure that their location does not wander during drilling.
    Drill round holes, then cut out rectangular switch hole with a Dremel tool.
    Mounting the LED’s will be much easier if their holes are just a little snug.
 3. Use scotch tape to secure the corners of a self-adhesive laminating sheet (adhesive up) to a flat surface.
-  (If you have one, you will find that a 7 ½" airframe coupler works better than a flat surface.)
+  (If you have one, you will find that a 7 ½" airframe coupler works better than a flat surface.' %}
 4. Next you will carefully adhere the printed panel face template (face down) to the to the laminating sheet.
    This is tricky, so, align and adhere one edge and bend the sheet of paper as if rolling it on.
    Slowly and carefully slide a finger back and forth over the paper as it meets the laminating sheet.
@@ -127,15 +127,15 @@ Size: 441 K
    Remember to let it dry for about 30 sec so that solvent doesn’t cause paper to wrinkle or peel from the plastic while it is drying.
 6. Allow short (10-20 minutes) drying period after adhered.
 7. Trim excess with an Exacto knife.
-  (Holding the panel horizontally and slicing mainly downward will yield the best results.)
+  (Holding the panel horizontally and slicing mainly downward will yield the best results.' %}
    Trim holes similarly.
-  (Practice. If you don’t succeed the first time, remove the adhesive with rubbing alcohol or dissolve it with turpentine, clean the surface, and try again.)
+  (Practice. If you don’t succeed the first time, remove the adhesive with rubbing alcohol or dissolve it with turpentine, clean the surface, and try again.' %}
   <img src="/images/multilauncher_trim.jpg">
   Cut X in screw holes rather than trimming them.
 8. You may want to sand the surface of the clear blinking red LED so that it appears frosted.
    This increases the viewing area for this clear focused LED. An unsanded LED is much brighter but is not visible from an angle.
 9. Use a reasonable amount of SuperGlue to mount LED’s.
-  (Excess glue can darken the panel face around the hole.)
+  (Excess glue can darken the panel face around the hole.' %}
    Patiently allow to dry.
    Study the one pad control schematic first.
    It is included to make the multipad version easier to understand.
@@ -143,17 +143,17 @@ Size: 441 K
 
 PHOTO – SIMPLE SCHEMATIC
 
-![](/images/multilauncher_schematic5.gif)
+{% picture path: '/images/multilauncher_schematic5.gif' %}
 
 PHOTO – MULTPAD SCHEMATIC
 
-![](/images/multilauncher_schematic6.gif)
+{% picture path: '/images/multilauncher_schematic6.gif' %}
 
 Make the hookup wires at least three inches longer than necessary.
 For safety reasons, heat shrink tubing should be used on all connections inside the panel, connectors, and relay boxes.
 I used hot glue afterward to further secure the wiring on and around the LED’s.
 I chose to use a spider for power distribution because locally, we launch mostly large scale and smaller models.
-Any pads located a significant distance from the others would benefit from a separate battery (especially if high power clusters are used.)
+Any pads located a significant distance from the others would benefit from a separate battery (especially if high power clusters are used.' %}
 The gold colored speaker wire supplies power to each pad.
 Lately, I've seen more people using power cord plugged into receptacles and rolled up for storage.
 This has many advantages including ease of disconnection, availability of replacement without repair, cost, etc..
@@ -161,15 +161,15 @@ Caution should be used if this method is used because the plugs could mistakenly
 
 PHOTO - SPIDER
 
-![](/images/multilauncher_spider.jpg)
+{% picture path: '/images/multilauncher_spider.jpg' %}
 
 LAUNCH SITE - Pad 6 below is actually 120' away from the control.
 Also, moving launch control away from the publicly accessible area makes it much easier to maintain control of the launch.
 Lengths were cut to allow the following layout.
 To prevent tripping, all control wire fed to a central point near the spider box first then fanned out.
-(Green is control wire. Grey is 12 volt.)
+(Green is control wire. Grey is 12 volt.' %}
 
-![](/images/multilauncher_site.gif)
+{% picture path: '/images/multilauncher_site.gif' %}
 
 COMMENTS FROM THE DESIGNER:
 Hopefully, this project will help growing clubs fill the void between single pad controllers and the equipment which is used for large numbers of pads.

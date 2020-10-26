@@ -21,9 +21,7 @@ The majority of the parts can be low current and are easy to substitute.
 The thing to remember is the relay and wires from the battery and to the igniter must be of sufficient gauge to keep resistance losses down to a minimum.
 A relay that can handle 10 A at 12 VDC across the switching contacts is required.
 
-### TABLE 1.
-
-![](/images/relay_table1.jpg)
+{% picture path: '/images/relay_table1.jpg', caption: 'Table 1' %}
 
 Figure 1, illustrates a crude schematic of the launcher.
 As you can see there are very few components to this system.
@@ -49,9 +47,7 @@ Measure the current through the system with the LED alone first, this will help 
 Pete Kerchoff at [Pbp](http://www.tfs.net/~petek/) has very nice write up on this in his free projects modification of the Estes launcher.
 He also has a very cool 4 pad launcher there too, as well as a lot of other very interesting projects, check it out.
 
-### FIGURE 1
-
-[![](/images/relay_fig1.jpg)](http://www.concentric.net/~Ohmit/fig1big.jpg)
+{% picture path: '/images/relay_fig1.jpg', caption: 'Figure 1' %}
 
 When the launch button is pushed, the coil in the relay is energized and pulls the switch from the NC position to the NO (normally open) position, this completes the circuit for the battery's positive terminal through the igniter back to the negative terminal. Nothing to impede the progress of electrons to the igniter, except the fuse, clips and wire. This also interrupts the continuity circuit and the LED will go out. As long as the momentary switch is held the contacts will stay closed, if the igniter burns through and breaks the circuit your done. If it doesnt (which can happen) thats where the fuse comes in.
 
@@ -60,13 +56,9 @@ You may have to modify the location of the parts dependent upon which parts you 
 A test fit prior to final drilling (measure it twice before cutting it once) is recommended.
 All dimensions shown are in inches.
 
-### FIGURE 2
+{% picture path: '/images/relay_handcontdwg.jpg', caption: 'Figure 2', class: 'picture--small' %}
 
-![](/images/relay_handcontdwg.jpg)
-
-### FIGURE 3
-
-![](/images/relay_launchbox.jpg)
+{% picture path: '/images/relay_launchbox.jpg', caption: 'Figure 3', class: 'picture--small' %}
 
 ## Building It
 
@@ -85,13 +77,9 @@ The battery wires and igniter wires are routed out the same hole on the side of 
 This box left little room for connectors, if you want to use banana jacks for these or terminal hook-ups you may want to use a bigger box.
 Utilize a large red clip for the positive battery terminal and the black for the negative connection, as the polarity is important for proper operation of the continuity circuit.
 
-### FIGURE 4
+{% picture path: '/images/relay_lnchboxcbsml.jpg', caption: 'Figure 4' %}
 
-![](/images/relay_lnchboxcbsml.jpg)
-
-### FIGURE 5
-
-![](/images/relay_lnchboxopensml.jpg)
+{% picture path: '/images/relay_lnchboxopensml.jpg', caption: 'Figure 5' %}
 
 You will notice the plug used for the controller wire has three distinct contacts.
 The following description assumes you are holding the plug by its cover, with the plug pointing up.
@@ -108,9 +96,7 @@ You may replace the phono plugs recommended with these plugs.
 You will only use 3 of the 4 pins for this application.
 There should be enough room in both boxes to handle the larger hole (1/2 inch) and slightly deeper penetration into the box for the connections.
 
-### FIGURE 6
-
-![](/images/relay_lnchhandboxessml.jpg)
+{% picture path: '/images/relay_lnchhandboxessml.jpg', caption: 'Figure 6' %}
 
 The hand controller (on the right in Figure 6) uses the smaller of the two boxes.
 Drill four holes in this box as shown in Figure 2 of Part 1.
@@ -125,9 +111,7 @@ Remove the cover of the safety key plug and solder a small fine wire between the
 You can add a streamer to the plug to make it easier to find in the grass (or snow).
 Hook up the continuity, launch and power wires on the same terminals of the jack you chose on the launch box.
 
-### FIGURE 7
-
-![](/images/relay_hndboxopensml.jpg)
+{% picture path: '/images/relay_hndboxopensml.jpg', caption: 'Figure 7' %}
 
 The control wire from the hand controller to the launch box is a 50 foot section of 4 conductor telephone wire.
 Since we are only using 3 wires and telephone hook up wire has 4, you can substitute any appropriate 3 conductor wire.
@@ -201,9 +185,7 @@ Figure 8 shows the entire system in its completed form.
 This unit is compact (it easily fits in the top tray of most launch boxes), simple and packs a pretty good punch.
 No failures yet (knock on wood).
 
-### FIGURE 8
-
-![](/images/relay_syswithkeysml.jpg)
+{% picture path: '/images/relay_syswithkeysml.jpg', caption: 'Fiture 8' %}
 
 Why didn't he do it this way?
 
