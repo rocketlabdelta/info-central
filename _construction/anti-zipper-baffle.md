@@ -5,9 +5,9 @@ collection: construction
 contributors:
 - Giacomo Bosso
 ---
-I came across the following anti-zipper approach to connect parachute the harness to the airframe/s while I was building an Estes’ OOP Maxi-Force I luckily found. The rocket stands 50” tall and it is 2.63” in diameter, it was one of the few Pro Series kits and was ment for 3 “D” engines. Although it is a lot lighter than MPR/HPR rockets of a comparable size (LOC/Precision Hi-Tech H45 and PML Quasar share almost the same overall dimensions) the following technique only needs stiffer materials to suit every design.
-
-![](/images/antizipper2_estesbaffle.gif)
+I came across the following anti-zipper approach to connect parachute the harness to the airframe/s while I was building an Estes’ OOP Maxi-Force I luckily found.
+The rocket stands 50” tall and it is 2.63” in diameter, it was one of the few Pro Series kits and was ment for 3 “D” engines.
+Although it is a lot lighter than MPR/HPR rockets of a comparable size (LOC/Precision Hi-Tech H45 and PML Quasar share almost the same overall dimensions) the following technique only needs stiffer materials to suit every design.
 
 How it was…
 
@@ -18,11 +18,8 @@ The figure above is taken directly from the instructions:
 - item A is a very short coupler about 1/2" long that works as a retaining ring for D
 - item E is the shock cord
 
-Item D is the most important: in this case it consists of 3 2mm birch plywood pieces laminated together using epoxy; a srew-eye is then inserted in its center point and all the sub-assembly is finally slid into item B against A (in fact item D OD equals item B ID). The coupler C is then epoxied in place against D and another length of airframe is then joined to B.
-
-![](/images/antizipper2_exploded.jpg)
-
-![](/images/antizipper2_assembled.jpg)
+Item D is the most important: in this case it consists of 3 2mm birch plywood pieces laminated together using epoxy; a srew-eye is then inserted in its center point and all the sub-assembly is finally slid into item B against A (in fact item D OD equals item B ID).
+The coupler C is then epoxied in place against D and another length of airframe is then joined to B.
 
 … how it should be.
 

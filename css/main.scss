@@ -32,6 +32,15 @@ body {
 
 main {
   display: block;
+
+  hr {
+    margin: 2em 0;
+    width: 100%;
+  }
+
+  p + hr {
+    margin-top: 1em;
+  }
 }
 
 h1,

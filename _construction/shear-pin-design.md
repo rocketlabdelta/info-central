@@ -19,7 +19,7 @@ A shear pin is used by drilling a hole through the airframe into the nose cone. 
 
 Two types of materials are commonly used for shear pins: #2 nylon screws and square, 1.5mm Styrene rod. Both materials have been successfully used with cardboard, phenolic and fiberglass airframe.
 
-# 2 nylon screws can be hard to find. They are sold by McMaster-Carr
+\#2 nylon screws can be hard to find. They are sold by McMaster-Carr
 
 ([www.mcmaster.com](http://www.mcmaster.com)) and Small Parts ([www.small-parts.com](http://www.small-parts.com)). Styrene rod is widely available at many hobby shops.
 
