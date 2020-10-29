@@ -8,10 +8,16 @@ layout: page
 {%- include page_metadata.html -%}
 </main>
 
-<footer>
+<footer class="grid__full grid">
   <p class="separator" aria-hidden="true">* * *</p>
-
-  <h3 id="area-pages" class="area-pages">Area Pages</h3>
+  {%- assign area_path = "/design/" -%}
+  <h3 id="area-pages" class="area-pages grid__full">
+    {%- if page.url == area_path -%}
+    Area Pages
+    {%- else -%}
+    <a href="{{ area_path }}" class="area-pages__link">Design</a> Pages
+    {%- endif -%}
+  </h3>
   <nav role="navigation" class="nav nav--secondary">
     <ul class="nav__listing">
       {%- for page in site.design -%}

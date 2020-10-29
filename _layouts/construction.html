@@ -8,12 +8,18 @@ layout: page
 {%- include page_metadata.html -%}
 </main>
 
-<footer>
+<footer class="grid__full grid">
   <p class="separator" aria-hidden="true">* * *</p>
-
-  <h3 id="area-pages" class="area-pages">Area Pages</h3>
-  <nav role="navigation" class="nav nav--secondary">
-    <ul class="nav__listing">
+  {%- assign area_path = "/construction/" -%}
+  <h3 id="area-pages" class="area-pages grid__full">
+    {%- if page.url == area_path -%}
+    Area Pages
+    {%- else -%}
+    <a href="{{ area_path }}" class="area-pages__link">Construction</a> Pages
+    {%- endif -%}
+  </h3>
+  <nav role="navigation" class="nav nav--secondary grid__full">
+    <ul class="nav__listing grid__full grid">
       {%- for page in site.construction -%}
       <li class="nav__list">
         <a class="nav__link" href="{{ page.url }}">{{ page.title }}</a>
