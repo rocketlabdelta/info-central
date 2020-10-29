@@ -129,13 +129,12 @@ summary {
 }
 
 footer {
-  margin: 4em auto 10em auto;
   max-width: $navigation-width;
 }
 
 .related-links {
   font-family: $accent-typeface;
-  padding: 0 .8em;
+  margin-top: 2em;
 }
 
 .separator {
@@ -337,7 +336,8 @@ footer {
       margin-left: -.25em;
     }
 
-    .nav--primary .nav__list {
+    .nav--primary .nav__list,
+    .nav--secondary .nav__listing {
       margin-left: -.5em;
     }
   }
