@@ -10,7 +10,10 @@ The most wide-spread motors are the ones which make up the lower-powered model r
 When you get into mid and high power models, you see the overwhelming choice leaning toward composite-based motors, typically ammonium perchlorate, more commonly known as AP.
 There currently are several manufacturers of hybrid technology, which combines the use of inert materials while separate, but capable of controlled combustion when introduced to each other under the right circumstances.
 While they all rely on nitrous oxide as an oxidizer, you will se a variety of fuels, including plastic, ammonium perchlorate and paper.
-History The hobby of model rocketry saw its beginnings rooted in the development of pre-loaded rocket engines which didn’t require handling of chemicals by the fliers.
+
+## History
+
+The hobby of model rocketry saw its beginnings rooted in the development of pre-loaded rocket engines which didn’t require handling of chemicals by the fliers.
 These motors were mostly manufactured using black powder hydraulically compressed into spiral wound paper tubes.
 In the later part of the 1960’s, Irv Wait of Rocket Development Company introduced the world’s first composite model rocket motors using modern high energy propellant with a plastic binder called “EnerJets”.
 Later a subsidiary of Centuri Engineering Company, the EnerJets sold well until around 1974 when Centuri shut the production line down because of a variety of problems, from low profit margins to high manufacturing costs.
