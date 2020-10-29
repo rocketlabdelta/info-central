@@ -128,7 +128,7 @@ summary {
   display: list-item;
 }
 
-footer {
+.site-footer {
   max-width: $navigation-width;
 }
 
@@ -295,8 +295,10 @@ footer {
       grid-column: 1;
     }
 
-    & > .nav__list  {
+    & > .nav__list,
+    & >.site-footer {
       grid-column: auto;
+      max-width: 100%;
       width: auto;
     }
   }
@@ -311,6 +313,10 @@ footer {
 
       & > * {
         grid-column: 2 / 5;
+      }
+
+      & > .site-footer {
+        grid-column: 1 / 5;
       }
 
       @at-root #{&}__full {
