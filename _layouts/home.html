@@ -5,14 +5,14 @@ layout: default
   <a class="skip__link" href="#main">Skip to main content</a>
 </div>
 
-<header>
-  <a href="http://www.rocketryonline.com/home.html">
-    <img src="/images/ro_logo3.gif" alt="Rocketry Online" />
+<header class="homepage-banner">
+  <a href="http://www.rocketryonline.com/home.html" class="attribution-logo">
+    <img src="/images/ro_logo3.gif" alt="Rocketry Online"/>
   </a>
 
-  <img src="/images/infocentral.gif" alt="Info Central" />
-
-  <img src="/images/reference_logo.gif" alt="Reference Library" />
+  <div class="primary-logo">
+    <img src="/images/infocentral.gif" alt="Info Central"/>
+  </div>
 </header>
 
 {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -29,6 +29,6 @@ layout: default
   </ul>
 </nav>
 
-<main id="main" role="main">
+<main id="main" role="main" class="homepage">
 {{ content }}
 </main>
