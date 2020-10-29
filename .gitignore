@@ -1,1 +1,7 @@
-.bundle
+*.swp
+.byebug_history
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+_site
+vendor

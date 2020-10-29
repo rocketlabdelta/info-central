@@ -1,0 +1,24 @@
+---
+layout: page
+---
+{%- include page_header.html -%}
+
+<main id="main" role="main" class="grid__full grid">
+{{ content }}
+{%- include page_metadata.html -%}
+</main>
+
+<footer>
+  <p id="related-links" class="related-links">Related Links</p>
+  <nav role="navigation" class="nav nav--secondary">
+    <ul class="nav__listing">
+      {%- for page in site.motor_research -%}
+      <li class="nav__list">
+        <a class="nav__link" href="{{ page.url }}">{{ page.title }}</a>
+      </li>
+      {%- endfor -%}
+    </ul>
+  </nav>
+
+{%- include footer_content.html -%}
+</footer>

@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<div class="skip">
+  <a class="skip__link" href="#main">Skip to main content</a>
+</div>
+
+<header class="homepage-banner">
+  <a href="http://www.rocketryonline.com/home.html" class="attribution-logo">
+    <img src="/images/ro_logo3.gif" alt="Rocketry Online"/>
+  </a>
+
+  <div class="primary-logo">
+    <img src="/images/infocentral.gif" alt="Info Central"/>
+  </div>
+</header>
+
+{%- assign page_paths = site.header_pages | default: default_paths -%}
+<nav role="navigation" class="nav nav--primary">
+  <ul class="nav__listing">
+    {%- for path in page_paths -%}
+    {%- assign nav_page = site.pages | where: "path", path | first -%}
+    {%- if nav_page.title -%}
+    <li class="nav__list">
+      <a class="nav__link" href="{{ nav_page.url | absolute_url }}">{{ nav_page.title | escape }}</a>
+    </li>
+    {%- endif -%}
+    {%- endfor -%}
+  </ul>
+</nav>
+
+<main id="main" role="main" class="homepage">
+{{ content }}
+</main>
