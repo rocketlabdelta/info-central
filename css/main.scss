@@ -244,13 +244,13 @@ summary {
     box-sizing: border-box;
     display: inline-block;
     margin-right: .5em;
-    padding: .2em;
+    padding: .2em .2em .2em 0;
   }
 
   @at-root #{&}__link {
     display: block;
     outline: 1px solid transparent;
-    padding: .1em .3em;
+    padding: .1em .3em .1em 0;
     text-decoration: none;
 
     &:focus,
@@ -303,14 +303,22 @@ summary {
     }
   }
 
+  .nav--secondary .nav__listing {
+    grid-template-columns: 1fr 1fr;
+  }
+
+
   @media only screen and (min-width: 44em) {
     body {
       padding: 0 1em;
     }
 
-    .grid {
+    .grid,
+    .nav--secondary .nav__listing {
       grid-template-columns: 1fr 1fr 1fr;
+    }
 
+    .grid {
       & > * {
         grid-column: 2 / 5;
       }
@@ -344,17 +352,15 @@ summary {
     .logo__link {
       margin-left: -.25em;
     }
-
-    .nav--primary .nav__list,
-    .nav--secondary .nav__listing {
-      margin-left: -.5em;
-    }
   }
 
   @media only screen and (min-width: $content-width) {
-    .grid {
+    .grid,
+    .nav--secondary .nav__listing {
       grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
 
+    .grid {
       & > * {
         grid-column: 2 / 4;
       }
