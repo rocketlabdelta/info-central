@@ -172,7 +172,7 @@ This table lists delay grain height and delay spacer color for the RMS Delay kit
 |   54mm |   RDK 17   |   1-3/32      |   1.09375  |   1/8" + 1/4" |
 |   54mm |   RDK 18   |   1-7/32      |   1.21875  |   1/4"        |
 
-Note: RDK7 & RDK6 are listed in reverse order–this is correct.  
+Note: RDK7 & RDK6 are listed in reverse order--this is correct.  
 Note: All 54 mm spacers are white.  
 Note: The RDK 15 uses a slower burning composition than other 38mm delays, and the delay grain has a black stripe on the outside.
 

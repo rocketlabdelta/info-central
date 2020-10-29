@@ -15,7 +15,8 @@ The information below was taken from the Estes 1996 catalog.
 
 The nerve center of any model rocket launch is found In a safe, electrically controlled launch system.
 It puts you in control You decide when to proceed with countdown and liftoff or whether you need to put your launch on hold, The Electron Beam® features 5.18 meters (17 feet) of launch wire with micro-clips for easy igniter hookup, a safety key to complete the electrical circuit a continuity light to tell you that you have a complete circuit and a launch push button to commence your launch, The launch controller fits easily in your hand, has a snap-open battery compartment and self-adheslve decals.
-Requires four AA alkaline batteries–not Included, Use only with Estes igniters (EST 2301).
+Requires four AA alkaline batteries which are not included.
+Use only with Estes igniters (EST 2301).
 
 Specifications:
 

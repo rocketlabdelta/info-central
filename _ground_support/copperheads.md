@@ -236,7 +236,7 @@ When clustering, it is especially important to use an ignition booster (in the r
 Two identical consoles are used in this system.
 Each console normally controls a different group of launch pads.
 If a console fails, we simply plug its relay box into the other console temporarily, and keep on launching.
-There is no need to halt the launch while someone frantically troubleshoots the console and then repairs it–-if he can find the parts to do it with, out in the boonies, on a Sunday.
+There is no need to halt the launch while someone frantically troubleshoots the console and then repairs it--if he can find the parts to do it with, out in the boonies, on a Sunday.
 
 The meters are contained in meter modules, which plug into the consoles and the relay boxes.
 Any meter module can be plugged in to any console or relay box.

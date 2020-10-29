@@ -18,7 +18,7 @@ You will also need a small pair of needle nose pliers and a small pair of wire c
 
 Cut your nichrome about 1/2”-1” longer than normal.
 How much extra length depends on how much manual dexterity you have.
-The author can get by with 1/2” extra, but an extra inch is easier to work with, and the cost difference is about 0.25 cents–1/4th of one cent–per igniter.
+The author can get by with 1/2” extra, but an extra inch is easier to work with, and the cost difference is about 0.25 cents--1/4th of one cent--per igniter.
 
 ## Step 2
 {% picture path: '/images/igniters_2-stripped.jpg' %}
@@ -58,7 +58,7 @@ You should have about 1/2”-3/4” of nichrome left.
 Thread this short length back up the side hole in the wire wrap tool.
 Thread it in from the end of the tool, not the side slot as you did the first time.
 Carefully place the copper lead wire in the “post” hole of the wrap tool, being careful not to pull the nichrome out of the “wrap” hole.
-Be careful, it’s easy to get both wires in the same hole on the tool–that won’t work and will probably break your remaining nichrome off too short!
+Be careful, it’s easy to get both wires in the same hole on the tool--that won’t work and will probably break your remaining nichrome off too short!
 
 Give the wire-wrap tool 6-7 more turns until all the remaining nichrome is wrapped around the end conductor.
 

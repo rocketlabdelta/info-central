@@ -17,7 +17,7 @@ We explain super roc rocket glide recovery with the relationships of the Barrowm
 We predicted that any model whose GC falls ahead of the \\(B_{CP}\\) and behind the \\(C_{LA}\\) can glide backwards.
 We concluded that by forcing the model to experience a high angle of attack, we could trigger the transition to a backwards glide.
 
-We devised a model that uses a novel method of inducing this high angle of attack-an ejection port that causes a pitch maneuver–and tested the model with a variety of \\(B_{CP}\\)-\\(C_G\\)-\\(C_{LA}\\) relationships.
+We devised a model that uses a novel method of inducing this high angle of attack-an ejection port that causes a pitch maneuver--and tested the model with a variety of \\(B_{CP}\\)-\\(C_G\\)-\\(C_{LA}\\) relationships.
 
 We found that an ejection port was a reliable method for transitioning to glide.
 We found that the range of \\(B_{CP}\\)-\\(C_G\\)-\\(C_{LA}\\) relationships that results in a successful rear glide recovery is narrower than expected for models that do not spin on recovery.

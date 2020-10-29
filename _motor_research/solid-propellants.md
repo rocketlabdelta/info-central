@@ -4,7 +4,7 @@ archive_page: archive/research_solids.html
 contributors:
 - Terry McCreary
 ---
-All solid propellant contains at least two components-–an oxidizer and a fuel.
+All solid propellant contains at least two components--an oxidizer and a fuel.
 Chemically speaking, the oxidizer accepts electrons, the fuel supplies them.
 In double-base propellants, oxidizer and fuel are contained within the same molecule.
 A common double-base propellant is nitrocellulose (smokeless powder) plasticized with nitroglycerin.
@@ -21,7 +21,7 @@ Some amateurs work with potassium nitrate-sugar mixtures, sometimes referred to 
 The mixture is usually melted at a low temperature.
 Candy propellant has higher specific impulse than blackpowder, up to 130-140 seconds.
 Its burn rate is slower than that of blackpowder, but is still fast enough to be used in coreburning motors.
-Richard Nakka’s site http://members.aol.com/ricnakk/index.html gives a very comprehensive description of this and related propellants.
+[Richard Nakka’s site][1] gives a very comprehensive description of this and related propellants.
 
 Composite propellant is made using a rubbery binder-fuel (sometimes just called a binder) and a granular oxidizer.
 As the name implies, the binder-fuel holds the propellant together and also acts as a fuel.
@@ -33,7 +33,7 @@ A core may be formed before curing or drilled/cut after curing.
 
 Most rocketeers who experiment with solid propellant, work with composite propellant, as it is fairly simple to make and presents less danger from accidental ignition than does blackpowder.
 
-The most commonly-used oxidizer in composite propellant may be ammonium perchlorate, NH4ClO4, also known as AP (composite propellant is sometimes-–erroneously-–referred to as AP).
+The most commonly-used oxidizer in composite propellant may be ammonium perchlorate, NH4ClO4, also known as AP (composite propellant is sometimes--erroneously--referred to as AP).
 AP produces the highest practical specific impulse obtained for typical experimental propellant, 140-250 seconds or so.
 It is relatively simple to use, ignites easily, has a reasonable burn rate, does not require a burn rate catalyst or a thermic agent, and is nonhygroscopic.
 Many AP compositions burn well only under pressure, and the motor must be designed to take this into account.
@@ -55,3 +55,4 @@ Other oxidizers are used by the experimental rocketry community, but not as comm
 
 Submitted by: Terry McCreary
 
+[1]: https://web.archive.org/web/20071111205602/http://members.aol.com/ricnakk/

@@ -10,7 +10,7 @@ collection: electronics
 The new development in rocketry electronics is the rocket data-acquisition system.
 This system is used for measuring and storing analog and digital data gathered during the rocket flight as well as can be used to set off your pilot and main parachute charges.
 The R-DAS system pictured here was developed by [Advanced Electronic Devices](http://www.iae.nl/users/aed/rdas/rdas.htm) of the Netherlands, with the many lessons they learned from launching amateur rockets in mind.
-The whole system is built on a very compact double-sided printed circuit board (160 x 50 mm)-–small enough to fit in almost any high-power or amateur rocket.
+The whole system is built on a very compact double-sided printed circuit board (160 x 50 mm)--small enough to fit in almost any high-power or amateur rocket.
 The picture shows a prototype, which is currently undergoing final testing.
 
 The unit is configured Windows software, allowing control of either a G-switch and/or breaking wire arming, smart recovery (integrating accelerometer, barometric main parachute) and/or timed recovery, barometric altitude for main chute release, extra data-acquisition channels, and sampling rate.

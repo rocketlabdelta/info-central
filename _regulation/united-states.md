@@ -27,7 +27,7 @@ The typical sport rocketry enthusiast is not likely to run afoul of DOT regulati
 However, knowledge of the EX number system and the applicable DOT shipment regulations is necessary in order to properly ship motors using the Postal Service, UPS, or other carrier.
 Rocket motors must never be loaded onto a passenger carrying airliner, either in checked baggage or in carry on luggage.
 Many motors can be shipped using the Postal Service, provided that the package is properly marked and documented.
-If you have cause to send a motor back to a manufacturer, call and ask for instructions–many will send shipping materials to you that are designed to keep everyone compliant with the applicable regulations.
+If you have cause to send a motor back to a manufacturer, call and ask for instructions--many will send shipping materials to you that are designed to keep everyone compliant with the applicable regulations.
 
 ## The Bureau of Alcohol, Tobacco, and Firearms
 
@@ -70,9 +70,9 @@ So, before 12/98, these RMS kits were classified by DOT in a way that exempted t
 
 Then BATF changed the rules.
 First, they deleted the definition of Common Fireworks in the rules that became effective 12/98.
-Instead, they substituted “Consumer Fireworks” which sounded a lot like the earlier definition EXCEPT that it lists specific UN numbers–in this case UN0336 and UN0337–instead of the more general Class C explosives.
+Instead, they substituted “Consumer Fireworks” which sounded a lot like the earlier definition EXCEPT that it lists specific UN numbers--in this case UN0336 and UN0337--instead of the more general Class C explosives.
 Neither UN0336 and UN0337 are relevant to rocketry, and in fact are used for materials classified as 1.4G.
-This is important for some states that regulate materials by class instead of specific UN number–for example, you may have much more of a problem complying with local standards for 1.4G than you do for 1.4S, which is what Estes motors are.
+This is important for some states that regulate materials by class instead of specific UN number--for example, you may have much more of a problem complying with local standards for 1.4G than you do for 1.4S, which is what Estes motors are.
 Materials classified as 1.4G may be banned as fireworks!
 
 BATF also changed our key exemption clause, 27 CFR 55.141 (a) (7), to exempt only:

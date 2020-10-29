@@ -18,7 +18,7 @@ I peel the glassine off of my tubes before applying glass cloth; this eliminates
 This technique is especially handy for motor tubes.
 
 It’s easy to peel glassine; just start at the top of the tube with an exacto and peel up the triangular portion of one of the glassine spirals; get just the glassine, no cardboard, and peel away.
-You can peel a 4” tube in about 2 minutes – no sanding.
+You can peel a 4” tube in about 2 minutes--no sanding.
 If the tube looks furry, do not worry, the glass wrap will cover it up just fine.
 You will take a little cardboard with the glassine, but just enough to slightly obscure the glassine once it has been removed.
 

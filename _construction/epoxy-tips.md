@@ -134,7 +134,7 @@ Submitted by: [Darrell Mobley](mailto:ddmobley@rocketryonline.com)
    Since you’ll be mixing the raw epoxy first (see #1), just brush some on the parts before mixing in the filler.
 3. When multiple applications of epoxy are required (such as multiple layers of glass, or filling the weave of a glass layup), try to complete each application before the previous application achieves final cure.
    This will cause the second application to bond chemically, rather than mechanically to the first application, producing a stronger bond.
-4. To elaborate a bit on (2 & 3): Epoxy bonds to surfaces by a mechanical joint–it penetrates porous materials and “locks in” to the nooks and crannies.
+4. To elaborate a bit on (2 & 3): Epoxy bonds to surfaces by a mechanical joint--it penetrates porous materials and “locks in” to the nooks and crannies.
    Non-porous parts must be roughed up in order for the epoxy to have something to “grab on to”.
    However epoxy will bond chemically to itself, even a prior application, provided the prior application has not achieved full cure.
    This means that if you’re bonding with fillers, you don’t have to immediately follow the “wet out” step with the “bonding” step.

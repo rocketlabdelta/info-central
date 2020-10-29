@@ -22,7 +22,7 @@ You can see how the safety key opens the electrical circuit.
 Notice the continuity light.
 This is wired across the ignition switch.
 It was invented in 1961 by Vernon D. Estes.
-It is a small light bulb that lights up when you insert the safety key-–if you’ve hooked up the igniter and everything is ready.
+It is a small light bulb that lights up when you insert the safety key--if you’ve hooked up the igniter and everything is ready.
 The continuity light allows a small amount of current to pass through the circuit, but not enough to get the igniter warm.
 It is a “limiting electrical resistance.” When the ignition switch is pushed and closed, the light bulb is bypassed by the low-resistance circuit of the ignition switch, allowing the full battery current to flow through to the igniter.
 
@@ -46,7 +46,7 @@ Except for electrical ignition systems used exclusively for the Estes Solar Igni
 Don’t use doorbell wire; that’s too small and has too much resistance.
 Solid wire will break easily after being flexed a few times.
 Don’t use “loudspeaker wire” which is usually #22AWG insulated stranded pair.
-What you want is commonly available #18AWG-2 insulated stranded rubber- or plastic-covered lamp cord, commonly called “zip cord.”
+What you want is commonly available #18AWG-2 insulated stranded rubber--or plastic--covered lamp cord, commonly called “zip cord.”
 Or you can cut up a long extension cord made of the same double wire.
 Rubber-covered wire is preferred because rubber insulation flexes easily over a wide temperature range; plastic-covered zip cord gets stiff in the cold of wintertime flying.
 
@@ -97,7 +97,7 @@ You must check this visually when you’re hooking up the igniter.
 The continuity light will tell you by failing to light up that you have dirty clips, a dead battery, or more serious problems inside the launch controller.
 
 Here’s a quick tip that makes using Quest Tiger Tail igniters faster and easier to use.
-Use a piece of tape–-electrical or paper–-to insulate one jaw of each micro clip.
+Use a piece of tape--electrical or paper--to insulate one jaw of each micro clip.
 Or you can slip a short piece of shrinkable plastic tubing over one of the jaws instead of using tape.
 When attaching these micro clips to the foil of the Tiger Tail, place the insulated jaw of one clip on one side of the foil and the insulated jaw of the other clip on the other side of the foil.
 You don’t have to use the Tiger Tail tape on the foil lead if you do this.
