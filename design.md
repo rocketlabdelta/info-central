@@ -40,7 +40,7 @@ This includes metal bodied rockets, liquid or hybrid fueled rockets, and rockets
 
 ### Experimental Rockets
 Experimental rockets is an ambiguous term.
-In the early 1980"s it was used to describe rockets that exceeded the model rocket limit at that time (1 pound total liftoff weight and no motor above F power).
+In the early 1980s it was used to describe rockets that exceeded the model rocket limit at that time (1 pound total liftoff weight and no motor above F power).
 More recently, it has been used by the Tripoli Rocketry Association to describe the class of rockets that use pre-manufactured solid or hybrid rocket motors but that do not qualify as high power rockets.
 This includes metal bodied rockets and those with more than 80,000NS of total power.
 
