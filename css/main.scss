@@ -17,7 +17,9 @@ $base-font-size:      16px !default;
 $base-line-height:    1.375 !default; // 22px
 $content-width:       80em;
 $navigation-width:    60em;
+$homepage-width:      50em;
 $theme-overlay-color: #fff;
+$theme-accent-color:  #fed032;
 
 /* Partial reset derived from normalize.css */
 
@@ -272,6 +274,15 @@ p + .metadata .separator {
     }
   }
 
+  @at-root #{&}--homepage {
+    .nav__list {
+      letter-spacing: .05em;
+      text-transform: uppercase;
+      width: 11em;
+      word-spacing: .15em;
+    }
+  }
+
   @at-root #{&}--primary {
     .nav__listing {
       max-width: $content-width;
@@ -363,7 +374,6 @@ p + .metadata .separator {
     grid-template-columns: 1fr 1fr;
   }
 
-
   @media only screen and (min-width: 44em) {
     body {
       padding: 0 1em;
@@ -443,16 +453,64 @@ p + .metadata .separator {
 
 /* Homepage Theme */
 
-.homepage-banner {
+.homepage {
+  padding: 0;
+  position: relative;
+
+  @at-root #{&}__banner {
+    background-color: $theme-accent-color;
+    margin-bottom: 1em;
+    padding: 2em;
+  }
+
+  @at-root #{&}__nav {
+    margin-bottom: 1em;
+  }
+
+  @at-root #{&}__content {
+    padding: 0 .5em;
+    margin-bottom: 1em;
+  }
+
+  @at-root #{&}__footer {
+    margin-bottom: 1em;
+    text-align: center;
+  }
 }
-.attribution-logo {
-}
+
 .primary-logo {
-  margin: 2em auto;
+  margin: 0 auto;
   max-width: 20em;
 
   img {
     width: 100%;
+  }
+}
+
+@supports (display: grid) {
+  .homepage__content {
+    display: grid;
+    gap: .2em 1.2em;
+    grid-gap: .2em 1em;
+    grid-template-columns: 1fr;
+    max-width: $homepage-width;
+    margin-left: auto;
+    margin-right: auto;
+
+    & > * {
+      grid-column: 1;
+    }
+  }
+
+  @media only screen and (min-width: 33em) {
+    .homepage__content {
+      padding-top: 2em;
+      grid-template-columns: 1fr 1fr 1fr;
+
+      .homepage__main {
+        grid-column: 2 / 4;
+      }
+    }
   }
 }
 

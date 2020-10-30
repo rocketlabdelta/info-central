@@ -1,34 +1,41 @@
----
-layout: default
----
-<div class="skip">
-  <a class="skip__link" href="#main">Skip to main content</a>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+  {%- include head.html -%}
+  <body class="homepage">
+    <div class="skip">
+      <a class="skip__link" href="#main">Skip to main content</a>
+    </div>
 
-<header class="homepage-banner">
-  <a href="http://www.rocketryonline.com/home.html" class="attribution-logo">
-    <img src="/images/ro_logo3.gif" alt="Rocketry Online"/>
-  </a>
+    <header class="homepage__banner">
+      <div class="primary-logo">
+        <img src="/images/infocentral.gif" alt="Info Central"/>
+      </div>
+    </header>
+    <div class="homepage__content">
+      {%- assign page_paths = site.header_pages | default: default_paths -%}
+      <nav role="navigation" class="nav nav--homepage homepage__nav">
+        <ul class="nav__listing">
+          {%- for path in page_paths -%}
+          {%- assign nav_page = site.pages | where: "path", path | first -%}
+          {%- if nav_page.title -%}
+          <li class="nav__list">
+            <a class="nav__item nav__item--focusable" href="{{ nav_page.url | absolute_url }}">{{ nav_page.title | escape }}</a>
+          </li>
+          {%- endif -%}
+          {%- endfor -%}
+        </ul>
+      </nav>
 
-  <div class="primary-logo">
-    <img src="/images/infocentral.gif" alt="Info Central"/>
-  </div>
-</header>
+      <main id="main" role="main" class="homepage__main">
+      {{ content }}
+      </main>
+    </div>
 
-{%- assign page_paths = site.header_pages | default: default_paths -%}
-<nav role="navigation" class="nav nav--primary">
-  <ul class="nav__listing">
-    {%- for path in page_paths -%}
-    {%- assign nav_page = site.pages | where: "path", path | first -%}
-    {%- if nav_page.title -%}
-    <li class="nav__list">
-      <a class="nav__item nav__item--focusable" href="{{ nav_page.url | absolute_url }}">{{ nav_page.title | escape }}</a>
-    </li>
-    {%- endif -%}
-    {%- endfor -%}
-  </ul>
-</nav>
-
-<main id="main" role="main" class="homepage">
-{{ content }}
-</main>
+    <footer class="homepage__footer">
+      <p class="separator" aria-hidden="true">* * *</p>
+      <a href="http://www.rocketryonline.com/home.html" class="attribution-logo">
+        <img src="/images/ro_logo3.gif" alt="Rocketry Online"/>
+      </a>
+    </footer>
+  </body>
+</html>
