@@ -1,8 +1,13 @@
 <div class="metadata">
-  {%- unless page.archive_page == blank -%}
-  <p class="metadata__archive"><i>
-    This page was origionally published on info-central.com which shut down in 2009.
-    It has been edited to fit your screen; <a href="{{ page.archive_page | absolute_url }}">see the origional version</a>.
-  </i></p>
-  {%- endunless -%}
+  <p class="separator" aria-hidden="true">* * *</p>
+  {%- if page.archive_page == blank -%}
+  <p class="metadata__updated">
+    This pages was last updated on {{ page.last_modified_at | date: '%Y-%m-%d' }}.
+  </p>
+  {%- else -%}
+  <p class="metadata__archive">
+    This page was first published on info-central.com which shut down in 2009.
+    It was last updated on {{ page.last_modified_at | date: '%Y-%m-%d' }} and has been formatted to fit your screen; <a href="{{ page.archive_page | absolute_url }}">see the origional version</a>.
+  </p>
+  {%- endif -%}
 </div>

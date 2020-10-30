@@ -25,6 +25,7 @@ url: 'https://info-central.rocketlabdelta.com' # the base hostname & protocol fo
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-last-modified-at
   - jekyll-redirect-from
 
 permalink: /:category/:title/

@@ -9,13 +9,12 @@ layout: page
 </main>
 
 <footer class="site-footer">
-  <p class="separator" aria-hidden="true">* * *</p>
   {%- assign area_path = "/resources/" -%}
   <h3 id="area-pages" class="area-pages grid__full">
     {%- if page.url == area_path -%}
     Area Pages
     {%- else -%}
-    <a href="{{ area_path }}" class="area-pages__link">Resources</a>
+    Pages in <a href="{{ area_path }}" class="area-pages__link">Resources</a>
     {%- endif -%}
   </h3>
   <nav role="navigation" class="nav nav--secondary">

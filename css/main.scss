@@ -146,6 +146,21 @@ summary {
 }
 
 /* Site Components */
+.metadata {
+  margin-bottom: 1em;
+
+  @at-root #{&}__archive {
+    font-style: italic;
+  }
+
+  @at-root #{&}__updated {
+    font-style: italic;
+  }
+}
+
+p + .metadata .separator {
+  margin-top: .5em;
+}
 
 .skip {
   position: relative;
