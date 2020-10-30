@@ -189,6 +189,10 @@ p + .metadata .separator {
   }
 }
 
+.banner {
+  position: relative;
+}
+
 .logo {
   font-family: $accent-typeface;
   font-size: 2em;
@@ -199,6 +203,84 @@ p + .metadata .separator {
     display: inline-block;
     padding: .2em .2em .2em 0;
     text-decoration: none;
+  }
+}
+
+.dropdown {
+  @at-root #{&}__toggle {
+    font-family: $accent-typeface;
+    letter-spacing: .05em;
+    outline: 1px solid transparent;
+    text-transform: uppercase;
+
+    &:focus {
+      outline: 1px solid transparent;
+    }
+
+    &:hover {
+      outline: 1px solid #CCC;
+    }
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+  }
+}
+
+@media only screen and (min-width: 16em) {
+  .dropdown--site-menu .dropdown__toggle {
+    position: absolute;
+    right: 0;
+    top: 1em;
+  }
+}
+
+.button {
+  border: 2px solid #CCC;
+  display: inline-block;
+  padding: .2em .4em;
+}
+
+.nav {
+  font-family: $accent-typeface;
+
+  @at-root #{&}__listing {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  @at-root #{&}__list {
+    box-sizing: border-box;
+    display: inline-block;
+    margin-right: .5em;
+    padding: .2em .2em .2em 0;
+  }
+
+  @at-root #{&}__link {
+    display: block;
+    outline: 1px solid transparent;
+    padding: .1em .3em .1em 0;
+    text-decoration: none;
+
+    &:focus,
+    &:hover {
+      outline: 1px solid #CCC;
+    }
+  }
+
+  @at-root #{&}--primary {
+    .nav__listing {
+      max-width: $content-width;
+    }
+
+    .nav__list {
+      letter-spacing: .05em;
+      text-transform: uppercase;
+      width: 12em;
+      word-spacing: .15em;
+    }
   }
 }
 
@@ -241,49 +323,6 @@ p + .metadata .separator {
     }
     .picture__caption {
       text-align: center;
-    }
-  }
-}
-
-.nav {
-  font-family: $accent-typeface;
-
-  @at-root #{&}__listing {
-    display: inline-block;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-
-  @at-root #{&}__list {
-    box-sizing: border-box;
-    display: inline-block;
-    margin-right: .5em;
-    padding: .2em .2em .2em 0;
-  }
-
-  @at-root #{&}__link {
-    display: block;
-    outline: 1px solid transparent;
-    padding: .1em .3em .1em 0;
-    text-decoration: none;
-
-    &:focus,
-    &:hover {
-      outline: 1px solid #CCC;
-    }
-  }
-
-  @at-root #{&}--primary {
-    .nav__listing {
-      max-width: $content-width;
-    }
-
-    .nav__list {
-      letter-spacing: .05em;
-      text-transform: uppercase;
-      width: 12em;
-      word-spacing: .15em;
     }
   }
 }

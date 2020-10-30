@@ -1,13 +1,16 @@
 {%- assign page_paths = site.header_pages | default: default_paths -%}
-<nav role="navigation" class="nav nav--primary">
-  <ul class="nav__listing grid">
-    {%- for path in page_paths -%}
-    {%- assign nav_page = site.pages | where: "path", path | first -%}
-    {%- if nav_page.title -%}
-    <li class="nav__list">
-      <a class="nav__link" href="{{ nav_page.url | absolute_url }}">{{ nav_page.title | escape }}</a>
-    </li>
-    {%- endif -%}
-    {%- endfor -%}
-  </ul>
-</nav>
+<details class="dropdown dropdown--site-menu">
+  <summary class="button dropdown__toggle">Menu</summary>
+  <nav role="navigation" class="nav nav--primary">
+    <ul class="nav__listing grid">
+      {%- for path in page_paths -%}
+      {%- assign nav_page = site.pages | where: "path", path | first -%}
+      {%- if nav_page.title -%}
+      <li class="nav__list">
+        <a class="nav__link" href="{{ nav_page.url | absolute_url }}">{{ nav_page.title | escape }}</a>
+      </li>
+      {%- endif -%}
+      {%- endfor -%}
+    </ul>
+  </nav>
+</details>
