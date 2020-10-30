@@ -258,12 +258,14 @@ p + .metadata .separator {
     padding: .2em .2em .2em 0;
   }
 
-  @at-root #{&}__link {
+  @at-root #{&}__item {
     display: block;
     outline: 1px solid transparent;
     padding: .1em .3em .1em 0;
     text-decoration: none;
+  }
 
+  @at-root #{&}__item--focusable {
     &:focus,
     &:hover {
       outline: 1px solid #CCC;
