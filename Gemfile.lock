@@ -88,10 +88,10 @@ DEPENDENCIES
   jekyll-redirect-from
   reverse_markdown
   sanitize
-  tzinfo (~> 1.2)
-  tzinfo-data
   wayback_machine_downloader
-  wdm (~> 0.1.1)
+
+RUBY VERSION
+   ruby 2.7.1p83
 
 BUNDLED WITH
    2.1.4
