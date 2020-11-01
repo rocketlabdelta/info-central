@@ -11,15 +11,18 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
-$accent-typeface:    'Red Hat Display', 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', sans-serif !default;
-$base-typeface:       Georgia, serif;
-$base-font-size:      16px !default;
-$base-line-height:    1.375 !default; // 22px
-$content-width:       80em;
-$navigation-width:    60em;
-$homepage-width:      50em;
-$theme-overlay-color: #fff;
-$theme-accent-color:  #fed032;
+$accent-typeface:          'Red Hat Display', 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', sans-serif !default;
+$base-typeface:             Georgia, serif;
+$base-font-size:            16px !default;
+$base-line-height:          1.375 !default; // 22px
+
+$content-width:             80em;
+$navigation-width:          60em;
+$homepage-width:            50em;
+
+$theme-overlay-color:       #fff;
+$theme-accent-color:        #fed032;
+$theme-complementary-color: #ce0000;
 
 /* Partial reset derived from normalize.css */
 
@@ -166,7 +169,9 @@ p + .metadata .separator {
 }
 
 .skip {
-  position: relative;
+  position: absolute;
+  top: 0;
+  left: 0;
 
   @at-root #{&}__link {
     border: 0;
@@ -197,19 +202,33 @@ p + .metadata .separator {
 }
 
 .logo {
+  background-color: $theme-accent-color;
+  border-color: $theme-complementary-color;
+  border-style: solid;
+  border-width: 0 2px 2px;
+  box-sizing: border-box;
   font-family: $accent-typeface;
-  font-size: 2em;
-  line-height: 1.8;
   margin: 0;
 
   @at-root #{&}__link {
-    display: inline-block;
-    padding: .2em .2em .2em 0;
+    display: block;
+    padding: .5em .2em .3em;
     text-decoration: none;
+    text-align: center;
   }
 }
 
 .dropdown {
+  border-color: $theme-complementary-color;
+  border-style: solid;
+  border-width: 0;
+  margin-top: 2px;
+  text-align: right;
+
+  &[open] {
+    border-width: 0 0 2px;
+  }
+
   @at-root #{&}__toggle {
     font-family: $accent-typeface;
     letter-spacing: .05em;
@@ -221,7 +240,7 @@ p + .metadata .separator {
     }
 
     &:hover {
-      outline: 1px solid #CCC;
+      outline: 1px solid $theme-overlay-color;
     }
 
     &::-webkit-details-marker {
@@ -230,16 +249,27 @@ p + .metadata .separator {
   }
 }
 
-@media only screen and (min-width: 16em) {
+@media only screen and (min-width: 20em) {
+  .dropdown[open] {
+    padding: .5em 0;
+  }
+
+  .logo__link {
+    padding: 1em .7em;
+    text-align: left;
+  }
+
   .dropdown--site-menu .dropdown__toggle {
     position: absolute;
-    right: 0;
+    right: 1em;
     top: 1em;
   }
 }
 
 .button {
-  border: 2px solid #CCC;
+  background-color: $theme-overlay-color;
+  border: 2px solid $theme-complementary-color;
+  color: $theme-complementary-color;
   display: inline-block;
   padding: .2em .4em;
 }
@@ -285,6 +315,8 @@ p + .metadata .separator {
   }
 
   @at-root #{&}--primary {
+    text-align: left;
+
     .nav__listing {
       max-width: $content-width;
     }
@@ -452,7 +484,7 @@ p + .metadata .separator {
   }
 }
 
-/* Homepage Theme */
+/* Hgeomepage Theme */
 
 .homepage {
   padding: 0;
@@ -462,6 +494,7 @@ p + .metadata .separator {
     background-color: $theme-accent-color;
     margin-bottom: 1em;
     padding: 2em;
+    border-bottom: 2px solid $theme-complementary-color;
   }
 
   @at-root #{&}__nav {
@@ -474,18 +507,45 @@ p + .metadata .separator {
   }
 
   @at-root #{&}__footer {
-    margin-bottom: 1em;
+    border-top: 2px solid $theme-complementary-color;
+    margin: 1em auto 2em;
+    max-width: $homepage-width;
+    padding-top: 2em;
     text-align: center;
   }
 }
 
-.primary-logo {
+.logo--splash {
   margin: 0 auto;
   max-width: 20em;
 
   img {
     width: 100%;
   }
+}
+
+.attribution {
+  display: block;
+  font-family: $accent-typeface;
+  letter-spacing: .05em;
+  margin-bottom: 1.5em;
+  text-align: center;
+  text-transform: uppercase;
+  word-spacing: .15em;
+}
+
+.attribution-logo {
+  display: block;
+  margin: 0 auto 1em;
+  width: 6em;
+
+  img {
+    width: 100%;
+  }
+}
+
+.logo--rol img {
+  padding-bottom: .7em;
 }
 
 @supports (display: grid) {
@@ -512,14 +572,40 @@ p + .metadata .separator {
         grid-column: 2 / 4;
       }
     }
+
+    .homepage__footer {
+      margin-top: 2em;
+    }
   }
 }
 
 /* Responsive Breakpoints */
+@media only screen and (min-width: 15em) {
+  .attribution-logo {
+    display: inline-block;
+    margin: 0;
+  }
+
+  .logo--rol {
+    margin-right: 2em;
+  }
+}
 
 @media only screen and (min-width: 60em) {
   html {
     font-size: 22px;
     line-height: 1.364; // 30px
+  }
+
+  header > h1 {
+    margin-top: 1.5em;
+  }
+
+  .logo__link img {
+    margin-top: .3em;
+  }
+
+  .attribution-logo {
+    font-size: 1.3em;
   }
 }

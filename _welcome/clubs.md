@@ -4,7 +4,7 @@ archive_page: archive/welcome_clubs.html
 contributors:
 - John Coker
 ---
-From the [Regegulation section](/regulation), you can see that it takes a lot of work to set up a launch.
+From the [REGULATION area][1], you can see that it takes a lot of work to set up a launch.
 This task is generally undertaken by a rocket club for periodic organized launches.
 Clubs are basically mandatory for all but model rockets, but even model rocketeers benefit from club membership.
 You should make an effort to find a local club in your area.
@@ -23,3 +23,5 @@ Probably the best reason to join a club is the chance to learn from more experie
 The Internet is great for gathering information, but nothing beats seeing other’s rockets and showing them yours for gaining knowledge.
 
 Submitted by: John Coker
+
+[1]: {{ "/regulation/" | absolute_url }}
