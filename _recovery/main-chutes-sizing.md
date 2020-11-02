@@ -1,6 +1,7 @@
 ---
 title: Main Chutes Sizing
 archive_page: archive/recovery_psize.html
+mathjax: true
 contributors:
 - Dean A. Roth
 ---

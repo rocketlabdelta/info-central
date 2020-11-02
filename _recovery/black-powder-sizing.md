@@ -1,6 +1,7 @@
 ---
 title: Black Powder Sizing
 archive_page: archive/recovery_powder.html
+mathjax: true
 contributors:
 - Dean A. Roth
 - Duncan McDonald

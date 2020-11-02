@@ -1,6 +1,7 @@
 ---
 title: Deployment Bags
 archive_page: archive/recovery_deploybag.html
+mathjax: true
 contributors:
 - Dean A. Roth
 ---

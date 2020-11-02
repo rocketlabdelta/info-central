@@ -1,6 +1,7 @@
 ---
 title: Backwards Sliding
 archive_page: archive/recovery_horizspin.html
+mathjax: true
 contributors:
 - Peter Alway
 ---

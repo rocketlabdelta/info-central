@@ -1,6 +1,7 @@
 ---
 title: Motor Selection
 archive_page: archive/propulsion_selection.html
+mathjax: true
 contributors:
 - Dean A. Roth
 ---

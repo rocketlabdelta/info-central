@@ -1,6 +1,7 @@
 ---
 title: Drogue Sizing
 archive_page: archive/recovery_drogue.html
+mathjax: true
 contributors:
 - Dean A. Roth
 ---

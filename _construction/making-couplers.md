@@ -2,6 +2,7 @@
 title: Making Couplers
 archive_page: archive/construction_couplers.html
 collection: construction
+mathjax: true
 contributors:
 - Jon Simmons
 - Dan King

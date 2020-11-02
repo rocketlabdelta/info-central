@@ -1,6 +1,7 @@
 ---
 title: X-Form Descent Rate
 archive_page: archive/recovery_xformdescent.html
+mathjax: true
 contributors:
 - Steve Gerber
 ---

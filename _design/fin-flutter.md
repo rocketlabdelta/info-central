@@ -2,6 +2,7 @@
 title: Fin Flutter
 archive_page: archive/design_finflutter.html
 collection: design
+mathjax: true
 contributors:
 - Duncan McDonald
 ---
