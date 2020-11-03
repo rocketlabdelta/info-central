@@ -216,6 +216,10 @@ p + .metadata .separator {
     text-decoration: none;
     text-align: center;
   }
+
+  img {
+    filter: drop-shadow(2px 2px 2px #fff);
+  }
 }
 
 .dropdown {
