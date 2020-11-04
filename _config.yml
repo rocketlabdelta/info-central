@@ -281,10 +281,14 @@ defaults:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - .sass-cache/
   - .jekyll-cache/
+  - .sass-cache/
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
   - Gemfile
   - Gemfile.lock
+  - README.md
+  - TODO.md
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
