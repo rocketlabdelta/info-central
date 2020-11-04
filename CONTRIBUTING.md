@@ -105,6 +105,24 @@ For INFOcentral content:
   Responsive images are complicated this [liquid tag][19] helps take care of it in the background.
 
 
+### Equation Support
+
+INFOcentral uses [MathJax][20] for math & equation support.
+MathJax adds a lot of JavaScript to the page so it is turned off by default.
+Each page that requires equation support needs to add `mathjax: true` to the [YAML front matter][21].
+MathJax accepts several forms of input but INFOcentral is only set up for [TeX/LaTeX][22].
+
+Because the LaTeX strings are _inside_ Markdown it needs to be escaped.
+That means inline syntax looks like:
+```
+\\(C_p\\)
+```
+
+And block syntax looks like:
+```
+\\[Circumference = 2\pi r\\]
+```
+
 <!-- These footnotes are manually encoded because there is no footnote support in GitHub Flavored Markdown -->
 
 <div class="footnotes" role="doc-endnotes">
@@ -155,3 +173,5 @@ For INFOcentral content:
 [18]: https://github.com/rocketlabdelta/info-central/blob/main/_plugins/picture_tag.rb
 [19]: https://shopify.github.io/liquid/basics/introduction/
 [20]: https://www.mathjax.org/
+[21]: https://jekyllrb.com/docs/front-matter/
+[22]: http://docs.mathjax.org/en/latest/input/tex/
