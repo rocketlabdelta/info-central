@@ -2,9 +2,15 @@
 title: Contributing
 archive_page: archive/contribute.html
 ---
-This resource is growing daily, thanks to contributions from people like yourself. If you would like to contribute documents or data for inclusion here, please feel free to submit your contribution[via email](mailto:john@rocketryonline.com). If you do not have a digital camera, you can also mail photos to the editor to have them scanned. If you have additional information for an existing article, send it in as well.
+This resource is growing daily, thanks to contributions from people like yourself.
+If you would like to contribute documents or data for inclusion here, please feel free to submit your contribution[via email](mailto:john@rocketryonline.com).
+If you do not have a digital camera, you can also mail photos to the editor to have them scanned.
+If you have additional information for an existing article, send it in as well.
 
-Below are the areas most in need of contributions. If you know anything about these subjects, please consider contributing an article to INFOcentral. Also, if there is some other area you think should be documented, please make a contribution. See below for prizes to be awarded.
+Below are the areas most in need of contributions.
+If you know anything about these subjects, please consider contributing an article to INFOcentral.
+Also, if there is some other area you think should be documented, please make a contribution.
+See below for prizes to be awarded.
 
 - ROCKETRY DESIGN
   - Materials What materials are appropriate for each power level
@@ -22,7 +28,9 @@ Below are the areas most in need of contributions. If you know anything about th
 
 Prizes!
 
-In the hope of stimulating more contributions to INFOcentral, we offer periodic prizes. The next prize will be a $200 gift certificate at Magnum. A drawing will be held at the end of November 2001 from all the articles published Just in time for Christmas!
+In the hope of stimulating more contributions to INFOcentral, we offer periodic prizes.
+The next prize will be a $200 gift certificate at Magnum.
+A drawing will be held at the end of November 2001 from all the articles published Just in time for Christmas!
 
 [![](/images/billkirbysml.jpg)](/images/billkirby.jpg)On September 20, 1999 Bill Kirby won his choice of a Dynacom Black Widow kit or a set of AeroTech 54mm hardware (Dr. Rocket RMS 54/852-1706 System). Bill chose the 54mm set which you can see in the picture on the left (click on it for a larger picture). Each prize is worth almost $200!
 
