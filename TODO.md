@@ -23,3 +23,6 @@
 - [ ] Site search
 - [ ] Sitemap
 - [ ] Adjust robots, noindex, and rel canonical links to favor updated content
+- [ ] Add a lightbox ([baguetteBox.js][1]?) for better image interactions on mobile
+
+[1]: https://github.com/feimosi/baguetteBox.js
