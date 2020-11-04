@@ -105,7 +105,7 @@ For INFOcentral content:
   Responsive images are complicated this [liquid tag][19] helps take care of it in the background.
 
 
-# These footnotes are manually encoded because there is no footnote support in GitHub Flavored Markdown
+<!-- These footnotes are manually encoded because there is no footnote support in GitHub Flavored Markdown -->
 
 <div class="footnotes" role="doc-endnotes">
 <ol>
@@ -144,7 +144,7 @@ For INFOcentral content:
 [7]:  https://www.youtube.com/watch?v=SWYqp7iY_Tc
 [8]:  https://www.netlify.com/
 [9]:  http://www.ruby-lang.org/en/
-[10]:  https://github.com/rocketlabdelta/info-central/blob/main/.ruby-version
+[10]: https://github.com/rocketlabdelta/info-central/blob/main/.ruby-version
 [11]: http://www.ruby-lang.org/en/documentation/installation/
 [12]: https://github.com/rbenv/rbenv
 [13]: https://github.com/postmodern/ruby-install
@@ -154,3 +154,4 @@ For INFOcentral content:
 [17]: https://guides.github.com/features/mastering-markdown/
 [18]: https://github.com/rocketlabdelta/info-central/blob/main/_plugins/picture_tag.rb
 [19]: https://shopify.github.io/liquid/basics/introduction/
+[20]: https://www.mathjax.org/
