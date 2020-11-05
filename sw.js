@@ -1,8 +1,11 @@
+---
+layout: null
+---
 // Source: https://adactio.com/serviceworker.js
 
 'use strict';
 
-const version = '20201104';
+const version = '{% css_version %}';
 const staticCacheName = version + 'static';
 const pagesCacheName = 'pages';
 const imagesCacheName = 'images';
@@ -21,19 +24,13 @@ function updateStaticCache() {
     .then( staticCache => {
       // These items won't block the installation of the Service Worker
       staticCache.addAll([
-        '/skins/default/images/clone.jpg',
-        '/skins/default/images/bandstand.jpg',
-        '/skins/default/images/scaffold.jpg',
-        '/skins/default/images/tokyo.jpg',
-        '/skins/default/images/stage.jpg',
-        '/skins/default/images/florence.jpg',
-        '/skins/default/images/curved.jpg',
-        '/includes/css/print.css',
+        '/svg/info-central.svg',
+        '/svg/rocket-lab-delta.svg',
+        '/svg/rocketry-online.svg',
       ]);
       // These items must be cached for the Service Worker to complete installation
       return staticCache.addAll([
-        '/includes/javascript/global.js?' + version,
-        '/skins/default/global.css?' + version,
+        '/css/main.css?' + version,
         '/offline'
       ]);
     });
