@@ -4,8 +4,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
   <meta name="theme-color" content="#fed032" />
-  <title>{{ page.title }}</title>{%- if page.description -%}
-  <meta name="description" content="{{ page.description }}" />{%- endif -%}{%- if page.contubitors -%}
+  <title>{{ page.title }}</title>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}" />{%- else -%}
+  <meta name="description" content="{{ page.content | markdownify | strip_html | truncate: 40 }}" />{%- endif -%}{%- if page.contubitors -%}
   <meta name="author" content="{{ page.contributors | join: ',' }}" />{%- endif -%}
   <link rel="preload" as="font" type="font/woff2" href="{{ "/fonts/red-hat-display.woff2" | absolute_url }}" crossorigin>
   <link rel="alternate" type="application/atom+xml" title="Info Central" href="/feed.xml" />

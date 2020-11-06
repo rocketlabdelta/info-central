@@ -6,7 +6,7 @@
   - [ ] Add LICENSE
   - [ ] Add Licensing information to pages
   - [x] Add code of conduct
-- [ ] PWA
+- [x] PWA
   - [x] Add service worker
   - [x] Add manifest
   - [x] Add Apple Touch Icon

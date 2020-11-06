@@ -4,7 +4,7 @@ archive_page: archive/design.html
 collection: design
 layout: design
 ---
-Introduction Before we can explore proper rocketry design and its application for our use, it is important that we understand the terms and regulatory considerations that apply to hobby rocketry.
+Before we can explore proper rocketry design and its application for our use, it is important that we understand the terms and regulatory considerations that apply to hobby rocketry.
 For example, what exactly is a "model rocket" versus a "high power" rocket?
 And, what about "amateur rockets"?
 This section answers these questions with verbiage taken from the [R.M.R FAQ](http://www.ninfinger.org/~sven/rockets/rmrfaq.toc.html).

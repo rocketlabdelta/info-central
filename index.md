@@ -2,6 +2,7 @@
 title: Info Central
 archive_page: archive/index.html
 layout: home
+description: "A community-maintained hobby rocketry knowledge base"
 ---
 
 Hobby Rocketry’s Reference Resource!
