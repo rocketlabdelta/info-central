@@ -10,13 +10,13 @@ layout: page
 
 <footer class="site-footer">
   {%- assign area_path = "/recovery/" -%}
-  <h3 id="area-pages" class="area-pages grid__full">
+  <small id="area-pages" class="area-pages grid__full">
     {%- if page.url == area_path -%}
     Area Pages
     {%- else -%}
     Pages in <a href="{{ area_path }}" class="area-pages__link">Recovery</a>
     {%- endif -%}
-  </h3>
+  </small>
   <nav role="navigation" class="nav nav--secondary">
     <ul class="nav__listing grid__full grid">
       {%- for related_page in site.recovery -%}

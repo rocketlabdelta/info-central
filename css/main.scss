@@ -143,12 +143,20 @@ summary {
   text-align: center;
 }
 
-.area-pages {
-  margin-top: 0;
 
-  @at-root #{&}__link {
-    text-decoration: none;
-  }
+.area-pages,
+.attribution {
+  display: block;
+  font-family: $accent-typeface;
+  font-weight: normal;
+  letter-spacing: .05em;
+  margin-bottom: .5em;
+  text-transform: uppercase;
+  word-spacing: .15em;
+}
+
+.area-pages__link {
+  text-decoration: none;
 }
 
 /* Site Components */
@@ -529,13 +537,8 @@ p + .metadata .separator {
 }
 
 .attribution {
-  display: block;
-  font-family: $accent-typeface;
-  letter-spacing: .05em;
   margin-bottom: 1.5em;
   text-align: center;
-  text-transform: uppercase;
-  word-spacing: .15em;
 }
 
 .attribution-logo {
