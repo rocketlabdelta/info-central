@@ -396,27 +396,29 @@ p + .metadata .separator {
 }
 
 @supports (display: grid) {
-  .grid {
-    display: grid;
-    gap: .2em 1.2em;
-    grid-gap: .2em 1em;
-    grid-template-columns: 1fr;
-    max-width: $content-width;
+  @media only screen {
+    .grid {
+      display: grid;
+      gap: .2em 1.2em;
+      grid-gap: .2em 1em;
+      grid-template-columns: 1fr;
+      max-width: $content-width;
 
-    & > * {
-      grid-column: 1;
+      & > * {
+        grid-column: 1;
+      }
+
+      & > .nav__list,
+      & >.site-footer {
+        grid-column: auto;
+        max-width: 100%;
+        width: auto;
+      }
     }
 
-    & > .nav__list,
-    & >.site-footer {
-      grid-column: auto;
-      max-width: 100%;
-      width: auto;
+    .nav--secondary .nav__listing {
+      grid-template-columns: 1fr 1fr;
     }
-  }
-
-  .nav--secondary .nav__listing {
-    grid-template-columns: 1fr 1fr;
   }
 
   @media only screen and (min-width: 44em) {
@@ -556,17 +558,19 @@ p + .metadata .separator {
 }
 
 @supports (display: grid) {
-  .homepage__content {
-    display: grid;
-    gap: .2em 1.2em;
-    grid-gap: .2em 1em;
-    grid-template-columns: 1fr;
-    max-width: $homepage-width;
-    margin-left: auto;
-    margin-right: auto;
+  @media only screen {
+    .homepage__content {
+      display: grid;
+      gap: .2em 1.2em;
+      grid-gap: .2em 1em;
+      grid-template-columns: 1fr;
+      max-width: $homepage-width;
+      margin-left: auto;
+      margin-right: auto;
 
-    & > * {
-      grid-column: 1;
+      & > * {
+        grid-column: 1;
+      }
     }
   }
 
@@ -614,5 +618,92 @@ p + .metadata .separator {
 
   .attribution-logo {
     font-size: 1.3em;
+  }
+}
+
+/* Print styles based on https://github.com/h5bp/html5-boilerplate */
+@media print {
+  *,
+  *::before,
+  *::after {
+    background: #fff !important;
+    /* Black prints faster */
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+
+  a[href]::after {
+    content: " (" attr(href) ")";
+  }
+
+  abbr[title]::after {
+    content: " (" attr(title) ")";
+  }
+
+  a[href^="#"]::after,
+  a[href^="javascript:"]::after {
+    content: "";
+  }
+
+  pre {
+    white-space: pre-wrap !important;
+  }
+
+  pre,
+  blockquote {
+    border: 1px solid #999;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  blockquote,
+  img,
+  p,
+  pre,
+  tr {
+    page-break-inside: avoid;
+  }
+
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+
+  html {
+    font-size: 14px;
+  }
+
+  .area-pages,
+  .dropdown--site-menu,
+  .homepage__nav,
+  .nav--secondary {
+    display: none;
+  }
+
+  .logo {
+    border: 0;
+  }
+
+  .logo__link {
+    padding-left: 0;
+    text-align: left;
+
+    &[href]::after {
+      content: "";
+    }
   }
 }
