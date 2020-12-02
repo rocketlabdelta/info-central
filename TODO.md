@@ -4,7 +4,7 @@
 - [ ] Prep for contributions
   - [x] Add CONTRIBUTING
   - [ ] Add LICENSE
-  - [ ] Add Licensing information to pages
+  - [x] Add Licensing information to pages
   - [x] Add code of conduct
 - [x] PWA
   - [x] Add service worker

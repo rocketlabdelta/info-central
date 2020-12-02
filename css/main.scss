@@ -134,6 +134,10 @@ summary {
   display: list-item;
 }
 
+blockquote {
+  font-style: italic;
+}
+
 .site-footer {
   max-width: $navigation-width;
 }
@@ -142,7 +146,6 @@ summary {
   margin: 1.5em 0;
   text-align: center;
 }
-
 
 .area-pages,
 .attribution {
@@ -155,20 +158,24 @@ summary {
   word-spacing: .15em;
 }
 
-.area-pages__link {
-  text-decoration: none;
+.area-pages {
+  margin-top: 2em;
+
+  @at-root #{&}__link {
+    text-decoration: none;
+  }
 }
 
 /* Site Components */
 .metadata {
-  margin-bottom: 1em;
-
   @at-root #{&}__archive {
     font-style: italic;
+    margin-bottom: 0;
   }
 
   @at-root #{&}__updated {
     font-style: italic;
+    margin-bottom: 0;
   }
 }
 
@@ -180,6 +187,10 @@ p + .metadata .separator {
   font-style: italic;
   padding-bottom: 6em;
   text-align: center;
+
+  @at-root #{&}__image {
+    display: block;
+  }
 }
 
 .skip {
