@@ -288,6 +288,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE.md
+  - netlify.toml
   - README.md
   - TODO.md
 #   - node_modules/
