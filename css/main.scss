@@ -168,6 +168,10 @@ blockquote {
 
 /* Site Components */
 .metadata {
+  @at-root #{&}__legal-notice {
+    font-style: italic;
+  }
+
   @at-root #{&}__archive {
     font-style: italic;
     margin-bottom: 0;

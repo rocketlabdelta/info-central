@@ -12,7 +12,7 @@
   - [x] Add Apple Touch Icon
   - [x] Add Favicon
   - [x] Ensure site meets requirements for Safari cache persistence
-- [ ] Add disclaimer to Legal section
+- [x] Add disclaimer to Legal section
 - [ ] Announce site re-launch!
 - [ ] Change page attribution metadata to be a templated value
 - [ ] Allow for full-width tables

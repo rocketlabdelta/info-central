@@ -1,5 +1,12 @@
 <div class="metadata">
   <p class="separator" aria-hidden="true">* * *</p>
+  {%- if page.collection == "regulation" -%}
+  <p class="metadata__legal-notice">
+    This information is provide for HISTORICAL REFERENCE ONLY.
+    INFOcentral is neither a reliable reference for current regulations nor a reliable source of legal advice.
+    Do your own research and consult a qualified attorney.
+  </p>
+  {%- endif -%}
   {%- if page.archive_page == "" or page.archive_page == nil -%}
   <p class="metadata__updated">
     This pages was last updated on {{ page.last_modified_at | date: '%Y-%m-%d' }}.
