@@ -287,6 +287,7 @@ exclude:
   - CONTRIBUTING.md
   - Gemfile
   - Gemfile.lock
+  - LICENSE.md
   - README.md
   - TODO.md
 #   - node_modules/

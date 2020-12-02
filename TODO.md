@@ -1,9 +1,9 @@
 # TODO
 
 - [x] Add README
-- [ ] Prep for contributions
+- [x] Prep for contributions
   - [x] Add CONTRIBUTING
-  - [ ] Add LICENSE
+  - [x] Add LICENSE
   - [x] Add Licensing information to pages
   - [x] Add code of conduct
 - [x] PWA
