@@ -13,7 +13,7 @@
   - [x] Add Favicon
   - [x] Ensure site meets requirements for Safari cache persistence
 - [x] Add disclaimer to Legal section
-- [ ] Announce site re-launch!
+- [x] Announce site re-launch!
 - [ ] Change page attribution metadata to be a templated value
 - [ ] Allow for full-width tables
 - [ ] Migrate & update the What's New section
