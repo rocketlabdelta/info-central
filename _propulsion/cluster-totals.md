@@ -7,7 +7,7 @@ contributors:
 It is important to know what the total impluse of a motor cluster is so you can figure out if it is within the proper thrust requirements or certification level.
 
 > _The logic behind this tool has been lost to time._
-> _Use a [simulation program][] instead._
+> _Use a [simulation program][1] instead._
 
 Submitted by: Ari Mahonen
 
