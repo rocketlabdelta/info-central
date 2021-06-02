@@ -276,7 +276,7 @@ p + .metadata .separator {
       outline: 1px solid $theme-overlay-color;
     }
 
-    &::-webkit-details-marker {
+    &::marker {
       display: none;
     }
   }
