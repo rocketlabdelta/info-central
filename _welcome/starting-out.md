@@ -17,6 +17,6 @@ Through a club, you’ll find out what kinds of rockets can be flown from their 
 This is a great way to advance because you can get direct help and feedback.
 
 The on-line community, primarily [Rocketry Online](http://www.rocketryonline.com) and the [rec.models.rockets](news:rec.models.rockets) newsgroup, provide a good forum to find out what other people are doing, get more information and ask questions.
-Take a look at the [rec.models.rockets FAQ](http://www.ninfinger.org/~sven/rockets/rmrfaq.toc.html).
+Take a look at the [rec.models.rockets FAQ](https://www.ninfinger.org/rockets/rmrfaq.toc.html).
 
 Submitted by: John Coker

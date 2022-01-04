@@ -9,7 +9,7 @@ These pages are just a quick introduction to the hobby. There is an immense amou
 - [Rocketry Online](http://www.rocketryonline.com) is the portal for rocketry.
   Make sure to browse right here on INFOcentral for much more in-depth information.
   The Forums provide a way to ask follow and participate in discussions on rocketry topics and to ask for help or more information.
-- The [rec.models.rockets FAQ](http://www.ninfinger.org/~sven/rockets/rmrfaq.toc.html) is detailed and well-organized.
+- The [rec.models.rockets FAQ](https://www.ninfinger.org/rockets/rmrfaq.toc.html) is detailed and well-organized.
   This is a great place to go after this page.
 - [Rocketry.org](http://www.rocketry.org) is a portal for amateur rocketry information.
   Start here for more information about amateur (experimental) rocketry.
