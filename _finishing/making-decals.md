@@ -11,10 +11,10 @@ Many people know that you can print your own decals from your computer, but the 
 
 What you need:
 
-- computer and drawing software (I use Adobe Illustrator 8.0' %}
+- computer and drawing software (I use Adobe Illustrator 8.0')
 - an [Alps micro-dry printer](http://www.alpsusa.com/printers/printers.html) such as the MD5000
-- decal film (available from[Scale Sports](http://www.detailmaster.com)' %}
-- decal set to "melt" the decal (available from hobby shops' %}
+- decal film (available from [Scale Sports](http://www.detailmaster.com)
+- decal set to "melt" the decal (available from hobby shops')
 
 {% picture path: '/images/alps_md1000.gif', class: 'picture--small' %}
 
