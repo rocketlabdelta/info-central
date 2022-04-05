@@ -4,6 +4,10 @@ ruby File.read('.ruby-version').chomp
 
 gem 'jekyll'
 
+group :development do
+  gem 'webrick'
+end
+
 group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-last-modified-at'
