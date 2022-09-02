@@ -9,6 +9,7 @@
   <meta name="description" content="{{ page.description }}" />{%- else -%}
   <meta name="description" content="{{ page.content | markdownify | strip_html | truncate: 40 }}" />{% endif %}{% if page.contubitors %}
   <meta name="author" content="{{ page.contributors | join: ',' }}" />{% endif %}
+  <script async src="https://cdn.splitbee.io/sb.js"></script>
   <link rel="preload" as="font" type="font/woff2" href="{{ "/fonts/red-hat-display.woff2" | absolute_url }}" crossorigin>
   <link rel="alternate" type="application/atom+xml" title="Info Central" href="/feed.xml" />
   <link rel="stylesheet" type="text/css" href="{{ "/css/main.css" | absolute_url }}?{% css_version %}">{%- if page.mathjax == true -%}
