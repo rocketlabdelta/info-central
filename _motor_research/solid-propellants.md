@@ -33,13 +33,13 @@ A core may be formed before curing or drilled/cut after curing.
 
 Most rocketeers who experiment with solid propellant, work with composite propellant, as it is fairly simple to make and presents less danger from accidental ignition than does blackpowder.
 
-The most commonly-used oxidizer in composite propellant may be ammonium perchlorate, NH4ClO4, also known as AP (composite propellant is sometimes--erroneously--referred to as AP).
+The most commonly-used oxidizer in composite propellant may be ammonium perchlorate, NH<sub>4</sub>ClO<sub>4</sub>, also known as AP (composite propellant is sometimes--erroneously--referred to as AP).
 AP produces the highest practical specific impulse obtained for typical experimental propellant, 140-250 seconds or so.
 It is relatively simple to use, ignites easily, has a reasonable burn rate, does not require a burn rate catalyst or a thermic agent, and is nonhygroscopic.
 Many AP compositions burn well only under pressure, and the motor must be designed to take this into account.
 The burn rate of most AP compositions means that they are best suited to coreburning, rather than endburning, motors.
 
-Ammonium nitrate (AN) is another oxidizer sometimes used in experimental motors.
+Ammonium nitrate (AN; NH<sub>4</sub>NO<sub>3</sub>) is another oxidizer sometimes used in experimental motors.
 AN compositions have lower specific impulse than comparable AP compositions.
 AN propellant is also less dense than AP propellant.
 A 29mm motor 10” long that uses AP propellant would likely be a full-H impulse motor.

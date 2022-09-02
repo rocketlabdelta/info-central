@@ -29,7 +29,7 @@ See below for information on Hypertek products.
 
 The above pciture shows the components of the Hypertek flight motor, consisting of only three major parts: the oxidizer tank, the injector end bell, and the combined furle grain/combustion chamber (called the “monolithic fuel grain”).
 
-Two years after Hypertek flew the world’s first N2O Hybrid rocket and following one year of BetaTesting, Tripoli Motor Testing has approved Hypertek hybrids for consumer use in High Power Rocketry.
+Two years after Hypertek flew the world’s first N<sub>2</sub>O Hybrid rocket and following one year of BetaTesting, Tripoli Motor Testing has approved Hypertek hybrids for consumer use in High Power Rocketry.
 The Hypertek hybrid motor was developed as a high tech, low cost alternative to the ancient technology of solid propellant rocket motors.
 Hybrid motors have several safety advantages over solids.
 The fuel and oxidizer are isolated from each other until just before ignition, thus eliminating the requirement for a low explosive permit during transportation and storage of rocket motors.
@@ -51,7 +51,7 @@ There are currently five different orifices available and more on the way.
 
 ## Technical Specifications
 
-| TMT Designation | Manufacturer Designation | Orifice (in) | Burn Time (sec) | Impulse (N-sec) | Full Wt. (lbs) | Fired Wt. (lbs) | N2O Wt. (lbs) | Dia. (in) | Length (in) |
+| TMT Designation | Manufacturer Designation | Orifice (in) | Burn Time (sec) | Impulse (N-sec) | Full Wt. (lbs) | Fired Wt. (lbs) | N<sub>2</sub>O Wt. (lbs) | Dia. (in) | Length (in) |
 |:---------------:|:------------------------:|:------------:|:---------------:|:---------------:|:--------------:|:---------------:|:-------------:|:---------:|:-----------:|
 | J100            | 440-076-J                | .076         | 6.7             | 683             | 2.86           | 1.90            | .75           | 2.125     | 24.2        |
 | J125            | 440-086-J                | .086         | 6.0             | 743             | 2.86           | 1.91            | .75           | 2.125     | 24.2        |
@@ -72,7 +72,7 @@ You get all this for $235 manufacturer’s suggested retail price.
 
 {% picture path: '/images/propulsion_hypertek4.jpg', caption: 'Complete Hypertek launch system' %}
 
-The Hypertek fueler/launcher system comes complete with: aluminum launch fill stem and adjustable mount, all necessary hoses and fittings, N2O and GOX solenoids, nitrous dump solenoid, GOX regulator, Hypertek custom launch controller, ignition transformer, operations manual, and instructional video for $550 manufacturer’s suggested retail price.
+The Hypertek fueler/launcher system comes complete with: aluminum launch fill stem and adjustable mount, all necessary hoses and fittings, N<sub>2</sub>O and GOX solenoids, nitrous dump solenoid, GOX regulator, Hypertek custom launch controller, ignition transformer, operations manual, and instructional video for $550 manufacturer’s suggested retail price.
 
 Submitted by: John Coker
 

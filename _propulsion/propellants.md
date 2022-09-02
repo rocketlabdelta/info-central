@@ -16,7 +16,7 @@ The rubber also serves as the fuel.
 Different additives can be used to create effects like sparks or colored flames.
 
 Another type of motor is a hyrbid.
-It uses a gas, like N2O (nitrous oxide) as the oxidizer (source of oxygen), and a solid material, like cellulose, as the fuel.
+It uses a gas, like N<sub>2</sub>O (nitrous oxide) as the oxidizer (source of oxygen), and a solid material, like cellulose, as the fuel.
 
 Submitted by: Dean A. Roth
 

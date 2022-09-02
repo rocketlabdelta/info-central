@@ -122,9 +122,9 @@ This glossary contains most of the words you will encounter among rocketeers, on
 
 **Amateur Rocketry** - Any and all rocketry activities other than model, mid-power or high-power, which is not funded by a professional entity, and not conducted for monetary purposes.
 
-**Ammonium Perchlorate** - (NH4CIO4) The oxidizer used in most composite rocket motors.
+**Ammonium Perchlorate** - (NH<sub>4</sub>CIO<sub>4</sub>) The oxidizer used in most composite rocket motors.
 
-**AN** - Ammonium Nitrate: a solid rocket oxidizer.
+**AN** - Ammonium Nitrate (NH<sub>4</sub>NO<sub>3</sub>): a solid rocket oxidizer.
 
 **Anemometer** - instrument used to measure the speed of an airflow.
 
@@ -737,7 +737,7 @@ Fd = ½ * Cd * r * S * v<sup>2</sup>
   (H through N range)
 
 **Hybrid** - A hybrid propellant rocket motor employs separated propellant ingredients in two different physical states (generally the fuel is a solid while the oxidizer is a liquid).
-  In one common design, pressurized liquefied nitrous oxide (N2O) is employed as the oxidizer while cellulose is utilized as the solid fuel.
+  In one common design, pressurized liquefied nitrous oxide (N<sub>2</sub>O) is employed as the oxidizer while cellulose is utilized as the solid fuel.
 
   Advantages of hybrid motors for HPR rockets include lower cost per flight than solid propellants, less restrictive shipping regulations and elimination of the need to comply with various aspects of the federal explosive laws that regulate the purchase and storage of large solid propellant rocket motors.
   Disadvantages include expensive and bulky ground support equipment, and a thrust/weight ratio that is generally somewhat lower than that provided by an AP motor.
@@ -993,7 +993,7 @@ For example, C6-3, in which C is the power range (5.01-10 Newtons), 6 is the ave
 
 **Nike Airfoil** - See Diamond Airfoil.
 
-**Nitrous Oxide** - (N2O)Gaseous oxidizer used in current hybrid rocket motors
+**Nitrous Oxide** - (N<sub>2</sub>O)Gaseous oxidizer used in current hybrid rocket motors
 
 **Nomex®** - A lightweight, fire-resistant Nylon fiber, originally woven into fireproof garments for fire fighters, race car drivers and astronauts.
   Also commonly used in aircraft upholstery.
